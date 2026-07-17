@@ -9,7 +9,8 @@ derfor kategorisiden først for å finne alle produkt-URLer, og besøker så
 hver produktside for beskrivelse, rabattprosent og ekstern partnerlenke.
 
 Kjør: python3 lofavor_medlemsfordeler.py [kategori-slug ...]
-Uten argumenter hentes "ferie-og-opplevelser".
+Uten argumenter hentes alle seks kategoriene på lofavor.no (se
+DEFAULT_CATEGORIES).
 Krever: pip install requests beautifulsoup4
 """
 
@@ -31,7 +32,14 @@ HEADERS = {
     )
 }
 
-DEFAULT_CATEGORIES = ["ferie-og-opplevelser"]
+DEFAULT_CATEGORIES = [
+    "forsikring",
+    "ferie-og-opplevelser",
+    "hus-og-hjem",
+    "bank",
+    "juridisk",
+    "ungdom",
+]
 
 
 
@@ -139,13 +147,22 @@ def main():
     categories = sys.argv[1:] or DEFAULT_CATEGORIES
 
     all_discounts = []
+    seen_pages = set()
     for slug in categories:
         print(f"Henter kategori '{slug}' ...")
         discounts = parse_category(slug)
-        print(f"  Fant {len(discounts)} produkter")
-        all_discounts.extend(discounts)
+        added = 0
+        for card in discounts:
+            # Noen produkter (typisk ungdomsvarianter) listes under flere
+            # kategorier - dedupliser på LOfavør-siden sin URL.
+            if card["lofavor_page"] in seen_pages:
+                continue
+            seen_pages.add(card["lofavor_page"])
+            all_discounts.append(card)
+            added += 1
+        print(f"  Fant {len(discounts)} produkter ({added} nye)")
 
-    print(f"\nFant totalt {len(all_discounts)} medlemsfordeler hos LOfavør")
+    print(f"\nFant totalt {len(all_discounts)} unike medlemsfordeler hos LOfavør")
 
     output = {
         "provider": "LOfavør",

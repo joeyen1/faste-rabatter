@@ -1,10 +1,275 @@
 {
   "provider": "LOfavør",
-  "source_page": "https://www.lofavor.no/ferie-og-opplevelser",
+  "source_page": "https://www.lofavor.no/forsikring",
   "categories": [
-    "ferie-og-opplevelser"
+    "forsikring",
+    "ferie-og-opplevelser",
+    "hus-og-hjem",
+    "bank",
+    "juridisk",
+    "ungdom"
   ],
   "discounts": [
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Advokatforsikring",
+      "discount_percentage": null,
+      "description": "Med LOfavør Advokatforsikring får du tilgang til advokathjelp fra HELP. Du betaler ingen timepris, kun forsikringspremien.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.help.no/min-side/",
+      "lofavor_page": "https://www.lofavor.no/juridisk/advokatforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Barneforsikring",
+      "discount_percentage": null,
+      "description": "En god barneforsikring gir deg og familien økonomisk støtte og trygghet hvis barnet ditt blir alvorlig sykt eller utsatt for en ulykke. Derfor har vi forhandlet frem medlemsfordeler på LOfavør Barneforsikring, levert av Fremtind.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/liv/kjop/login?inngang=barneforsikring&fromLO",
+      "lofavor_page": "https://www.lofavor.no/forsikring/barneforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Bilforsikring",
+      "discount_percentage": null,
+      "description": "Føl deg trygg på veien med en god forsikring på bilen. Du har medlemsfordel på bilforsikring levert av Fremtind! Kjøper du LOfavør Bilforsikring får du automatisk toppdekning til samme pris som kasko uten å betale noe ekstra og gratis leiebildekning.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/motor/bil?fromLO&cid=partner;;lofavor;;bilforsikring;;nettsted;;cta",
+      "lofavor_page": "https://www.lofavor.no/forsikring/bilforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Båtforsikring",
+      "discount_percentage": null,
+      "description": "Føl deg trygg på sjøen og nyt båtlivet med LOfavør Båtforsikring,levert av Fremtind. Som medlem av et LO-forbund får du automatisk toppdekning uten å betale noe ekstra.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/motor/baat?fromLo",
+      "lofavor_page": "https://www.lofavor.no/forsikring/batforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Campingvogn- og tilhengerforsikring",
+      "discount_percentage": null,
+      "description": "Med forsikring på campingvogn og tilhenger har du ekstra trygghet med på lasset. Du har medlemsfordel på LOfavør Campingvogn- og tilhengerforsikring levert av Fremtind!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/motor/tilhenger/?type=CAMPINGVOGN&fromLO",
+      "lofavor_page": "https://www.lofavor.no/forsikring/campingvogn--og-tilhengerforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Egen pensjonskonto",
+      "discount_percentage": null,
+      "description": "Egen pensjonskonto (EPK) er en individuell pensjonskonto hvor du har mulighet til å samle pensjonskapital fra nåværende og tidligere arbeidsforhold på ett sted. Du kan selv velge om du vil ha pensjonskonto hos din arbeidsgivers pensjonsleverandør, eller om du ønsker å ha din pensjonskonto hos en annen leverandør. Du kan få medlemsfordeler på din arbeidsgivers innskuddspensjon hos SpareBank1. Med LOfavør Egen pensjonskonto, får du lave gebyrer, god rådgivning, bærekraftig forvaltning og enkel oversikt.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/pensjon/sl/start?cid=partner;;lofavor;;epk;;nettsted;;cta",
+      "lofavor_page": "https://www.lofavor.no/bank/egen-pensjonskonto"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Fritidshusforsikring",
+      "discount_percentage": null,
+      "description": "Stadig flere nordmenn gjør hyttedrømmen til virkelighet. Du har medlemsfordel på hytteforsikring levert av Fremtind. Kjøper du LOfavør Fritidshusforsikring får du automatisk toppdekning uten å betale noe ekstra.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/hytte?fromlo",
+      "lofavor_page": "https://www.lofavor.no/forsikring/fritidshusforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Hund- og katteforsikring",
+      "discount_percentage": null,
+      "description": "Du har medlemsfordel på hund- og katteforsikring levert av Fremtind. Hunder og katter har en naturlig plass i familielivet, men det kan fort bli dyrt om de skader seg eller blir syke.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/skade/kjaeledyr/hund?fromLO",
+      "lofavor_page": "https://www.lofavor.no/forsikring/hund--og-katteforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Husforsikring",
+      "discount_percentage": null,
+      "description": "Bor du i hus, trenger du husforsikring. Du har medlemsfordel på husforsikring levert av Fremtind. Kjøper du LOfavør Husforsikring får du automatisk toppdekning uten å betale noe ekstra.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/hus/?fromlo",
+      "lofavor_page": "https://www.lofavor.no/forsikring/husforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Kritisk sykdom",
+      "discount_percentage": null,
+      "description": "En alvorlig sykdom kan føre til dramatiske endringer i livssituasjonen. Derfor har vi forhandlet frem medlemsfordeler på LOfavør Kritisk sykdom, levert av Fremtind.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/liv/kjop/login?inngang=kritisksykdom&fromLO",
+      "lofavor_page": "https://www.lofavor.no/forsikring/kritisk-sykdom"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Livsforsikring",
+      "discount_percentage": null,
+      "description": "Mange familier baserer privatøkonomien på mer enn én inntekt. En livsforsikring kan hjelpe deg og dine økonomisk dersom en av forsørgerne skulle gå bort. Du har medlemsfordeler på LOfavør Livsforsikring, levert av Fremtind.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/liv/kjop/login?inngang=livsforsikring&fromLO",
+      "lofavor_page": "https://www.lofavor.no/forsikring/livsforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Mopedforsikring",
+      "discount_percentage": null,
+      "description": "Føl deg trygg på veien med en godt forsikret moped. Du har medlemsfordel på LOfavør Mopedforsikring, levert av Fremtind.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/motor/moped?fromLo",
+      "lofavor_page": "https://www.lofavor.no/forsikring/mopedforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Motorsykkelforsikring",
+      "discount_percentage": null,
+      "description": "Føl deg trygg på veien med en god MC-forsikring. Du har medlemsfordel på LOfavør Motorsykkelforsikring, levert av Fremtind.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/motor/mc?fromLo",
+      "lofavor_page": "https://www.lofavor.no/forsikring/motorsykkelforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Pensjonskapitalbevis",
+      "discount_percentage": null,
+      "description": "LOfavør Pensjonskapitalbevis er alternativet for deg som har fått pensjonskapitalbevis fra tidligere arbeidsforhold med innskuddspensjon. Du har medlemsfordeler på LOfavør Pensjonskapitalbevis, levert av SpareBank 1. LOfavør Pensjonskapitalbevis passer også for deg som ikke ønsker å slå sammen pensjon du har tjent opp i tidligere jobber til egen pensjonskonto, men holde nåværende og tidligere opptjening fra hverandre.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/pensjon/kjop/pkb?org=lo&cid=partner;;lofavor;;pkbforsikring;;nettsted;;cta",
+      "lofavor_page": "https://www.lofavor.no/forsikring/pensjonskapitalbevis"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Reiseforsikring",
+      "discount_percentage": null,
+      "description": "Alle som skal ut og reise trenger en god reiseforsikring. Med LOfavør Reiseforsikring er du dekket på reisen, og forsikringen gjelder idet du går ut døra. Du kan velge om den skal gjelde kun for deg eller hele familien.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/forsikring/reiseforsikring/lofavor-reiseforsikring.html",
+      "lofavor_page": "https://www.lofavor.no/forsikring/reiseforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Snøscooterforsikring",
+      "discount_percentage": null,
+      "description": "Føl deg trygg med en godt forsikret snøscooter. Du har medlemsfordel på LOfavør Snøscooterforsikring, levert av Fremtind.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/forsikring/snoscooterforsikring.html?cid=partner;;lofavor;;snoscooterforsikring;;nettsted;;cta",
+      "lofavor_page": "https://www.lofavor.no/forsikring/sn%C3%B8scooterforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Student- og lærlingforsikring",
+      "discount_percentage": null,
+      "description": "LOfavør Student- og lærlingsforsikring er en super forsikringspakke som inneholder både reise- og ulykkesforsikring levert av Fremtind for kun 1184 kroner i året. Dette er en gunstig forsikring for deg som er student eller lærling.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/student?fromlo",
+      "lofavor_page": "https://www.lofavor.no/student-og-laerlingforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Uførekapital",
+      "discount_percentage": null,
+      "description": "Det er viktig å tenke på hva som skjer med inntekten din dersom du blir ufør. Du har medlemsfordeler på LOfavør Uførekapital, levert av Fremtind.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/liv/kjop/login?inngang=uforeforsikring&fromLO",
+      "lofavor_page": "https://www.lofavor.no/forsikring/uforekapital"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Uførepensjon",
+      "discount_percentage": null,
+      "description": "En uførepensjon kan gi deg økonomisk trygghet ved inntektstap slik at du kan opprettholde en god levestandard. Du har medlemsfordeler på LOfavør Uførepensjon, levert av Fremtind.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/liv/kjop/login?inngang=uforeforsikring&fromLO",
+      "lofavor_page": "https://www.lofavor.no/forsikring/uforepensjon"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Ulykkesforsikring",
+      "discount_percentage": null,
+      "description": "Med LOfavør Ulykkesforsikring får hele familien økonomisk hjelp om noe skulle skje. Ulykker rammer tilfeldig, som oftest i hjemmet eller på fritiden. I tillegg til varige mén, kan den som blir rammet og familien oppleve store endringer i privatøkonomien.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/liv/kjop/login?inngang=ulykkesforsikring",
+      "lofavor_page": "https://www.lofavor.no/forsikring/ulykkesforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Verdisakforsikring",
+      "discount_percentage": null,
+      "description": "Du har medlemsfordel på LOfavør Verdisakforsikring, levert av Fremtind. Eier du verdifulle gjenstander som betyr mye for deg, som for eksempel bunad, kunst, smykke, sportsutstyr eller musikkinstrumenter? Da er det viktig å sjekke om du trenger verdisakforsikring.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/forsikring/verdisakforsikring.html",
+      "lofavor_page": "https://www.lofavor.no/forsikring/verdisakforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Innboforsikring",
+      "discount_percentage": null,
+      "description": "Du har Norges beste innboforsikring som del av medlemskapet ditt*! Forsikringen leveres av Fremtind. Om du har innboforsikring i et annet selskap i tillegg, bør du si opp denne. For selv om du har to innboforsikringer, vil du kun få én erstatning hvis noe skulle skje. Vår samarbeidspartner Fremtind kan hjelpe deg med å si opp denne her",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kundeforsikring.sparebank1.no/privat/forsikring/oversikt?fromLO",
+      "lofavor_page": "https://www.lofavor.no/forsikring/innboforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Grunnforsikring",
+      "discount_percentage": null,
+      "description": "Mange forbund sørger for at etterlatte får økonomisk støtte ved dødsfall, uansett dødsårsak. LOfavør Grunnforsikring, levert av Fremtind, er en engangsutbetaling ved dødsfall som omfatter både deg som medlem, din ektefelle/samboer, samt hjemmeboende og ugifte barn under 21 år.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://nettskjema.fremtind.no/skjema/katalog/forsikringskrav-dodsfall",
+      "lofavor_page": "https://www.lofavor.no/forsikring/grunnforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Gruppeforsikringer",
+      "discount_percentage": null,
+      "description": "Mange forbund har kollektive forsikringer, levert av Fremtind som en del av medlemskapet. En gruppeforsikring kan gi erstatning ved uførhet, dødsfall, ulykke og kritisk sykdom. Forsikringen utbetales i tillegg til andre forsikringsordninger du har.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://meldskade.fremtind.no/app/meldskade/#/velkommen?company=sb1&redirect=%2Fapp%2Fmeldskade%2Fdegogdine",
+      "lofavor_page": "https://www.lofavor.no/forsikring/gruppeforsikring"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Fagforbundets stønadskasse",
+      "discount_percentage": null,
+      "description": "Fagforbundets stønadskasse, levert av Fremtind gir familien din økonomisk førstehjelp når medlemmet går bort. Du kan melde dødsfall uansett hvilken relasjon du hadde til den avdøde, og uansett hvilken type livsforsikring han eller hun hadde.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://nettskjema.fremtind.no/skjema/katalog/forsikringskrav-dodsfall",
+      "lofavor_page": "https://www.lofavor.no/forsikring/fagforbundets-stonadskasse"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Fritidsulykkesforsikring",
+      "discount_percentage": null,
+      "description": "Mange ulykker skjer på fritiden. Med LOfavør Fritidsulykkeforsikring, levert av Fremtind, har ditt forbund sørget for at du som medlem kan få både behandlinger og økonomisk hjelp hvis du skader deg på fritiden.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://meldskade.fremtind.no/app/meldskade/#/velkommen?company=sb1&redirect=%2Fapp%2Fmeldskade%2Fdegogdine",
+      "lofavor_page": "https://www.lofavor.no/forsikring/fritidsulykkeforsikring"
+    },
     {
       "provider": "LOfavør",
       "retailer": "Feriereiser",
@@ -167,13 +432,213 @@
     },
     {
       "provider": "LOfavør",
-      "retailer": "LOfavør Reiseforsikring",
+      "retailer": "Salg av bolig",
       "discount_percentage": null,
-      "description": "Alle som skal ut og reise trenger en god reiseforsikring. Med LOfavør Reiseforsikring er du dekket på reisen, og forsikringen gjelder idet du går ut døra. Du kan velge om den skal gjelde kun for deg eller hele familien.",
+      "description": "Du har medlemsfordeler ved salg av bolig eller fritidseiendom gjennom EiendomsMegler 1. Med trygghetsgarantien får du større forutsigbarhet når du skal selge bolig eller fritidseiendom.",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.sparebank1.no/nb/bank/privat/forsikring/reiseforsikring/lofavor-reiseforsikring.html",
-      "lofavor_page": "https://www.lofavor.no/forsikring/reiseforsikring"
+      "source_url": "https://www.eiendomsmegler1.no/selge/lo-favor?cid=partner;;lofavor;;em1felles_lofavor;;nettside",
+      "lofavor_page": "https://www.lofavor.no/hus-og-hjem/salg-av-bolig"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Salg av bolig Ung",
+      "discount_percentage": null,
+      "description": "Er du på flyttefot? Skal du for eksempel selge leiligheten og flytte inn i hus? Da er det godt å vite at du har medlemsfordeler ved salg av bolig gjennom EiendomsMegler 1. Med trygghetsgarantien får du større forutsigbarhet når du skal selge bolig.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.eiendomsmegler1.no/selge/lo-favor/ung?cid=partner;;lofavor;;em1felles_lofavor-ung;;nettside",
+      "lofavor_page": "https://www.lofavor.no/hus-og-hjem/salg-av-bolig-ung"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Strøm",
+      "discount_percentage": null,
+      "description": "Strøm er en viktig del av hverdagen vår, men å velge en god strømavtale er ikke nødvendigvis så enkelt. Derfor har vi fremforhandlet medlemsfordeler hos Fjordkraft.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.fjordkraft.no/lofavor/?utm_source=lo&utm_medium=web&utm_campaign=medlemsfordel&utm_id=lofavor",
+      "lofavor_page": "https://www.lofavor.no/hus-og-hjem/strom"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Ny medlemsfordel - begravelsesbyrå gjennom LOfavør",
+      "discount_percentage": null,
+      "description": "Når et dødsfall inntreffer, ønsker de fleste å snakke med et begravelsesbyrå raskt. Spørsmålene er mange og mye skal avklares på kort tid. Som medlem får du fordeler hos Fonus begravelsesbyrå. Deres telefon er betjent hele døgnet, også i helger.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://fonus.no/medlemsfordeler-og-samarbeid/lofavor/",
+      "lofavor_page": "https://www.lofavor.no/hus-og-hjem/begravelsesbyraa"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Boliglån",
+      "discount_percentage": null,
+      "description": "Som medlem kan du få god rente på boliglån gjennom vår avtale med SpareBank 1 Sør-Norge, SpareBank 1 Østlandet og SpareBank 1 SMN I tillegg til en konkurransedyktig rente over tid, får du gode råd på veien fra deres dyktige økonomiske rådgivere. Sjekk deres boliglånskalkulator for å se hvor mye du kan låne og hva det vil koste deg. Det er helt uforpliktende å be om et tilbud og det kan være mye penger å spare.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/sor-norge/privat/lan/boliglan/lofavor-boliglan.html?cid=partner;;lofavor;;bl;;nettside;;cta",
+      "lofavor_page": "https://www.lofavor.no/bank/boliglan"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Boliglån Ung",
+      "discount_percentage": null,
+      "description": "For deg som er under 34 år har vi fremforhandlet en av Norges beste boliglån for ungdom og unge gjennom avtalen med SpareBank 1 Østlandet, SpareBank 1 SMN og SpareBank 1 Sør-Norge. Som medlem får du ikke bare lavere rente og gode betingelser, men også verdifulle råd fra dyktige økonomiske rådgivere. Boliglånsrentene har økt mye i det siste. Da er det lurt å passe på at du ikke betaler for mye for boliglånet ditt. For når rentene er høye er det også ekstra mye å spare. Sjekk SpareBank 1 sin boliglånskalkulator for å se hvor mye du kan låne og hva det vil koste deg. Det er helt uforpliktende å be om et tilbud.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/ostlandet/privat/lan/boliglan/lofavor-boliglan-ung.html?cid=partner;;lofavor;;blu;;nettsted;;cta",
+      "lofavor_page": "https://www.lofavor.no/bank/boliglan-ung"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Førstehjemslån",
+      "discount_percentage": null,
+      "description": "Med LOfavør Førstehjemslån får du ekstra lav rente når du kjøper din første bolig – uansett alder! Vi tilbyr en av Norges beste boliglånsrenter på førstehjemslån gjennom vår avtale med SpareBank 1 SMN, SpareBank 1 Sør-Norge og SpareBank 1 Østlandet. I tillegg til en konkurransedyktig rente over tid, får du gode råd på veien fra deres dyktige økonomiske rådgivere. Sjekk deres boliglånskalkulator for å se hvor mye du kan låne og hva boliglånet vil koste deg. Det er helt uforpliktende å be om et tilbud.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/smn/privat/lan/boliglan/lofavor-forstehjemslan.html?cid=partner;;lofavor;;fhl;;nettside;;cta",
+      "lofavor_page": "https://www.lofavor.no/bank/forstehjemslan"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Flexilån",
+      "discount_percentage": null,
+      "description": "Som medlem får du medlemsfordeler på flexilån fra SpareBank 1. Flexilån er et fleksibelt boliglån, også kalt rammelån.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/lan/boliglan/lofavor-flexilan.html?cid=partner;;lofavor;;bfx;;nettsted;;cta",
+      "lofavor_page": "https://www.lofavor.no/bank/flexilan"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør BSU - Boligsparing for ungdom",
+      "discount_percentage": null,
+      "description": "Mange drømmer om å eie egen bolig. For å oppnå denne drømmen er det smart å starte sparingen tidlig. Du som er under 34 år får medlemsfordel på BSU-sparing i SpareBank 1.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/sparing/spare-pa-konto/bsu.html?cid=partner;;lofavor;;bsu;;nettsted;;cta#lofavor",
+      "lofavor_page": "https://www.lofavor.no/bank/bsu"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Depositumslån",
+      "discount_percentage": null,
+      "description": "Skal du leie leilighet, men mangler penger til depositumet? Med LOfavør Depositumlån kan du låne pengene du mangler i SpareBank 1.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/lofavor/lofavor-depositumslan.html",
+      "lofavor_page": "https://www.lofavor.no/bank/depositumslan"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Billån",
+      "discount_percentage": null,
+      "description": "Skal du kjøpe bil, krever det ofte en form for finansering. Et billån kan bidra til å gjøre bilkjøpet mulig. Som medlem får du rabatt på billånet ditt, uavhengig av om du kjøper ny eller brukt bil. Sjekk ut billånskalkulatoren og se hva lånet vil koste deg basert på egenkapital, nedbetalingspris og pris på bilen. Rådgivere i SpareBank 1 hjelper deg slik at du får utnyttet medlemsfordelene best mulig.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/lan/billan.html?cid=partner;;lofavor;;billan;;nettsted;;cta#lofavor",
+      "lofavor_page": "https://www.lofavor.no/bank/billan"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Billån Ung",
+      "discount_percentage": null,
+      "description": "Du som er mellom 18-34 år får ekstra gode medlemsfordeler på billån, uavhengig av om du kjøper ny eller brukt bil. Det stilles ingen krav til egenkapital. Sjekk ut vår samarbeidspartner SpareBank 1s billånskalkulator og se hva det vil koste deg.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/lan/billan/billan-for-unge.html?cid=partner;;lofavor;;billan;;nettsted;;cta#lofavor",
+      "lofavor_page": "https://www.lofavor.no/bank/billan-ung"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Brukskonto Ung",
+      "discount_percentage": null,
+      "description": "Du som er medlem og mellom 18-34 år får fordeler på Brukskonto Ung fra vår samarbeidspartner SpareBank 1. Brukskonto er kontoen du bruker til daglig. Det er vanligvis her lønnen din kommer inn og regningene blir trukket fra.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/lofavor.html?cid=partner;;lofavor;;bruks-sparekonto;;nettsted;;cta#lofavor",
+      "lofavor_page": "https://www.lofavor.no/bank/brukskonto-ung"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Bruks- og sparekonto",
+      "discount_percentage": null,
+      "description": "Som medlem får du gunstig rente på pengene og gode råd om økonomien din og gratis rådgivning om økonomien din.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/lofavor.html?cid=partner;;lofavor;;bruks-sparekonto;;nettsted;;cta#lofavor",
+      "lofavor_page": "https://www.lofavor.no/bank/bruks--og-sparekonto"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Grønne lån",
+      "discount_percentage": null,
+      "description": "Som medlem kan du nå få ekstra god rente ved å velge miljøvennlige alternativer. Grønne lån som, Miljølån og Grønt boliglån, tilbys deg som skal kjøpe bolig med høy miljøstandard, eller for deg som vil låne penger til miljøvennlige og energibesparende løsninger i hjemmet. I tillegg til en konkurransedyktig rente over tid, får du gode råd på veien fra dyktige økonomiske rådgivere i SpareBank 1.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/ostlandet/privat/lofavor.html?cid=partner;;lofavor;;gbl;;nettsted;;cta#nyhet",
+      "lofavor_page": "https://www.lofavor.no/bank/gronne-lan"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Mastercard",
+      "discount_percentage": null,
+      "description": "Som medlem får du gode medlemsfordeler på LOfavør Mastercard, levert av SpareBank 1. Betaler du med LOfavør Mastercard kan du få dekket egenandel ved skade på leiebil med inntil 12 000 kroner og hvis du blir forhindret fra å dra på en konsert, kultur- eller sportsarrangement, kan du få dekket prisen for opptil 5 underholdningsbilletter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.lo.no/bli-medlem/",
+      "lofavor_page": "https://www.lofavor.no/bank/lofavor-mastercard"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Mastercard Ung",
+      "discount_percentage": 20,
+      "description": "Du som er mellom 18-34 år får ekstra gode medlemsfordeler på LOfavør Mastercard Ung, levert av SpareBank 1. Betaler du med LOfavør Mastercard Ung får du 20 % rabatt på strømmetjenester og du kan få dekket prisen for opptil 5 underholdningsbilletter hvis du blir forhindret fra å dra på en konsert, kultur- eller sportsarrangement.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.lo.no/bli-medlem/",
+      "lofavor_page": "https://www.lofavor.no/bank/lofavor-mastercard-ung"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Konfliktlån",
+      "discount_percentage": null,
+      "description": "Konfliktlån kan være aktuelt hvis du blir økonomisk rammet på grunn av en konflikt på arbeidsplassen. Ved lovlig arbeidskonflikt får du som medlem LOfavør Konfliktlån - til boliglånsrente",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/lofavor.html?cid=partner;;lofavor;;blv;;nettsted;;andrebanker",
+      "lofavor_page": "https://www.lofavor.no/bank/konfliktlan"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Refinansiering",
+      "discount_percentage": null,
+      "description": "Du har medlemsfordel på LOfavør Refinansiering, levert av SpareBank 1.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.lo.no/bli-medlem/",
+      "lofavor_page": "https://www.lofavor.no/bank/refinansiering"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Sparekonto Pluss",
+      "discount_percentage": null,
+      "description": "Som medlem får du en god rente på sparekonto gjennom vår avtale med SpareBank 1 Sør-Norge, SpareBank 1 SMN og SpareBank 1 Østlandet. I tillegg til en høy rente på sparingen, får du gode råd på veien fra deres dyktige økonomiske rådgivere.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/sor-norge/privat/sparing/spare-pa-konto/lofavor-sparekonto-pluss.html?cid=partner;;lofavor;;skp;;nettside;;cta",
+      "lofavor_page": "https://www.lofavor.no/bank/sparekonto"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Advokatbistand",
+      "discount_percentage": null,
+      "description": "For deg som ikke har LOfavør Advokatforsikring, har vi fremforhandlet rabattert timepris på advokathjelp hos Advokatfirmaet Legalis.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://legalis.no/priser?medlem=lofavor",
+      "lofavor_page": "https://www.lofavor.no/juridisk/advokatbistand"
     }
   ]
 }

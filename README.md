@@ -42,18 +42,17 @@ python3 combine.py
 Dette overskriver `webapp/data/discounts.json` med ferske tall. Kjør dette
 manuelt når du vil ha oppdaterte rabatter (f.eks. en gang i måneden).
 
-### LOfavør dekker foreløpig bare "Ferie og opplevelser"
+### LOfavør henter alle seks kategoriene
 
-`lofavor_medlemsfordeler.py` henter kun kategorien `ferie-og-opplevelser` som
-standard (17 tilbud). LOfavør har flere kategorier (Forsikring, Bank, Bolig,
-Juridisk m.fl.) – for å hente flere, kjør skriptet med kategori-slugene som
-argumenter, f.eks.:
+`lofavor_medlemsfordeler.py` henter som standard alle kategoriene på
+lofavor.no (Forsikring, Ferie og opplevelser, Hus og hjem, Bank, Juridisk,
+Ung) – til sammen 63 tilbud. "Ung"-kategorien overlapper stort sett med de
+andre og deduplideres automatisk (samme produktside listet flere steder).
+Vil du bare hente noen få kategorier, gi kategori-slugene som argumenter:
 
 ```bash
-python3 lofavor_medlemsfordeler.py ferie-og-opplevelser forsikring bank
+python3 lofavor_medlemsfordeler.py ferie-og-opplevelser bank
 ```
-
-(finn slug-navnet i URL-en til hver kategoriside på lofavor.no)
 
 ### Elbilforeningen er et unntak
 
@@ -116,9 +115,9 @@ Hvert rabatt-objekt i `discounts.json` ser slik ut:
   filtrert bort.
 - **USBL**: 58 rabatter, vanlig HTML-scraping.
 - **Elbilforeningen**: 34 rabatter, manuelt vedlikeholdt (se over).
-- **LOfavør**: 17 rabatter (kun "Ferie og opplevelser" foreløpig, se over).
-  Ekstern lenke hentes fra CTA-knappen på produktsiden; noen produkter mangler
-  denne og lenker da til selve LOfavør-siden i stedet.
+- **LOfavør**: 63 rabatter fra alle seks kategoriene (se over). Ekstern lenke
+  hentes fra CTA-knappen på produktsiden; noen produkter mangler denne og
+  lenker da til selve LOfavør-siden i stedet.
 - Prosentsatser er hentet med regex fra beskrivelsesteksten og kan mangle
   for tilbud som ikke er rene prosent-rabatter (f.eks. faste kronebeløp,
   "2 for 1", rentefordeler).
