@@ -1,8 +1,8 @@
 # Faste Rabatter
 
-En app for å søke opp faste medlemsrabatter fra DNB, OBOS, Elbilforeningen og
-USBL på ett sted. Kjører som en PWA (nettapp) du legger til på hjemskjermen
-på iPhone – ingen App Store, ingen Xcode.
+En app for å søke opp faste medlemsrabatter fra DNB, OBOS, Elbilforeningen,
+USBL og LOfavør på ett sted. Kjører som en PWA (nettapp) du legger til på
+hjemskjermen på iPhone – ingen App Store, ingen Xcode.
 
 ## Slik virker det
 
@@ -17,6 +17,7 @@ på iPhone – ingen App Store, ingen Xcode.
 dnb_faste_rabatter.py            → dnb_faste_rabatter.json
 obos_medlemsfordeler.py          → obos_medlemsfordeler.json
 usbl_medlemsfordeler.py          → usbl_medlemsfordeler.json
+lofavor_medlemsfordeler.py       → lofavor_medlemsfordeler.json
 elbilforeningen_medlemsfordeler.json   (manuelt vedlikeholdt, se under)
                 ↓
             combine.py
@@ -34,11 +35,25 @@ pip install requests beautifulsoup4
 python3 dnb_faste_rabatter.py
 python3 obos_medlemsfordeler.py
 python3 usbl_medlemsfordeler.py
+python3 lofavor_medlemsfordeler.py
 python3 combine.py
 ```
 
 Dette overskriver `webapp/data/discounts.json` med ferske tall. Kjør dette
 manuelt når du vil ha oppdaterte rabatter (f.eks. en gang i måneden).
+
+### LOfavør dekker foreløpig bare "Ferie og opplevelser"
+
+`lofavor_medlemsfordeler.py` henter kun kategorien `ferie-og-opplevelser` som
+standard (17 tilbud). LOfavør har flere kategorier (Forsikring, Bank, Bolig,
+Juridisk m.fl.) – for å hente flere, kjør skriptet med kategori-slugene som
+argumenter, f.eks.:
+
+```bash
+python3 lofavor_medlemsfordeler.py ferie-og-opplevelser forsikring bank
+```
+
+(finn slug-navnet i URL-en til hver kategoriside på lofavor.no)
 
 ### Elbilforeningen er et unntak
 
@@ -101,6 +116,9 @@ Hvert rabatt-objekt i `discounts.json` ser slik ut:
   filtrert bort.
 - **USBL**: 58 rabatter, vanlig HTML-scraping.
 - **Elbilforeningen**: 34 rabatter, manuelt vedlikeholdt (se over).
+- **LOfavør**: 17 rabatter (kun "Ferie og opplevelser" foreløpig, se over).
+  Ekstern lenke hentes fra CTA-knappen på produktsiden; noen produkter mangler
+  denne og lenker da til selve LOfavør-siden i stedet.
 - Prosentsatser er hentet med regex fra beskrivelsesteksten og kan mangle
   for tilbud som ikke er rene prosent-rabatter (f.eks. faste kronebeløp,
   "2 for 1", rentefordeler).

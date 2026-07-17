@@ -14,6 +14,7 @@
   --obos: #e8532a;
   --usbl: #7c4dff;
   --elbil: #2eb872;
+  --lofavor: #c9a227;
 }
 
 @media (prefers-color-scheme: light) {
@@ -194,6 +195,7 @@ main {
 .badge.provider-OBOS { background: color-mix(in srgb, var(--obos) 20%, transparent); color: var(--obos); }
 .badge.provider-USBL { background: color-mix(in srgb, var(--usbl) 20%, transparent); color: var(--usbl); }
 .badge.provider-Elbilforeningen { background: color-mix(in srgb, var(--elbil) 20%, transparent); color: var(--elbil); }
+.badge.provider-LOfavør { background: color-mix(in srgb, var(--lofavor) 20%, transparent); color: var(--lofavor); }
 
 .empty-state {
   text-align: center;

@@ -1,0 +1,179 @@
+{
+  "provider": "LOfavør",
+  "source_page": "https://www.lofavor.no/ferie-og-opplevelser",
+  "categories": [
+    "ferie-og-opplevelser"
+  ],
+  "discounts": [
+    {
+      "provider": "LOfavør",
+      "retailer": "Feriereiser",
+      "discount_percentage": null,
+      "description": "Du har medlemsfordeler på feriereiser! Som medlem får du alltid 350 kroner i rabatt per person på alle charterreiser med fly og hotell fra Apollo. I tillegg har du en gratis ombooking og kan endre navn på billetten uten kostnad. Bruk rabattkode LOF275 ved ordinær bestilling. OBS! Ved kampanjer er det andre rabattkoder som gjelder, se etter kode i kampanjeboks.",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.apollo.no/billige-reiser/lofavor",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-fritid/feriereiser"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Hurtigruten",
+      "discount_percentage": 10,
+      "description": "Drømmer du om å se majestetiske fjorder, fjell, øyer og fosser fra orkesterplass? Som medlem får du 10 % i medlemsrabatt på Hurtigrutens reiser langs norskekysten!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.hurtigruten.com/nb-no/om-oss/samarbeider/lofavor",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-opplevelser/hurtigruten"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Leiebil",
+      "discount_percentage": 10,
+      "description": "Som medlem får du alltid 10 % i rabatt på leiebil fra Hertz i hele verden og bistand fra et norsk kundesenter ved behov.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.hertz.no/p/partner/lofavor",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-opplevelser/leiebil"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Leiebil Student",
+      "discount_percentage": null,
+      "description": "Som student- eller lærlingmedlem får du ekstra gode medlemsfordeler på leiebil fra Hertz i Norge og Europa.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://link.hertz.com/link.html?id=67312&LinkType=HZLK",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-opplevelser/leiebil-student"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Strawberry",
+      "discount_percentage": null,
+      "description": "Som medlem får du alltid gode medlemstilbud på overnatting på alle Strawberry hoteller i Skandinavia og Baltikum.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.strawberry.no/kampanjer-og-tilbud/lo-favor-15/?utm_medium=partnerships&utm_source=partnerships&utm_campaign=LPA&utm_content=lo-favor-15",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-fritid/strawberry"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Strawberry Student- og lærlingtilbud",
+      "discount_percentage": null,
+      "description": "Som student- eller lærlingmedlem får du ekstra gode medlemsfordeler på Comfort- og Quality hotellene",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.strawberry.no/kampanjer-og-tilbud/lofavor_student/?utm_medium=partnerships&utm_source=partnerships&utm_campaign=LPA&utm_content=lofavor_student",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-fritid/strawberry-student--og-l%C3%A6rlingtilbud"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Norsk Folkehjelp",
+      "discount_percentage": null,
+      "description": "Vi er stolt samarbeidspartner av Norsk Folkehjelp. De er en viktig aktør i den norske redningstjenesten, med over 70 redningsgrupper og 2 000 mannskaper som årlig deltar i over 400 lete- og redningsaksjoner. Støtt deres viktige arbeid, meld deg inn og få en gratis førstehjelpsveske!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://folkehjelp.no/lofav%C3%B8r",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-fritid/norsk-folkehjelp"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Scandic Hotels",
+      "discount_percentage": null,
+      "description": "Som medlem får du rabatt på Scandic hoteller i Norge og Europa. Koble av med en god natts søvn og våkne til Norges beste frokost. De har nærmere 270 hoteller i seks land, fra Nordkapp i nord til Frankfurt i sør.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.scandichotels.com/no/hotelltilbud/lofavor",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-opplevelser/scandic-hotels"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Det Norske Teatret",
+      "discount_percentage": null,
+      "description": "Som medlem får du rabatt på inntil 4 billettar per framsyning* på Det Norske Teatret. Teatret byr på klassiske og moderne stykker, musikalar, komedier og drama – for deg og heile familien",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.detnorsketeatret.no/framsyningar/pippi-pa-sirkus",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-opplevelser/det-norske-teateret"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Riksteatret",
+      "discount_percentage": 20,
+      "description": "Som medlem får du 20 % rabatt på inntil 4 billetter per forestillinger på Riksteatret. Riksteatret sørger for at folk i hele landet skal ha tilgang til scenekunst av høy kvalitet – samme hvor i landet de bor.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.riksteatret.no/",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-opplevelser/riksteatret"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Notodden Blues Festival",
+      "discount_percentage": null,
+      "description": "Europas beste bluesopplevelse! Arrangeres nå for 38. gang fra 30. juli til 2. august 2026. Gjennom årene har festivalen tiltrukket både etablerte legender og nye talenter fra hele verden, og den har spilt en viktig rolle i å bevare bluesens tradisjoner samtidig som den har vært en arena for nytolkning og eksperimentering. Med sin unike beliggenhet i Notoddens historiske industrimiljø har festivalen skapt en autentisk og uforglemmelig opplevelse som forener mennesker på tvers av generasjoner og kulturer. Opplev artister som: Kenny Wayne Shephard band, The Darkness, Vanessa Collier, DumDum Boys. Blood Brothers, Raga Rockers, Good Time Charlie, Adama Janlo og mange fler.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.ticketmaster.no/event/263824721?CL_ORIGIN=ORIGIN4",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-opplevelser/notodden-bluesfestival"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Bø Sommarland",
+      "discount_percentage": null,
+      "description": "Opplev unike attraksjoner i Skandinavias største vannpark! VANNvittig moro for hele familien. Som medlem får du rabatt på inntil 5 billetter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sommarland.no/billetter/single-ticket/select-visitors",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-opplevelser/bo-sommarland"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LEGOLAND®",
+      "discount_percentage": 20,
+      "description": "I LEGOLAND® i Billund ligger attraksjonene på rekke og rad, og spisestedene er mange. Her er det hygge, fart og moro for hele familien. Du får 20 % i medlemsrabatt på billetter til LEGOLAND® i Danmark!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://me-llbillund-exchange.secure-cdn.meg-eu.accessoticketing.com/embed/store.php?l=en-dk&merchant_id=6607&reseller_id=8736&reseller_location_id=9361&raut=150c9dd665648fc1aa1b4421d97023a19b16b99467776dceab769f7ba71c48067922b5ae59aad7575d379f7e38a2c361",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-fritid/legoland"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Tivoli i København",
+      "discount_percentage": null,
+      "description": "Som medlem får du rabatt på billetter til Tivoli i København. De har noe for et hvert behov, uansett om du liker fart og spenning eller å ta livet med ro. Gled deg til 30 morsomme attraksjoner, tusenvis av fargerike blomster, flotte konserter, ballett- og teaterforestillinger og flere enn 30 spisesteder. Logg inn i LOfavør-appen for å se rabattkoden som brukes som passord ved bestilling.",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://shop.tivoli.dk/da/login/lofavor",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-fritid/tivoli-i-k%C3%B8benhavn"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "TusenFryd",
+      "discount_percentage": null,
+      "description": "Som medlem får du rabatt på inntil 5 billetter til TusenFryd - Norges største opplevelsespark!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.tusenfryd.no/",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-opplevelser/tusenfryd"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "Sørmarka konferansehotell",
+      "discount_percentage": null,
+      "description": "Du får medlemsfordeler på Sørmarka konferansesehotell. Hotellet ligger vakkert og landlig til, kun 20 minutter fra Oslo sentrum. De tar imot alle typer arrangement, kurs- og konferanser, firmaarrangementer, julebord, samt private selskaper som bryllup og konfirmasjon.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "http://www.sormarka.no/lofavor/",
+      "lofavor_page": "https://www.lofavor.no/ferie-og-opplevelser/s%C3%B8rmarka-konferansehotell"
+    },
+    {
+      "provider": "LOfavør",
+      "retailer": "LOfavør Reiseforsikring",
+      "discount_percentage": null,
+      "description": "Alle som skal ut og reise trenger en god reiseforsikring. Med LOfavør Reiseforsikring er du dekket på reisen, og forsikringen gjelder idet du går ut døra. Du kan velge om den skal gjelde kun for deg eller hele familien.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/forsikring/reiseforsikring/lofavor-reiseforsikring.html",
+      "lofavor_page": "https://www.lofavor.no/forsikring/reiseforsikring"
+    }
+  ]
+}
