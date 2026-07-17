@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T04:19:33.411701+00:00",
+  "generated_at": "2026-07-17T04:30:23.945133+00:00",
   "sources": [
     {
       "provider": "DNB",
@@ -34,6 +34,13 @@
       "source_page": "https://www.lofavor.no/forsikring",
       "shared_discount_code": null,
       "count": 63,
+      "fetched_at": null
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "source_page": "https://www.akademikerforbundet.no/medlemskap/medlemsfordeler/",
+      "shared_discount_code": null,
+      "count": 11,
       "fetched_at": null
     }
   ],
@@ -2926,6 +2933,105 @@
       "requires_code": false,
       "source_url": "https://legalis.no/priser?medlem=lofavor",
       "lofavor_page": "https://www.lofavor.no/juridisk/advokatbistand"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "Opplev kjøreglede med modeller fra BMW Norge AS",
+      "discount_percentage": 8,
+      "description": "Avtalen gir deg som medlem av et Unio-forbund gunstige vilkår ved kjøp/leasing av BMW-modeller. Medlemsrabatt fossile/hybride BMW-modeller: 8 prosent Medlemsrabatt elektriske BMW-modeller: 4 prosent Medlemsrabatten kan kombineres med nasjonale salgskampanjer fra BMW Norge AS og beregnes av veiledende bilpris, fabrikkmontert utstyr og eksklusive avgifter til staten. Merk at avtalen har en uttaksbegrensning på maksimalt to biler per kalenderår per medlem. Medlemskap i et Unio-forbund må verifiseres, for eksempel gjennom medlemsbevis, trekk gjennom lønnsslipp eller lignende. Les mer her",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/bmw/"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "Rabattavtale på elbil",
+      "discount_percentage": null,
+      "description": "Hovedorganisasjonen Unio vil være en pådriver for det grønne skiftet. Unio har fremforhandlet en gunstig rabattavtale med Bertel O. Steen AS, for sine medlemmer. Avtalen innebærer rabatt på elektriske personbiler fra Mercedes-Benz, Smart, KIA, Peugeot, Citroën, DS og Opel. Bertel O. Steen AS er en av Nordens største aktører innen salg og servicetjenester for personbiler, varebiler, lastebiler og busser. Bertel O. Steen forhandler og tilbyr autoriserte verksteder for merkene Mercedes-Benz, Smart®, Kia, Opel, Peugeot, Citroën og DS. Du finner hel- og deleide forhandlere i hele Norge, fra Kristiansand i sør til Alta i nord. Rabatten gjelder hos alle disse forhandlerne. Ønsker du å kjøpe bil på disse gunstige betingelsene, oppsøker du nærmeste forhandler av bilmerket og medbringende bekreftelse på ditt medlemskap i ditt forbund. Se videre informasjon HER",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/bertel-o-steen/"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "Esso",
+      "discount_percentage": 20,
+      "description": "Akademikerforbundet har avtale med Esso Mastercard Om Esso Mastercard: 1. januar 2019 øker drivstoffrabatten din hos Esso til 52 øre* per liter. Så nå kan du kjøre til jobben, eller dra på tur, og vite at du har en av markedets beste drivstoffrabatter! Glem heller ikke at du også har 20 % rabatt på bilvask og hver 6. vask gratis** i tillegg til mange andre gode fordeler i ditt Esso Mastercard. Har du ikke allerede et Esso Mastercard? Søk om kortet her: https://www.unio.no/medlemsprodukter/esso-mastercard/ Effektiv rente ved kreditt på kr 15 000 o/12 mnd. er 31,13 %. Total kredittkostnad kr 1 947. * Drivstoffrabatten forutsetter bruk av et Esso Mastercard på Esso-stasjoner i Norge. **Når du bruker rabatthefte på stasjoner som tilbyr dette. Full utnyttelse av den økonomiske gevinsten med rabatt, forutsetter at utestående kreditt betales ved forfall, slik at det ikke påløper renter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.akademikerforbundet.no/medlemskap/medlemsfordeler/bil/"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "Avis Bilutleie",
+      "discount_percentage": 30,
+      "description": "Inntil 30 % rabatt på leie av personbiler og varebiler i Norge. Rabatten gjelder ikke på forsikring, servicegebyrer, mva., Prestige biler, weekend- eller månedsleie. Slik får du Unio-rabatten: Oppgi rabattnummer W330405 ved bestilling Ved bestilling på avis.no, oppgi rabattkode (AWD-nummer) eller bestill via url nedenfor Du kan også bestille på telefon 66 77 10 10 Gyldig bevis for medlemskap i ditt forbund, samt førerkort fremvises ved henting av leiebilen Se detaljer her.",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.avis.no/leiebil-tilbud/partnere/andre-partnere/unio"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "Hytteleie hos Norgesbooking",
+      "discount_percentage": null,
+      "description": "Lei en hytte via Norgesbooking fra kun 299,- per natt Eksklusivt tilbud til UNIO medlemmer. Få kr 1 000,- i rabatt ved leie av hytte for opphold på 1 uke eller lenger, eller kr 500,- for opphold fra 2 til 6 netter. Her kan du finne din perfekte hytte , og ved å legge inn rabattkode «UNIO1000» eller «UNIO500» får du rabatten fratrukket i bestillingen. Vi har mange filter som hjelper deg å finne riktig hytte, som f. eks WiFi, fjellhytter, peis, båt inkludert, antall personer, husdyr tillatt og mer. Velg mellom hundrevis av hytter over hele landet under menypunkt «Se alle hytter» hvor du kan velge ønsket destinasjon. Medlemmer i UNIO-tilsluttede forbund som ønsker å leie ut sin private hytte betaler ikke årlig oppførings- og vedlikeholdsavgift, som ordinært er på kroner 950 (+ mva.) per år. Booking av feriebolig Bookinger hos Norgesbooking kan gjøres via online booking, per telefon eller per e-post. På våre nettsider kan du søke på ønsket dato, eller om du vet eksakt hvilket sted du ønsker å reise til, kan du se alle hytter på en bestemt destinasjon. For booking på vår nettside oppgir du koden UNIO500 eller UNIO1000 i kampanjekodefeltet, og du vil få innvilget rabatt med en gang. Samme kode oppgis per telefon eller mail. Vi på servicekontoret er tilgjengelig for hjelp og råd for å finne riktig hytte eller svare på andre spørsmål. Hytter med * bak, kan vi kun innvilge rabatt på forespørsel. Vi har generelt en aldersgrense på 23 år ved leie av hytter, men det er unntak på hytter hvor det noen steder er lavere aldersgrense og noen få steder høyere. Om Norgesbooking Norgesbooking AS ble etablert høsten 2001, og var den gangen blant de aller første utleieformidlere som startet en forretningsplattform utelukkende basert på Internett. I februar 2002 ble våre nettsider lansert med cirka 30 utleiehytter. I dag tilbyr vi ca. 500 ferieboliger fordelt rundt i hele Norge! Vi tilbyr ferieboliger, ved både kjente og mindre kjente destinasjoner i Norge. Her finner du alt fra enkle, små hytter uten strøm og vann, til store luksushytter med alle tenkelige fasiliteter. E-post : post@norgesbooking.no Telefon : +47 32 08 57 10",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.norgesbooking.no/"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "Thon Hotel",
+      "discount_percentage": 14,
+      "description": "Avtalen er en rom/frokostavtale som gir 14% rabatt på alle Thon Hotel i Norge bortsett fra TH Cecil hvor det er 16 %. Rabattkode: THC2556",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.akademikerforbundet.no/medlemskap/medlemsfordeler/ferie/"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "De Historiske Hotel & Spisestede",
+      "discount_percentage": 10,
+      "description": "Medlemmer av Unios forbund gis 10 prosent rabatt på utvalgte historiske hotell . Via denne avtalen er det også rabatt på Britannia Hotel.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/de-historiske/"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "Stormberg",
+      "discount_percentage": 30,
+      "description": "Medlemmer i Unio får 30 % rabatt på utvalgte produkter hos Stormberg. Følg denne lenken for å se utvalget.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.stormberg.com/no/kampanje/unio"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "Akademika.no",
+      "discount_percentage": 10,
+      "description": "Legg inn koden\"HBAKAansa\"på akademika.no. Norske fagbøker som ikke er bundet av fastpris: 10%.* Utenlandske bøker 10% Rekvisita 10% Fri frakt på ordrer fra og med kr 299,- til norske adresser. *Alle Norske Bøker er bundet av fastpris i 12 mnd fra utgivelsesdato, og dermed har ingen bokhandlere lov å gi rabatt på disse. (Ny boklov fra 01.01.2024). Alle rabatter er fra veiledende priser. Altså ikke på toppen av tilbudspriser.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.akademikerforbundet.no/medlemskap/medlemsfordeler/boker-og-tidsskrifter/"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "Cutters",
+      "discount_percentage": 20,
+      "description": "Unios medlemsfordeler gir deg hele 20 prosent rabatt på hårklipp hos Cutters. Cutters er en leverandør av frisørtjenester med salonger over hele Norge. Selskapets forretningskonsept er basert på effektivitet, tilgjengelighet og en standardisert pris for hårklipp, uavhengig av kjønn eller type klipp. Bestilling skjer via selskapets applikasjon eller nettside. Anvend koden samhold20 i appen eller på cutters.no. Rabattkoden gjelder alle i din husstand. Du kan lese mer om medlemsfordelen hos Cutters",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://cutters.no/uniorabatt"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "Extra Opticals",
+      "discount_percentage": 20,
+      "description": "20 prosent rabatt på Extra Opticals allerede rimelige briller og solbriller med styrke. Det er tid for å spare penger der en kan. Er du langsynt, nærsynt eller har skjeve hornhinner ? Medlemsfordelen kan hjelpe deg til en rimeligere pris uansett brillebehov. Bruk rabattkoden du finner på Unios sider om medlemsfordeler i kassen . Da får du 20 prosent rabatt på briller og solbriller merket eo Selection.",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.unio.no/medlemsprodukter/extra-optical/"
     }
   ]
 }

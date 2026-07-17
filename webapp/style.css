@@ -15,6 +15,7 @@
   --usbl: #7c4dff;
   --elbil: #2eb872;
   --lofavor: #c9a227;
+  --akademiker: #c0392b;
 }
 
 @media (prefers-color-scheme: light) {
@@ -196,6 +197,7 @@ main {
 .badge.provider-USBL { background: color-mix(in srgb, var(--usbl) 20%, transparent); color: var(--usbl); }
 .badge.provider-Elbilforeningen { background: color-mix(in srgb, var(--elbil) 20%, transparent); color: var(--elbil); }
 .badge.provider-LOfavør { background: color-mix(in srgb, var(--lofavor) 20%, transparent); color: var(--lofavor); }
+.badge.provider-Akademikerforbundet { background: color-mix(in srgb, var(--akademiker) 20%, transparent); color: var(--akademiker); }
 
 .empty-state {
   text-align: center;

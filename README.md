@@ -1,8 +1,8 @@
 # Faste Rabatter
 
 En app for å søke opp faste medlemsrabatter fra DNB, OBOS, Elbilforeningen,
-USBL og LOfavør på ett sted. Kjører som en PWA (nettapp) du legger til på
-hjemskjermen på iPhone – ingen App Store, ingen Xcode.
+USBL, LOfavør og Akademikerforbundet på ett sted. Kjører som en PWA (nettapp)
+du legger til på hjemskjermen på iPhone – ingen App Store, ingen Xcode.
 
 ## Slik virker det
 
@@ -18,6 +18,7 @@ dnb_faste_rabatter.py            → dnb_faste_rabatter.json
 obos_medlemsfordeler.py          → obos_medlemsfordeler.json
 usbl_medlemsfordeler.py          → usbl_medlemsfordeler.json
 lofavor_medlemsfordeler.py       → lofavor_medlemsfordeler.json
+akademikerforbundet_medlemsfordeler.py → akademikerforbundet_medlemsfordeler.json
 elbilforeningen_medlemsfordeler.json   (manuelt vedlikeholdt, se under)
                 ↓
             combine.py
@@ -36,6 +37,7 @@ python3 dnb_faste_rabatter.py
 python3 obos_medlemsfordeler.py
 python3 usbl_medlemsfordeler.py
 python3 lofavor_medlemsfordeler.py
+python3 akademikerforbundet_medlemsfordeler.py
 python3 combine.py
 ```
 
@@ -53,6 +55,14 @@ Vil du bare hente noen få kategorier, gi kategori-slugene som argumenter:
 ```bash
 python3 lofavor_medlemsfordeler.py ferie-og-opplevelser bank
 ```
+
+### Akademikerforbundet henter kun butikk-/leverandørrabattene
+
+`akademikerforbundet_medlemsfordeler.py` henter kategoriene Bil, Ferie,
+Trening og sport, Bøker og tidsskrifter og Diverse medlemsfordeler (11
+tilbud). Forsikring, Bank, Kurs og Rådgivning er bevisst utelatt – det er
+generiske medlemstjenester fra én leverandør (Akaforsikring/Nordea), ikke
+butikkrabatter, og siden bruker uansett en helt annen HTML-mal der.
 
 ### Elbilforeningen er et unntak
 
@@ -118,6 +128,8 @@ Hvert rabatt-objekt i `discounts.json` ser slik ut:
 - **LOfavør**: 63 rabatter fra alle seks kategoriene (se over). Ekstern lenke
   hentes fra CTA-knappen på produktsiden; noen produkter mangler denne og
   lenker da til selve LOfavør-siden i stedet.
+- **Akademikerforbundet**: 11 rabatter (kun butikk-/leverandørkategoriene,
+  se over).
 - Prosentsatser er hentet med regex fra beskrivelsesteksten og kan mangle
   for tilbud som ikke er rene prosent-rabatter (f.eks. faste kronebeløp,
   "2 for 1", rentefordeler).
