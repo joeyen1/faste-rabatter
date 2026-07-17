@@ -1,0 +1,210 @@
+:root {
+  --bg: #0b1220;
+  --bg-elevated: #141d2f;
+  --card: #1b2740;
+  --border: #2a3852;
+  --text: #eef2fb;
+  --text-dim: #93a1bd;
+  --accent: #4d8bff;
+  --pill-bg: #22304d;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+
+  --dnb: #00b2a9;
+  --obos: #e8532a;
+  --usbl: #7c4dff;
+  --elbil: #2eb872;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f4f6fb;
+    --bg-elevated: #ffffff;
+    --card: #ffffff;
+    --border: #e1e6f0;
+    --text: #10192e;
+    --text-dim: #5b6785;
+    --accent: #2f5fd6;
+    --pill-bg: #eaf0ff;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: calc(0.75rem + var(--safe-top)) 1rem 0.75rem;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.subtitle {
+  margin: 0.15rem 0 0;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+}
+
+main {
+  flex: 1;
+  padding: 0.9rem 1rem 1rem;
+  max-width: 640px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.search-wrap {
+  margin-bottom: 0.7rem;
+}
+
+#search {
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.75rem 0.9rem;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  color: var(--text);
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+#search:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.filters {
+  display: flex;
+  gap: 0.4rem;
+  overflow-x: auto;
+  padding-bottom: 0.9rem;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.filters::-webkit-scrollbar { display: none; }
+
+.chip {
+  flex: 0 0 auto;
+  padding: 0.4rem 0.8rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--pill-bg);
+  color: var(--text);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.chip[aria-pressed="true"] {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.results {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 0.85rem 0.95rem;
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
+
+.card-title {
+  font-size: 1.02rem;
+  font-weight: 700;
+  margin: 0 0 0.2rem;
+}
+
+.card-desc {
+  margin: 0.3rem 0 0;
+  font-size: 0.88rem;
+  color: var(--text-dim);
+  line-height: 1.35;
+}
+
+.pct {
+  flex: 0 0 auto;
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.55rem;
+}
+
+.badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.18rem 0.5rem;
+  border-radius: 999px;
+  background: var(--pill-bg);
+  color: var(--text-dim);
+}
+
+.badge.provider-DNB { background: color-mix(in srgb, var(--dnb) 20%, transparent); color: var(--dnb); }
+.badge.provider-OBOS { background: color-mix(in srgb, var(--obos) 20%, transparent); color: var(--obos); }
+.badge.provider-USBL { background: color-mix(in srgb, var(--usbl) 20%, transparent); color: var(--usbl); }
+.badge.provider-Elbilforeningen { background: color-mix(in srgb, var(--elbil) 20%, transparent); color: var(--elbil); }
+
+.empty-state {
+  text-align: center;
+  color: var(--text-dim);
+  margin-top: 3rem;
+  font-size: 0.95rem;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.72rem;
+  color: var(--text-dim);
+  padding: 0.8rem 1rem calc(1rem + var(--safe-bottom));
+}

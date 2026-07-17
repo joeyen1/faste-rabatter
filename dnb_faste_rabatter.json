@@ -1,0 +1,601 @@
+{
+  "provider": "DNB",
+  "source_page": "https://www.dnb.no/kundeprogram/fordeler/faste-rabatter",
+  "shared_discount_code": "DNB8547",
+  "discounts": [
+    {
+      "provider": "DNB",
+      "retailer": "Odlo",
+      "discount_percentage": 10,
+      "description": "Grunnlagt i Norge i 1946 – perfeksjonert i de sveitsiske Alpene. Med lidenskap for å flytte grenser utvikler base layers og helårsbekledning i verdensklasse – så du kan oppleve mer, oftere og mer komfortabelt. Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://odlo.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Henri-Lloyd",
+      "discount_percentage": 10,
+      "description": "ble grunnlagt i 1963 for å levere markedets beste værbeskyttelse. Med innovasjoner som tapede sømmer og den ikoniske Consort-jakken kombinerer vi funksjon, stil og bærekraft. Henri-Lloyd er en livsstil – for livets beste dager, tørr, komfortabel og klar for alt. Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.henrilloyd.com."
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Janus",
+      "discount_percentage": 10,
+      "description": "Med lidenskap, kunnskap og ekte håndverkstradisjon har Wool strikket ullplagg i Norge i over 130 år. Vi forener tradisjon og innovasjon for å skape ullundertøy og mellomlag som holder deg varm, tørr og komfortabel – enten du er på fjellet, i marka eller på vei til jobb. For alle som elsker å være ute – strikket med omtanke i Norge. Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://janus.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "TEGNE",
+      "discount_percentage": 10,
+      "description": "Hos finner du kvalitetsprodukter til små og store kreative prosjekter. Enten du er kunstner, hobbyentusiast eller nybegynner, har vi det du trenger for å skape med glede og presisjon. Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.tegne.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Barbershop",
+      "discount_percentage": 10,
+      "description": ".no har siden 2006 levert kvalitetsprodukter for barbering, skjegg, og hår- og hudpleie til menn. NB! Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://barbershop.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Paradox Museum",
+      "discount_percentage": 10,
+      "description": "Optiske illusjoner, interaktive installasjoner og morsomme fotoøyeblikk. Perfekt for en vennetur, en unik date eller en familieutflukt. Gjør dere klare til å bli lurt av opp-ned-rom og synsbedrag i alle fasonger! NB! Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.paradoxmuseumoslo.com/ "
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Kinogavekort.no",
+      "discount_percentage": 10,
+      "description": "Kinogavekortet er den perfekte gaven - en kinoopplevelse! Brukes på kjøp av kinobilletter og kioskvarer i hele landet. Velg beløp, antall gavekort og en hyggelig hilsen helt selv. NB! Rabatten gjelder kun i nettbutikk.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://kinogavekort.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "FLOYD",
+      "discount_percentage": 10,
+      "description": "Siden 1985 har kledd opp kvinner til både hverdag og fest! Hos FLOYD.no får du siste nyheter og trender innen klær og damemote fra både eget varemerke og et variert utvalg eksterne merkevarer. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.floyd.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Gullfunn",
+      "discount_percentage": 10,
+      "description": "er en av landets ledende gullsmedkjeder med fokus på smykker og klokker til gode priser. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.gullfunn.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Vakre Vene",
+      "discount_percentage": 10,
+      "description": "En spennende og koselig motebutikk hvor du finner inspirasjon til din personlige stil. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.vakrevene.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Interflora",
+      "discount_percentage": 10,
+      "description": "Vi leverer din blomsterhilsen i hele Norge, og i resten av verden, rett på døren og til alle anledninger. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.interflora.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "L'Occitane",
+      "discount_percentage": 10,
+      "description": "Alt du trenger fra topp til tå! L’Occitane er et naturlig kroppspleie -og hudpleiemerke med produkter til både han og henne. Hos oss finner du produkter til kropp, ansikt, hår og hjem, og vi har gavene som passer alle. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://no.loccitane.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Golfshopen",
+      "discount_percentage": 10,
+      "description": "Norges største golfbutikk! Vi fører alle merker. Rabatt gjelder ikke for Custom Fitting. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.golfshopen.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Helly Hansen",
+      "discount_percentage": 10,
+      "description": "er kjent for sitt vanntette og pustende Helly Tech®- materiale som brukes i jakker, bukser, seiltøy og yttertøy. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.hellyhansen.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Bottega",
+      "discount_percentage": 10,
+      "description": "Brand Store er den råeste butikken for kjøkkenutstyr. Vi fører merker som KAI, Hexclad, Spiegelau og Dutchdeluxes. Det er oss du besøker når du vil ha kvalitet og spennende gaver til den som «har alt». NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.bottega.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Kondomeriet",
+      "discount_percentage": 10,
+      "description": "Norges største leverandør av sexleketøy. Sexleketøy til han, henne og par. Kom innom og la deg inspirere! NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.kondomeriet.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Swims",
+      "discount_percentage": 10,
+      "description": "Teknisk og brukervennlig mote. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://eu.swims.com/no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Swix",
+      "discount_percentage": 10,
+      "description": "- Rå på utetrening i nordiske forhold. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.swixsport.com/no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Olivenlunden",
+      "discount_percentage": 10,
+      "description": "Gastronomiske spesialiteter fra Middelhavet. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.olivenlunden1830.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Viking",
+      "discount_percentage": 10,
+      "description": "Stort utvalg av tursko, fritidssko og gummistøvler til barn og voksne. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://no.vikingfootwear.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Johnny Love",
+      "discount_percentage": 10,
+      "description": "Ledende herremerke i high end-segmentet. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.johnnylove.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Krogh Optikk",
+      "discount_percentage": 10,
+      "description": "Kjøp sesongens solbriller og sørg for alltid å ha nok linser. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://kroghoptikk.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Lillelam",
+      "discount_percentage": 10,
+      "description": "er en norsk merkevare som skaper varme klær med kjærlighet og omtanke på en bærekraftig og etisk forsvarlig måte. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://lillelam.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Vianor",
+      "discount_percentage": 10,
+      "description": "Tilbudet gjelder for privat bruk ved kjøp i nettbutikk. Rabatt gjelder ikke i fysiske verksteder.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://vianor.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Session",
+      "discount_percentage": 10,
+      "description": "Norges fremste på brett og tilbehør. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.session.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Tufte",
+      "discount_percentage": 10,
+      "description": "Komfortable fritidsklær og undertøy til hele familien, laget så bærekraftig som mulig. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://tuftewear.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Galleri D40",
+      "discount_percentage": 10,
+      "description": "Kunstgalleri etablert i 1972. Norges beste utvalg i grafikk. Tilbudet kan ikke kombineres med andre rabattavtaler. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.d40.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Teleoutlet",
+      "discount_percentage": 10,
+      "description": "Norges største utvalg av ny-ish mobiltelefoner og nytt tilbehør. Fører produkter fra kjente merkevarer som Apple, Samsung, Panzerglass, Ideal of Sweeden, dbramante og mange flere. Har du en gammel mobiltelefon liggende? Få en verdivurdering og selg mobilen til . NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://teleoutlet.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Aword",
+      "discount_percentage": 10,
+      "description": "Design og produkter til hjemmet. Designklassikere fra bl.annet Vitra, Bang & Olufsen og Louis Poulsen. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://aword.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Spaxo",
+      "discount_percentage": 10,
+      "description": "Spabad & Swimspa produsert i Europa. Italienske pizzaovner og utedusjer. Alt du trenger til uteplassen hjemme og på hytta! NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://spaxo.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Beckmann",
+      "discount_percentage": 10,
+      "description": "Med fokus på ergonomi, funksjonalitet, kvalitet og design. Vi leverer skolesekker og tilbehør fra barnehagealder og opp til student. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://beckmann.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Travelstuff",
+      "discount_percentage": 10,
+      "description": "Over 4.000 varer til reise, ferie og friluftsliv, samt en egen alt til hytta kategori. Kjente merkevarer med hovedvekt på kvalitet, design og multifunksjonalitet. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.travelstuff.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Standard",
+      "discount_percentage": 10,
+      "description": "Kostymer, utkledning, morosaker, festartikler og dekorasjoner. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.festmagasinet.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Dovre",
+      "discount_percentage": 10,
+      "description": "er en historie om lidenskap. Inspirert av rå, norsk natur – og styrken til \u0000å stå fjellstøtt i vær og vind. I 100 år har vi brukt rene materialer til å lage undertøy av beste klasse. Slitesterkt og komfortabelt, produsert på lag med naturen vi er så glade i. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://dovre.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Byha",
+      "discount_percentage": 10,
+      "description": "Norsk nettbutikk med spennende merkevarer fra kjente og kvalitetsbevisste designere til deg og ditt hjem. Rask levering og personlig kundeservice. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.byha.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Bellas Hus",
+      "discount_percentage": 10,
+      "description": "Norges mest spennende interiørbutikk med et bredt utvalg av sengetøy, håndklær, interiørartikler og loungewear fra kjente internasjonale merkevarer, samt vårt eget brand. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.bellashus.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Morild",
+      "discount_percentage": 10,
+      "description": "lager spennende plagg til store og små, med integrert spesialfunksjon - refleks. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.morildnorway.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "BagBrokers",
+      "discount_percentage": 10,
+      "description": "Kofferter og reiseutstyr på nett. Kjente merkevarer. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.bagbrokers.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Arons",
+      "discount_percentage": 10,
+      "description": "er ledende forhandler av japanske kokkekniver og kjøkkenutstyr. De fører merker som Masahiro, Kasumi, Hattori, Kanetsugu, Takeshi Saji med flere. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://arons.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Padelutstyr",
+      "discount_percentage": 10,
+      "description": ".no er stedet for å gjøre et trygt kjøp av padelutstyr, som bl.a racketer og tilbehør. Vi er også Norges ledende aktør på installasjoner av baner, samt en solid rådgiver til dine padelprosjekter. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.padelutstyr.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Småungene",
+      "discount_percentage": 10,
+      "description": "Gode, komfortable barneklær opptil 10 år. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.smaaungene.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Smartlapper",
+      "discount_percentage": 10,
+      "description": "Navnelapper til merking av klær og eiendeler. Enkel bestilling, gratis frakt og lynrask levering. Lag dine neste navnelapper. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.smartlapper.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Stanley",
+      "discount_percentage": 10,
+      "description": "har en rik historie på over 100 år. Det ble grunnlagt av oppfinneren William Stanley Jr. som for alltid endret måten varme drikker ble konsumert på. I århundret som har gått, har hans vakuumflaske utviklet seg fra en idé til en ikonisk gjenstand og har blitt en uunnværlig del av arbeidsdagen, bilturer og friluftsopplevelser. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.stanley.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Gutta på Haugen",
+      "discount_percentage": 10,
+      "description": "har siden 1994 bydd Oslos befolkning på delikatesser av beste slag fra inn- utland. Nå kan du også klikke all verdens delikatesser hjem til deg! Gutta på Haugen leverer det beste av franske osteklassikere, krydderier fra Mexico eller spekemat fra norske småskalaprodusenter rett hjem til deg. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.gutta.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Tights.no",
+      "discount_percentage": 10,
+      "description": "Finn alt du trenger av treningstøy, klær, sko, sunn smartmat, treningsutstyr og kosttilskudd. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.tights.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Sportslivet",
+      "discount_percentage": 10,
+      "description": "Faghandel med kjente merker innen sport og friluftsliv. Sykkel, ski, kajakk, packraft, sup, treningsklær, sko og turutstyr m/mer. Rask levering og gode priser. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.sportslivet.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Ledlenser",
+      "discount_percentage": 10,
+      "description": "er en verdenskjent ledende leverandør av hodelykter og lommelykter. Vi leverer det beste innenfor LED lykter og innoverer kontinuerlig for å tilby de beste produktene – hvert eneste år. Her finner du alt du kan tenke deg til både sport, friluft, industri og fritid. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.ledlensershop.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Leatherman",
+      "discount_percentage": 10,
+      "description": "– det originale multiverktøyet. Fantastisk kvalitet på produkter som produseres i Portland i USA. Leatherman ble etablert i 1983 av Tim Leatherman, som har bygd opp den sterkeste merkevaren innenfor multiverktøy i verden. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.leathermanshop.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Camelbak",
+      "discount_percentage": 10,
+      "description": "er en av verdens ledende aktører innen drikkesystemer. Camelbak sin gründer laget verdens første drikkeblære i sekk tilbake i 1989 – resten er historie. I dag lager camelbak drikkeflasker, sekker, vester og belter til alle mulige aktiviteter. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.camelbak.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Alpina",
+      "discount_percentage": 10,
+      "description": "er en fottøy-produsent med en lang og inspirerende tradisjon. Best kjent for skisko (racing, klassisk og tur) samt fjellsko, alpinstøvler og overtrekk til langrennsko. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.alpina.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Crispi",
+      "discount_percentage": 10,
+      "description": "er en italiensk fottøy-produsent med fokus på fjell-, tur- og jaktstøvler, samt fjellskistøvler og fritidssko. Selskapet ble etablert tidlig på 70-tallet. CRISPI grunder seg i kvalitet og teknologi og er en av de mest kvalifiserte innen utendørsfeltet. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.crispi.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Brusletto",
+      "discount_percentage": 10,
+      "description": "er en av de eldste knivprodusentene i Norge, med historie fra 1896. Vi produserer kniver for jakt, fiske, friluft og kjøkken i høy kvalitet. Knivene er håndlaget av knivmakerne på vår fabrikk på Geilo. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.brusletto.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Welli",
+      "discount_percentage": 10,
+      "description": "er en unik norsk nettbutikk med et enestående utvalg av produkter innen trening, helse og velvære. Ved å tilby topp kvalitet på produkter og kundeservice vil vi bidra til at våre kunder får et bedre liv gjennom fysisk aktivitet og velvære. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.welli.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Høie",
+      "discount_percentage": 10,
+      "description": "Sengetøy, dyner, puter og pledd fra merkevaren of Scandinavia. NB! Rabatten gjelder kun i nettbutikken og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.hoie.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Elite Foto",
+      "discount_percentage": 10,
+      "description": "Gjør livets øyeblikk uforglemmelige med ! Elite Foto er Norges raskeste bildebutikk, hvor du kan få bilder, kort, kalendere og fotobøker klar på én time. Vis frem bildene dine med stil - se utvalget av rammer og fotoalbum. Velg ekspress og hent i butikk samme dag, eller få det raskt levert hjem. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.elitefoto.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Berg",
+      "discount_percentage": 10,
+      "description": "sine klokker er inspirert av norsk natur og historie, og er kjent for sitt enkle minimalistiske skandinaviske design kombinert med lakseskinnreimer fra Nord-Norge. Med kolleksjoner som Ulriken, Birkebeiner, Grieg, Holmenkollen og Argentina sin verdensmester klokke, har Berg noe for enhver. Gratis frakt og retur. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://bergwatches.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Syversen",
+      "discount_percentage": 10,
+      "description": "Norsk nettbutikk; spesialister på undertøy, sokker, strømpebukser og badetøy. Varene sendes innen 24t fra lager i Fredrikstad. PANOS EMPORIO, ETON socks, Calvin Klein legwear, OROBLU, MUCHACHOMALO, DKNY, LEVI’S, PUMA, HEAD, O’NEILL, SAXX++ NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://syversen.com"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Bullfighter",
+      "discount_percentage": 10,
+      "description": "er en norsk butikk og nettside som spesialiserer seg i salg av motorsykkelklær og diverse tilbehør for motorsykkelentusiaster. De tilbyr et bredt utvalg av produkter, fra beskyttelsesutstyr som hjelmer og jakker til praktisk tilbehør som vesker og kommunikasjonssystemer for MC-førere. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.bullfighter.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "BeGood",
+      "discount_percentage": 10,
+      "description": "Norges største leverandør av tilbehør til Tesla og de fleste andre elbiler. Rask levering og enestående kundeservice. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.begood.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Von Doren",
+      "discount_percentage": 10,
+      "description": "Kjent internasjonalt og hyllet i utenlandske magasiner, har levert til kunder i 30 land. Klokkene har et klassisk, tidløst design med et hint av vintage - Inspirert av fortiden, for fremtiden. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.vondoren.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Skaugum",
+      "discount_percentage": 10,
+      "description": "lager bestikk for hånd, del for del på Geilo. Samtidig som de jobber med hendene, jobber de også med mennesker. På fabrikken strekker de ut en hånd til de som kanskje ikke har passet inn andre steder. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://skaugum.info/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Kastel Shoes",
+      "discount_percentage": 10,
+      "description": "Sko for nordisk vær og livsstil. Fra vanntette støvler til sneakers i ull. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://kastelshoes.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Ulvang",
+      "discount_percentage": 10,
+      "description": "Vår norske arv har lært oss et par ting om å holde oss varme. Oppdag vår nye kolleksjon! Funksjonelle, varige og ansvarlig produserte ullklær til alle årstider og alle eventyr. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://ulvang.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Hällmark",
+      "discount_percentage": 10,
+      "description": "er et svensk varemerke for utendørs matlaging - både for hagen og i skogen. I sortimentet finner du stekepanner og stekeheller til forskjellige bruksområder, kaffekanner, vaffeljern, pizzaovner og mye mer. Produktene er utviklet med fokus på sikker bruk, for matlaging der hvor maten smaker best – utendørs. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.hallmarkofsweden.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "DAIDDA",
+      "discount_percentage": 10,
+      "description": "er et galleri og printlab drevet av to søstre, inspirert av det samiske ordet \"Dáidda,\" som betyr kunst. DAIDDA er eksklusiv leverandør av posters og artprints i samarbeid med Nasjonalmuseet, og tilbyr over 600 verk tilgjengelig som print on demand. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://daidda.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Sportmann.no",
+      "discount_percentage": 10,
+      "description": "På Sportmann finner du et bredt utvalg av merkeklær, sko og treningstøy til dame, herre og barn. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.sportmann.no/"
+    }
+  ]
+}

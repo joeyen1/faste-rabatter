@@ -1,0 +1,843 @@
+{
+  "provider": "OBOS",
+  "source_page": "https://www.obos.no/medlem/medlemsfordeler",
+  "discounts": [
+    {
+      "provider": "OBOS",
+      "retailer": "Bjørneparken",
+      "discount_percentage": 30,
+      "description": "20–30 % rabatt på billetter i Bjørneparken.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/bjorneparken"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OsloBolig",
+      "discount_percentage": 25,
+      "description": "OBOS-medlemmer får forkjøpsrett på 25 % av boligene til OsloBolig.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/oslobolig"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Forkjøpsrett",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem stiller du først i køen når du skal kjøpe bolig, og har forkjøpsrett på over 90 000 boliger i hele Norge.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/forkjopsrett"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OBOS Deleie",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Deleie ved salgsstart.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/obos-deleie"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "LEGOLAND",
+      "discount_percentage": null,
+      "description": "2 for 1 inngangsbillett til LEGOLAND.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/legoland"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Domino's Pizza",
+      "discount_percentage": 20,
+      "description": "Få 20 prosent rabatt på månedens OBOS-pizza, og 15 prosent på alle pizzaer og sideretter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/dominos-pizza"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Høyt Under Taket",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på inngangsbillett på Høyt Under Taket.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hoyt-under-taket"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Kongeparken",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på dagskort ved bestilling online.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/kongeparken-1"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Strim",
+      "discount_percentage": null,
+      "description": "Samle strømmetjenester og TV-kanaler på ett sted. Prøv 30 dagers kostnadsfritt som ny kunde.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/strim"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Fonus Begravelsesbyrå",
+      "discount_percentage": null,
+      "description": "Rabatt på kister, urner og nye gravsteiner.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/fonus-begravelsesbyra"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "HamKam fotball",
+      "discount_percentage": null,
+      "description": "99 kroner for voksen og 50 kroner for barn på HamKam sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hamkam"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Hafjell, Kvitfjell og Oppdal",
+      "discount_percentage": 10,
+      "description": "10 % rabatt på 1–3 dagers heiskort i Hafjell, Kvitfjell og Oppdal.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/alpinco-hafjell-kvitfjell-og-oppdal"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Vålerenga Damer",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på billetter til Vålerenga Damer sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/valerenga-damer"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Tibber",
+      "discount_percentage": null,
+      "description": "Spar 995 kroner på sanntidsmåler. Som OBOS-medlem og ny kunde hos Tibber får du sanntidsmåleren Tibber Pulse kostnadsfritt ved innmelding.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/tibber"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Oslo Nye Teater",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på billetter til Hovedscenen og Centralteatret hos Oslo Nye Teater.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/oslo-nye-teater"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "EVO treningssenter",
+      "discount_percentage": null,
+      "description": "Fast lav månedspris, ingen innmeldingsavgift, fri tilgang til alle sentre i Norge og full fleksibilitet uten bindingstid.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/evo"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "HTH",
+      "discount_percentage": 20,
+      "description": "Få montering til 20 % av kjøpesummen når du kjøper kjøkken, bad og garderobe hos HTH. Veiledning og interiørforslag fra HTH's kjøkkeneksperter får du i tillegg helt gratis.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hth"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OBOS Bostart",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Bostart ved salgsstart.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/obos-bostart"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "BWH Hotels",
+      "discount_percentage": 20,
+      "description": "10-20 % rabatt på overnatting ved alle hoteller.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/best-western-hotels--resorts"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Holmenkollen Skifestival",
+      "discount_percentage": 50,
+      "description": "Få 25–50 % rabatt på billetter til Holmenkollen Skifestival.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/holmenkollen-skifestival"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Det Norske Teatret",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på alle ordinære forestillinger hos Det Norske Teatret.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/det-norske-teatret"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Tryg Forsikring",
+      "discount_percentage": 23,
+      "description": "OBOS-medlemmer får inntil 23 prosent rabatt på forsikringer hos Tryg.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/tryg-forsikring"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Avicci Experience",
+      "discount_percentage": 15,
+      "description": "15 % rabatt på inngangsbilletter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/avicii-experience"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Vålerenga Ishockey",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til Vålerenga Ishockey sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/valerenga-ishockey"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Høyskolen Kristiania",
+      "discount_percentage": 20,
+      "description": "20 prosent rabatt på alle emner og studier på nett, og på erfaringsbasert master, MBA og Master of Science in Financial Management.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hoyskolen-kristiania-nettstudier"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Strawberry",
+      "discount_percentage": 20,
+      "description": "15–20 % rabatt på overnatting på alle Quality Hotel, Comfort Hotel, Clarion Hotel og Home Hotel i Norge, Sverige, Danmark, Finland og Baltikum.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/strawberry"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Edderkoppen Scene",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på Edderkoppen Scene.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/edderkoppen-scene"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Nationaltheatret",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på billetter hos Nationaltheatret.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/nationaltheatret"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Nobels Fredssenter",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på inngangsbilletter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/nobels-fredssenter"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Viking Fotball",
+      "discount_percentage": null,
+      "description": "OBOS-rabatt på billetter til hjemmekamper på Viking stadion.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/viking-fotball"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "SK Brann",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til SK Brann sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/sk-brann"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Akvariet i Bergen",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på billetter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/akvariet-i-bergen"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "KFUM Oslo",
+      "discount_percentage": 50,
+      "description": "50 % på billetter til KFUMs hjemmekamper på Ekeberg.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/kfum-oslo"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Elon",
+      "discount_percentage": 15,
+      "description": "Få 15 prosent rabatt på all elektronikk utenom Apple-produkter på elon.no.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/elon"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Vålerenga Fotball Elite",
+      "discount_percentage": null,
+      "description": "99 kroner for voksne og 49 kroner for barn på Vålerengas hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/vif-fotball-elite"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Bravida",
+      "discount_percentage": 20,
+      "description": "Få 20 prosent rabatt på elektrotjenester, deler og montering av ladere til elbil.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/bravida"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "FK Eik Tønsberg",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på FK Eik Tønsberg sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/fotballklubben-eik-tonsberg"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Lambertseter Bad",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på inngang hos Lambertseter Bad i helgene.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/lambertseter-bad"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Oslo Taxi",
+      "discount_percentage": 10,
+      "description": "10 % rabatt på kjøring hos Oslo Taxi via appen Taxifix.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/oslo-taxi"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Flügger farve",
+      "discount_percentage": 20,
+      "description": "20 prosent rabatt på produkter fra Flügger, samt fargekonsultasjon.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/flugger-farve"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Bergen Bysykkel",
+      "discount_percentage": 25,
+      "description": "Få 25 prosent rabatt ved kjøp av sesongpass hos Bergen bysykkel.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/bergen-bysykkel"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Maxbo",
+      "discount_percentage": 15,
+      "description": "Fra 15 prosent bonusopptjening på alle varer til ordinære priser, både i butikk og på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/maxbo"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Go Nordic Cruiseline",
+      "discount_percentage": 15,
+      "description": "15 % fast helårsrabatt på alle lugartyper ved bestilling av MiniCruise til København. 10 % fast helårsrabatt på båtreiser på ruten Oslo-København.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/go-nordic-cruiseline"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Nøtterøy Kulturhus",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på billetter hos Nøtterøy Kulturhus.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/notteroy-kulturhus"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "ODEON Kino",
+      "discount_percentage": 15,
+      "description": "Få 15 % rabatt på inntil fem billetter per medlem på ordinære kinobilletter - hele uka.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/odeon-kino"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Kistefos",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på inntil fem billetter per medlem.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/kistefos"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Fredrikstad FK",
+      "discount_percentage": null,
+      "description": "100 kroner for voksne og 50 kroner for barn på billetter til FFK sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/fredrikstad-fk"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Henie Onstad Kunstsenter",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på inngang for inntil to billetter per medlem. Gratis inngang for barn under 18 år og medlemmer som har ledsagerbevis.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/henie-onstad-kunstsenter"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OBOS Eiendomsmeglere",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem får du 5000 kroner i rabatt når du selger boligen din gjennom OBOS Eiendomsmeglere.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/obos-eiendomsmeglere"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "SNØ",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på inngangsbilletter hos SNØ, verdens råeste helårsarena for snøopplevelser.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/sno"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OBOS-banken",
+      "discount_percentage": null,
+      "description": "I OBOS-banken får du opptil 4,55 % rente fra første krone på sparepengene. I tillegg får du som medlem bedre renter på boliglån, gratis bankkort og god rente på brukskonto fra første krone.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/obos-banken"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Sector Alarm",
+      "discount_percentage": null,
+      "description": "Sikre hjemmet ditt mot innbrudd og brann med boligalarm fra Sector Alarm. Som OBOS-medlem kan du spare opptil 5670 kroner det første året.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/sector-alarm"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Norsk Folkemuseum",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på voksenbillett og 10 % rabatt i museumsbutikken til Norsk Folkemuseum.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/norsk-folkemuseum"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Eeffy",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem sparer du 6000 kroner på energirådgivning fra Eeffy, inkludert energimerking av boligen.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/eeffy"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Trondheim Bysykkel",
+      "discount_percentage": 25,
+      "description": "Få 25 prosent rabatt ved kjøp av sesongpass hos Trondheim bysykkel.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/trondheim-bysykkel"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Otovo",
+      "discount_percentage": 10,
+      "description": "10 % rabatt på et nøkkelferdig solcelleanlegg, inkludert installasjon.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/otovo"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Storhamar Ishockey",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til Storhamar Ishockey sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/storhamar-ishockey"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Bø Sommarland",
+      "discount_percentage": 30,
+      "description": "15–30 % rabatt på billetter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/bo-sommarland"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Kid Interiør",
+      "discount_percentage": 30,
+      "description": "Få det fint hjemme med 30 prosent rabatt hos Kid, både i butikk og på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/kid-interior"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Den Nationale Scene",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på teaterbilletter hos Den Nationale Scene.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/den-nationale-scene"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Skimuseet og Holmenkollen",
+      "discount_percentage": 30,
+      "description": "30 % rabatt på Skimuseet og 100 kroner i avslag på Kollensvevet.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/skimuseet-og-holmenkollen"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Bohus",
+      "discount_percentage": 15,
+      "description": "Forny hjemmet med 15 prosent rabatt hos Bohus, både i varehus og på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/bohus"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Trøndelag Teater",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på billetter hos Trøndelag Teater.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/trondelag-teater"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Oslo Bysykkel",
+      "discount_percentage": 25,
+      "description": "Få 25 prosent rabatt ved kjøp av 365-dagers pass hos Oslo bysykkel.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/oslo-bysykkel"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Farmasiet – apotek på nett",
+      "discount_percentage": 20,
+      "description": "Få 20 prosent rabatt på ordinære varer hos Norges største apotek på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/farmasiet-apotek-pa-nett"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Talkmore",
+      "discount_percentage": 20,
+      "description": "Inntil 20 prosent rabatt på mobilabonnement. Lave priser og garantert full Telenor-dekning.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/talkmore"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Circle K",
+      "discount_percentage": null,
+      "description": "Få minst 38 øre rabatt per liter på drivstoff, og 45 øre/kWt i rabatt på hurtiglading av elbil.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/circle-k"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Montér Stor-Bergen",
+      "discount_percentage": 40,
+      "description": "Inntil 40 % rabatt på bestillingsvarer, og inntil 15 % rabatt på lagerførte varer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/monter-stor-bergen"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Rogaland Teater",
+      "discount_percentage": 25,
+      "description": "Få 25 % rabatt på billetter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/rogaland-teater"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OBOS-ligaen",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem har du tilgang til OBOS-billetten: 100 kroner for voksne og 50 kroner for barn. Rabatten gjelder på alle kamper i OBOS-ligaen.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/obos-ligaen"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Kolstad Håndball",
+      "discount_percentage": 50,
+      "description": "Få 30 til 50 % rabatt på Kolstad Håndballs hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/kolstad-handball"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Storhamar Håndball",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til Storhamar Håndball sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/storhamar-handball"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Anton Sport",
+      "discount_percentage": 20,
+      "description": "OBOS-medlemmer får 20 prosent bonus på alle ordinære priser.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/anton-sport"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Hadeland Glassverk",
+      "discount_percentage": 30,
+      "description": "30 % rabatt på sesongens glassblås og 15 % rabatt på varer i butikk og på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hadeland-glassverk"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Avis",
+      "discount_percentage": 30,
+      "description": "Inntil 30 % rabatt på leiebil i Norge.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/avis"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "LSK Kvinner",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til LSK Kvinner sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/lsk-kvinner"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Apollo",
+      "discount_percentage": null,
+      "description": "500 kroner i rabatt per reisende.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/apollo"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "TusenFryd",
+      "discount_percentage": 30,
+      "description": "Opptil 30 % rabatt per billett.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/tusenfryd"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Sparta Sarpsborg",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til Sparta Hockeys hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/sparta-sarpsborg"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Vianor",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på dekkhotell og flere andre gode fordeler.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/vianor"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "NOVASOL",
+      "discount_percentage": 10,
+      "description": "Fra 6–10 % rabatt på leie av feriehus.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/novasol"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Lørenskog Ishockey",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på billetter til Lørenskog Ishockey sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/lorenskog-ishockey"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Cutters",
+      "discount_percentage": 20,
+      "description": "Få 20 % rabatt, eller 50 % på første klipp hvis du er ny kunde.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/cutters"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Skeid",
+      "discount_percentage": 10,
+      "description": "OBOS-rabatt på hjemmekamper og 10 % rabatt på fotballskoler.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/skeid"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Den Norske Opera & Ballett",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på billetter og omvisning hos Den Norske Opera & Ballett.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/den-norske-opera-and-ballett"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Roseslottet",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på inngang på Roseslottet for inntil fem billetter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/roseslottet"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Lyn Damer",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på billetter til Lyn Damer sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/lyn-damer"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Samsung",
+      "discount_percentage": 30,
+      "description": "Inntil 30 prosent rabatt på kvalitetsprodukter fra Samsung.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/samsung"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "VVS Norge – Bademiljø og Comfort",
+      "discount_percentage": 15,
+      "description": "15 % rabatt på rørleggertjenester og deler fra Bademiljø, Comfort og VVS Norge.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/vvs-norge-bademiljo-og-comfort"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Legalis",
+      "discount_percentage": null,
+      "description": "Fast rabattert timespris hos advokat.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/legalis"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Ammerud Basket",
+      "discount_percentage": 50,
+      "description": "Få 50 % rabatt på billetter til hjemmekampene til Ammerud Basket.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/ammerud-basket"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Hunderfossen Eventyrpark",
+      "discount_percentage": null,
+      "description": "OBOS-pris på datofestede dagsbilletter: fra 515 kroner per billett.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hunderfossen-eventyrpark"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Wallmans Oslo",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på inntil seks billetter hos Wallmans Oslo.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/wallmans-oslo"
+    }
+  ]
+}

@@ -1,0 +1,2294 @@
+{
+  "generated_at": "2026-07-17T03:33:20.588650+00:00",
+  "sources": [
+    {
+      "provider": "DNB",
+      "source_page": "https://www.dnb.no/kundeprogram/fordeler/faste-rabatter",
+      "shared_discount_code": "DNB8547",
+      "count": 66,
+      "fetched_at": null
+    },
+    {
+      "provider": "OBOS",
+      "source_page": "https://www.obos.no/medlem/medlemsfordeler",
+      "shared_discount_code": null,
+      "count": 93,
+      "fetched_at": null
+    },
+    {
+      "provider": "Elbilforeningen",
+      "source_page": "https://elbil.no/medlemsfordeler/",
+      "shared_discount_code": null,
+      "count": 34,
+      "fetched_at": "2026-07-17"
+    },
+    {
+      "provider": "USBL",
+      "source_page": "https://www.usbl.no/medlemskap/medlemsfordeler",
+      "shared_discount_code": null,
+      "count": 58,
+      "fetched_at": null
+    }
+  ],
+  "discounts": [
+    {
+      "provider": "DNB",
+      "retailer": "Odlo",
+      "discount_percentage": 10,
+      "description": "Grunnlagt i Norge i 1946 – perfeksjonert i de sveitsiske Alpene. Med lidenskap for å flytte grenser utvikler base layers og helårsbekledning i verdensklasse – så du kan oppleve mer, oftere og mer komfortabelt. Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://odlo.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Henri-Lloyd",
+      "discount_percentage": 10,
+      "description": "ble grunnlagt i 1963 for å levere markedets beste værbeskyttelse. Med innovasjoner som tapede sømmer og den ikoniske Consort-jakken kombinerer vi funksjon, stil og bærekraft. Henri-Lloyd er en livsstil – for livets beste dager, tørr, komfortabel og klar for alt. Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.henrilloyd.com."
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Janus",
+      "discount_percentage": 10,
+      "description": "Med lidenskap, kunnskap og ekte håndverkstradisjon har Wool strikket ullplagg i Norge i over 130 år. Vi forener tradisjon og innovasjon for å skape ullundertøy og mellomlag som holder deg varm, tørr og komfortabel – enten du er på fjellet, i marka eller på vei til jobb. For alle som elsker å være ute – strikket med omtanke i Norge. Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://janus.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "TEGNE",
+      "discount_percentage": 10,
+      "description": "Hos finner du kvalitetsprodukter til små og store kreative prosjekter. Enten du er kunstner, hobbyentusiast eller nybegynner, har vi det du trenger for å skape med glede og presisjon. Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.tegne.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Barbershop",
+      "discount_percentage": 10,
+      "description": ".no har siden 2006 levert kvalitetsprodukter for barbering, skjegg, og hår- og hudpleie til menn. NB! Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://barbershop.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Paradox Museum",
+      "discount_percentage": 10,
+      "description": "Optiske illusjoner, interaktive installasjoner og morsomme fotoøyeblikk. Perfekt for en vennetur, en unik date eller en familieutflukt. Gjør dere klare til å bli lurt av opp-ned-rom og synsbedrag i alle fasonger! NB! Tilbudet gjelder i nettbutikken.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.paradoxmuseumoslo.com/ "
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Kinogavekort.no",
+      "discount_percentage": 10,
+      "description": "Kinogavekortet er den perfekte gaven - en kinoopplevelse! Brukes på kjøp av kinobilletter og kioskvarer i hele landet. Velg beløp, antall gavekort og en hyggelig hilsen helt selv. NB! Rabatten gjelder kun i nettbutikk.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://kinogavekort.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "FLOYD",
+      "discount_percentage": 10,
+      "description": "Siden 1985 har kledd opp kvinner til både hverdag og fest! Hos FLOYD.no får du siste nyheter og trender innen klær og damemote fra både eget varemerke og et variert utvalg eksterne merkevarer. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.floyd.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Gullfunn",
+      "discount_percentage": 10,
+      "description": "er en av landets ledende gullsmedkjeder med fokus på smykker og klokker til gode priser. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.gullfunn.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Vakre Vene",
+      "discount_percentage": 10,
+      "description": "En spennende og koselig motebutikk hvor du finner inspirasjon til din personlige stil. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.vakrevene.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Interflora",
+      "discount_percentage": 10,
+      "description": "Vi leverer din blomsterhilsen i hele Norge, og i resten av verden, rett på døren og til alle anledninger. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.interflora.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "L'Occitane",
+      "discount_percentage": 10,
+      "description": "Alt du trenger fra topp til tå! L’Occitane er et naturlig kroppspleie -og hudpleiemerke med produkter til både han og henne. Hos oss finner du produkter til kropp, ansikt, hår og hjem, og vi har gavene som passer alle. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://no.loccitane.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Golfshopen",
+      "discount_percentage": 10,
+      "description": "Norges største golfbutikk! Vi fører alle merker. Rabatt gjelder ikke for Custom Fitting. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.golfshopen.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Helly Hansen",
+      "discount_percentage": 10,
+      "description": "er kjent for sitt vanntette og pustende Helly Tech®- materiale som brukes i jakker, bukser, seiltøy og yttertøy. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.hellyhansen.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Bottega",
+      "discount_percentage": 10,
+      "description": "Brand Store er den råeste butikken for kjøkkenutstyr. Vi fører merker som KAI, Hexclad, Spiegelau og Dutchdeluxes. Det er oss du besøker når du vil ha kvalitet og spennende gaver til den som «har alt». NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.bottega.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Kondomeriet",
+      "discount_percentage": 10,
+      "description": "Norges største leverandør av sexleketøy. Sexleketøy til han, henne og par. Kom innom og la deg inspirere! NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.kondomeriet.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Swims",
+      "discount_percentage": 10,
+      "description": "Teknisk og brukervennlig mote. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://eu.swims.com/no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Swix",
+      "discount_percentage": 10,
+      "description": "- Rå på utetrening i nordiske forhold. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.swixsport.com/no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Olivenlunden",
+      "discount_percentage": 10,
+      "description": "Gastronomiske spesialiteter fra Middelhavet. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.olivenlunden1830.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Viking",
+      "discount_percentage": 10,
+      "description": "Stort utvalg av tursko, fritidssko og gummistøvler til barn og voksne. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://no.vikingfootwear.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Johnny Love",
+      "discount_percentage": 10,
+      "description": "Ledende herremerke i high end-segmentet. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.johnnylove.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Krogh Optikk",
+      "discount_percentage": 10,
+      "description": "Kjøp sesongens solbriller og sørg for alltid å ha nok linser. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://kroghoptikk.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Lillelam",
+      "discount_percentage": 10,
+      "description": "er en norsk merkevare som skaper varme klær med kjærlighet og omtanke på en bærekraftig og etisk forsvarlig måte. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://lillelam.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Vianor",
+      "discount_percentage": 10,
+      "description": "Tilbudet gjelder for privat bruk ved kjøp i nettbutikk. Rabatt gjelder ikke i fysiske verksteder.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://vianor.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Session",
+      "discount_percentage": 10,
+      "description": "Norges fremste på brett og tilbehør. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.session.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Tufte",
+      "discount_percentage": 10,
+      "description": "Komfortable fritidsklær og undertøy til hele familien, laget så bærekraftig som mulig. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://tuftewear.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Galleri D40",
+      "discount_percentage": 10,
+      "description": "Kunstgalleri etablert i 1972. Norges beste utvalg i grafikk. Tilbudet kan ikke kombineres med andre rabattavtaler. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.d40.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Teleoutlet",
+      "discount_percentage": 10,
+      "description": "Norges største utvalg av ny-ish mobiltelefoner og nytt tilbehør. Fører produkter fra kjente merkevarer som Apple, Samsung, Panzerglass, Ideal of Sweeden, dbramante og mange flere. Har du en gammel mobiltelefon liggende? Få en verdivurdering og selg mobilen til . NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://teleoutlet.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Aword",
+      "discount_percentage": 10,
+      "description": "Design og produkter til hjemmet. Designklassikere fra bl.annet Vitra, Bang & Olufsen og Louis Poulsen. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://aword.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Spaxo",
+      "discount_percentage": 10,
+      "description": "Spabad & Swimspa produsert i Europa. Italienske pizzaovner og utedusjer. Alt du trenger til uteplassen hjemme og på hytta! NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://spaxo.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Beckmann",
+      "discount_percentage": 10,
+      "description": "Med fokus på ergonomi, funksjonalitet, kvalitet og design. Vi leverer skolesekker og tilbehør fra barnehagealder og opp til student. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://beckmann.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Travelstuff",
+      "discount_percentage": 10,
+      "description": "Over 4.000 varer til reise, ferie og friluftsliv, samt en egen alt til hytta kategori. Kjente merkevarer med hovedvekt på kvalitet, design og multifunksjonalitet. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.travelstuff.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Standard",
+      "discount_percentage": 10,
+      "description": "Kostymer, utkledning, morosaker, festartikler og dekorasjoner. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.festmagasinet.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Dovre",
+      "discount_percentage": 10,
+      "description": "er en historie om lidenskap. Inspirert av rå, norsk natur – og styrken til \u0000å stå fjellstøtt i vær og vind. I 100 år har vi brukt rene materialer til å lage undertøy av beste klasse. Slitesterkt og komfortabelt, produsert på lag med naturen vi er så glade i. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://dovre.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Byha",
+      "discount_percentage": 10,
+      "description": "Norsk nettbutikk med spennende merkevarer fra kjente og kvalitetsbevisste designere til deg og ditt hjem. Rask levering og personlig kundeservice. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.byha.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Bellas Hus",
+      "discount_percentage": 10,
+      "description": "Norges mest spennende interiørbutikk med et bredt utvalg av sengetøy, håndklær, interiørartikler og loungewear fra kjente internasjonale merkevarer, samt vårt eget brand. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.bellashus.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Morild",
+      "discount_percentage": 10,
+      "description": "lager spennende plagg til store og små, med integrert spesialfunksjon - refleks. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.morildnorway.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "BagBrokers",
+      "discount_percentage": 10,
+      "description": "Kofferter og reiseutstyr på nett. Kjente merkevarer. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.bagbrokers.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Arons",
+      "discount_percentage": 10,
+      "description": "er ledende forhandler av japanske kokkekniver og kjøkkenutstyr. De fører merker som Masahiro, Kasumi, Hattori, Kanetsugu, Takeshi Saji med flere. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://arons.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Padelutstyr",
+      "discount_percentage": 10,
+      "description": ".no er stedet for å gjøre et trygt kjøp av padelutstyr, som bl.a racketer og tilbehør. Vi er også Norges ledende aktør på installasjoner av baner, samt en solid rådgiver til dine padelprosjekter. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.padelutstyr.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Småungene",
+      "discount_percentage": 10,
+      "description": "Gode, komfortable barneklær opptil 10 år. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.smaaungene.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Smartlapper",
+      "discount_percentage": 10,
+      "description": "Navnelapper til merking av klær og eiendeler. Enkel bestilling, gratis frakt og lynrask levering. Lag dine neste navnelapper. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.smartlapper.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Stanley",
+      "discount_percentage": 10,
+      "description": "har en rik historie på over 100 år. Det ble grunnlagt av oppfinneren William Stanley Jr. som for alltid endret måten varme drikker ble konsumert på. I århundret som har gått, har hans vakuumflaske utviklet seg fra en idé til en ikonisk gjenstand og har blitt en uunnværlig del av arbeidsdagen, bilturer og friluftsopplevelser. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.stanley.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Gutta på Haugen",
+      "discount_percentage": 10,
+      "description": "har siden 1994 bydd Oslos befolkning på delikatesser av beste slag fra inn- utland. Nå kan du også klikke all verdens delikatesser hjem til deg! Gutta på Haugen leverer det beste av franske osteklassikere, krydderier fra Mexico eller spekemat fra norske småskalaprodusenter rett hjem til deg. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.gutta.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Tights.no",
+      "discount_percentage": 10,
+      "description": "Finn alt du trenger av treningstøy, klær, sko, sunn smartmat, treningsutstyr og kosttilskudd. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.tights.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Sportslivet",
+      "discount_percentage": 10,
+      "description": "Faghandel med kjente merker innen sport og friluftsliv. Sykkel, ski, kajakk, packraft, sup, treningsklær, sko og turutstyr m/mer. Rask levering og gode priser. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.sportslivet.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Ledlenser",
+      "discount_percentage": 10,
+      "description": "er en verdenskjent ledende leverandør av hodelykter og lommelykter. Vi leverer det beste innenfor LED lykter og innoverer kontinuerlig for å tilby de beste produktene – hvert eneste år. Her finner du alt du kan tenke deg til både sport, friluft, industri og fritid. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.ledlensershop.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Leatherman",
+      "discount_percentage": 10,
+      "description": "– det originale multiverktøyet. Fantastisk kvalitet på produkter som produseres i Portland i USA. Leatherman ble etablert i 1983 av Tim Leatherman, som har bygd opp den sterkeste merkevaren innenfor multiverktøy i verden. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.leathermanshop.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Camelbak",
+      "discount_percentage": 10,
+      "description": "er en av verdens ledende aktører innen drikkesystemer. Camelbak sin gründer laget verdens første drikkeblære i sekk tilbake i 1989 – resten er historie. I dag lager camelbak drikkeflasker, sekker, vester og belter til alle mulige aktiviteter. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.camelbak.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Alpina",
+      "discount_percentage": 10,
+      "description": "er en fottøy-produsent med en lang og inspirerende tradisjon. Best kjent for skisko (racing, klassisk og tur) samt fjellsko, alpinstøvler og overtrekk til langrennsko. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.alpina.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Crispi",
+      "discount_percentage": 10,
+      "description": "er en italiensk fottøy-produsent med fokus på fjell-, tur- og jaktstøvler, samt fjellskistøvler og fritidssko. Selskapet ble etablert tidlig på 70-tallet. CRISPI grunder seg i kvalitet og teknologi og er en av de mest kvalifiserte innen utendørsfeltet. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.crispi.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Brusletto",
+      "discount_percentage": 10,
+      "description": "er en av de eldste knivprodusentene i Norge, med historie fra 1896. Vi produserer kniver for jakt, fiske, friluft og kjøkken i høy kvalitet. Knivene er håndlaget av knivmakerne på vår fabrikk på Geilo. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.brusletto.no"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Welli",
+      "discount_percentage": 10,
+      "description": "er en unik norsk nettbutikk med et enestående utvalg av produkter innen trening, helse og velvære. Ved å tilby topp kvalitet på produkter og kundeservice vil vi bidra til at våre kunder får et bedre liv gjennom fysisk aktivitet og velvære. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.welli.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Høie",
+      "discount_percentage": 10,
+      "description": "Sengetøy, dyner, puter og pledd fra merkevaren of Scandinavia. NB! Rabatten gjelder kun i nettbutikken og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.hoie.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Elite Foto",
+      "discount_percentage": 10,
+      "description": "Gjør livets øyeblikk uforglemmelige med ! Elite Foto er Norges raskeste bildebutikk, hvor du kan få bilder, kort, kalendere og fotobøker klar på én time. Vis frem bildene dine med stil - se utvalget av rammer og fotoalbum. Velg ekspress og hent i butikk samme dag, eller få det raskt levert hjem. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.elitefoto.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Berg",
+      "discount_percentage": 10,
+      "description": "sine klokker er inspirert av norsk natur og historie, og er kjent for sitt enkle minimalistiske skandinaviske design kombinert med lakseskinnreimer fra Nord-Norge. Med kolleksjoner som Ulriken, Birkebeiner, Grieg, Holmenkollen og Argentina sin verdensmester klokke, har Berg noe for enhver. Gratis frakt og retur. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://bergwatches.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Syversen",
+      "discount_percentage": 10,
+      "description": "Norsk nettbutikk; spesialister på undertøy, sokker, strømpebukser og badetøy. Varene sendes innen 24t fra lager i Fredrikstad. PANOS EMPORIO, ETON socks, Calvin Klein legwear, OROBLU, MUCHACHOMALO, DKNY, LEVI’S, PUMA, HEAD, O’NEILL, SAXX++ NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://syversen.com"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Bullfighter",
+      "discount_percentage": 10,
+      "description": "er en norsk butikk og nettside som spesialiserer seg i salg av motorsykkelklær og diverse tilbehør for motorsykkelentusiaster. De tilbyr et bredt utvalg av produkter, fra beskyttelsesutstyr som hjelmer og jakker til praktisk tilbehør som vesker og kommunikasjonssystemer for MC-førere. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.bullfighter.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "BeGood",
+      "discount_percentage": 10,
+      "description": "Norges største leverandør av tilbehør til Tesla og de fleste andre elbiler. Rask levering og enestående kundeservice. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.begood.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Von Doren",
+      "discount_percentage": 10,
+      "description": "Kjent internasjonalt og hyllet i utenlandske magasiner, har levert til kunder i 30 land. Klokkene har et klassisk, tidløst design med et hint av vintage - Inspirert av fortiden, for fremtiden. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.vondoren.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Skaugum",
+      "discount_percentage": 10,
+      "description": "lager bestikk for hånd, del for del på Geilo. Samtidig som de jobber med hendene, jobber de også med mennesker. På fabrikken strekker de ut en hånd til de som kanskje ikke har passet inn andre steder. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://skaugum.info/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Kastel Shoes",
+      "discount_percentage": 10,
+      "description": "Sko for nordisk vær og livsstil. Fra vanntette støvler til sneakers i ull. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://kastelshoes.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Ulvang",
+      "discount_percentage": 10,
+      "description": "Vår norske arv har lært oss et par ting om å holde oss varme. Oppdag vår nye kolleksjon! Funksjonelle, varige og ansvarlig produserte ullklær til alle årstider og alle eventyr. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://ulvang.com/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Hällmark",
+      "discount_percentage": 10,
+      "description": "er et svensk varemerke for utendørs matlaging - både for hagen og i skogen. I sortimentet finner du stekepanner og stekeheller til forskjellige bruksområder, kaffekanner, vaffeljern, pizzaovner og mye mer. Produktene er utviklet med fokus på sikker bruk, for matlaging der hvor maten smaker best – utendørs. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.hallmarkofsweden.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "DAIDDA",
+      "discount_percentage": 10,
+      "description": "er et galleri og printlab drevet av to søstre, inspirert av det samiske ordet \"Dáidda,\" som betyr kunst. DAIDDA er eksklusiv leverandør av posters og artprints i samarbeid med Nasjonalmuseet, og tilbyr over 600 verk tilgjengelig som print on demand. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://daidda.no/"
+    },
+    {
+      "provider": "DNB",
+      "retailer": "Sportmann.no",
+      "discount_percentage": 10,
+      "description": "På Sportmann finner du et bredt utvalg av merkeklær, sko og treningstøy til dame, herre og barn. NB! Rabatten gjelder kun i nettbutikk og ikke i fysiske butikker.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.sportmann.no/"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Bjørneparken",
+      "discount_percentage": 30,
+      "description": "20–30 % rabatt på billetter i Bjørneparken.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/bjorneparken"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OsloBolig",
+      "discount_percentage": 25,
+      "description": "OBOS-medlemmer får forkjøpsrett på 25 % av boligene til OsloBolig.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/oslobolig"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Forkjøpsrett",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem stiller du først i køen når du skal kjøpe bolig, og har forkjøpsrett på over 90 000 boliger i hele Norge.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/forkjopsrett"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OBOS Deleie",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Deleie ved salgsstart.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/obos-deleie"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "LEGOLAND",
+      "discount_percentage": null,
+      "description": "2 for 1 inngangsbillett til LEGOLAND.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/legoland"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Domino's Pizza",
+      "discount_percentage": 20,
+      "description": "Få 20 prosent rabatt på månedens OBOS-pizza, og 15 prosent på alle pizzaer og sideretter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/dominos-pizza"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Høyt Under Taket",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på inngangsbillett på Høyt Under Taket.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hoyt-under-taket"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Kongeparken",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på dagskort ved bestilling online.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/kongeparken-1"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Strim",
+      "discount_percentage": null,
+      "description": "Samle strømmetjenester og TV-kanaler på ett sted. Prøv 30 dagers kostnadsfritt som ny kunde.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/strim"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Fonus Begravelsesbyrå",
+      "discount_percentage": null,
+      "description": "Rabatt på kister, urner og nye gravsteiner.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/fonus-begravelsesbyra"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "HamKam fotball",
+      "discount_percentage": null,
+      "description": "99 kroner for voksen og 50 kroner for barn på HamKam sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hamkam"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Hafjell, Kvitfjell og Oppdal",
+      "discount_percentage": 10,
+      "description": "10 % rabatt på 1–3 dagers heiskort i Hafjell, Kvitfjell og Oppdal.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/alpinco-hafjell-kvitfjell-og-oppdal"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Vålerenga Damer",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på billetter til Vålerenga Damer sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/valerenga-damer"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Tibber",
+      "discount_percentage": null,
+      "description": "Spar 995 kroner på sanntidsmåler. Som OBOS-medlem og ny kunde hos Tibber får du sanntidsmåleren Tibber Pulse kostnadsfritt ved innmelding.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/tibber"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Oslo Nye Teater",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på billetter til Hovedscenen og Centralteatret hos Oslo Nye Teater.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/oslo-nye-teater"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "EVO treningssenter",
+      "discount_percentage": null,
+      "description": "Fast lav månedspris, ingen innmeldingsavgift, fri tilgang til alle sentre i Norge og full fleksibilitet uten bindingstid.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/evo"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "HTH",
+      "discount_percentage": 20,
+      "description": "Få montering til 20 % av kjøpesummen når du kjøper kjøkken, bad og garderobe hos HTH. Veiledning og interiørforslag fra HTH's kjøkkeneksperter får du i tillegg helt gratis.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hth"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OBOS Bostart",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem får du forkjøpsrett på nyboliger med OBOS Bostart ved salgsstart.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/obos-bostart"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "BWH Hotels",
+      "discount_percentage": 20,
+      "description": "10-20 % rabatt på overnatting ved alle hoteller.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/best-western-hotels--resorts"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Holmenkollen Skifestival",
+      "discount_percentage": 50,
+      "description": "Få 25–50 % rabatt på billetter til Holmenkollen Skifestival.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/holmenkollen-skifestival"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Det Norske Teatret",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på alle ordinære forestillinger hos Det Norske Teatret.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/det-norske-teatret"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Tryg Forsikring",
+      "discount_percentage": 23,
+      "description": "OBOS-medlemmer får inntil 23 prosent rabatt på forsikringer hos Tryg.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/tryg-forsikring"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Avicci Experience",
+      "discount_percentage": 15,
+      "description": "15 % rabatt på inngangsbilletter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/avicii-experience"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Vålerenga Ishockey",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til Vålerenga Ishockey sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/valerenga-ishockey"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Høyskolen Kristiania",
+      "discount_percentage": 20,
+      "description": "20 prosent rabatt på alle emner og studier på nett, og på erfaringsbasert master, MBA og Master of Science in Financial Management.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hoyskolen-kristiania-nettstudier"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Strawberry",
+      "discount_percentage": 20,
+      "description": "15–20 % rabatt på overnatting på alle Quality Hotel, Comfort Hotel, Clarion Hotel og Home Hotel i Norge, Sverige, Danmark, Finland og Baltikum.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/strawberry"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Edderkoppen Scene",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på Edderkoppen Scene.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/edderkoppen-scene"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Nationaltheatret",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på billetter hos Nationaltheatret.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/nationaltheatret"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Nobels Fredssenter",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på inngangsbilletter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/nobels-fredssenter"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Viking Fotball",
+      "discount_percentage": null,
+      "description": "OBOS-rabatt på billetter til hjemmekamper på Viking stadion.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/viking-fotball"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "SK Brann",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til SK Brann sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/sk-brann"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Akvariet i Bergen",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på billetter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/akvariet-i-bergen"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "KFUM Oslo",
+      "discount_percentage": 50,
+      "description": "50 % på billetter til KFUMs hjemmekamper på Ekeberg.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/kfum-oslo"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Elon",
+      "discount_percentage": 15,
+      "description": "Få 15 prosent rabatt på all elektronikk utenom Apple-produkter på elon.no.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/elon"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Vålerenga Fotball Elite",
+      "discount_percentage": null,
+      "description": "99 kroner for voksne og 49 kroner for barn på Vålerengas hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/vif-fotball-elite"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Bravida",
+      "discount_percentage": 20,
+      "description": "Få 20 prosent rabatt på elektrotjenester, deler og montering av ladere til elbil.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/bravida"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "FK Eik Tønsberg",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på FK Eik Tønsberg sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/fotballklubben-eik-tonsberg"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Lambertseter Bad",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på inngang hos Lambertseter Bad i helgene.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/lambertseter-bad"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Oslo Taxi",
+      "discount_percentage": 10,
+      "description": "10 % rabatt på kjøring hos Oslo Taxi via appen Taxifix.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/oslo-taxi"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Flügger farve",
+      "discount_percentage": 20,
+      "description": "20 prosent rabatt på produkter fra Flügger, samt fargekonsultasjon.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/flugger-farve"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Bergen Bysykkel",
+      "discount_percentage": 25,
+      "description": "Få 25 prosent rabatt ved kjøp av sesongpass hos Bergen bysykkel.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/bergen-bysykkel"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Maxbo",
+      "discount_percentage": 15,
+      "description": "Fra 15 prosent bonusopptjening på alle varer til ordinære priser, både i butikk og på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/maxbo"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Go Nordic Cruiseline",
+      "discount_percentage": 15,
+      "description": "15 % fast helårsrabatt på alle lugartyper ved bestilling av MiniCruise til København. 10 % fast helårsrabatt på båtreiser på ruten Oslo-København.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/go-nordic-cruiseline"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Nøtterøy Kulturhus",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på billetter hos Nøtterøy Kulturhus.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/notteroy-kulturhus"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "ODEON Kino",
+      "discount_percentage": 15,
+      "description": "Få 15 % rabatt på inntil fem billetter per medlem på ordinære kinobilletter - hele uka.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/odeon-kino"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Kistefos",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på inntil fem billetter per medlem.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/kistefos"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Fredrikstad FK",
+      "discount_percentage": null,
+      "description": "100 kroner for voksne og 50 kroner for barn på billetter til FFK sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/fredrikstad-fk"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Henie Onstad Kunstsenter",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på inngang for inntil to billetter per medlem. Gratis inngang for barn under 18 år og medlemmer som har ledsagerbevis.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/henie-onstad-kunstsenter"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OBOS Eiendomsmeglere",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem får du 5000 kroner i rabatt når du selger boligen din gjennom OBOS Eiendomsmeglere.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/obos-eiendomsmeglere"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "SNØ",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på inngangsbilletter hos SNØ, verdens råeste helårsarena for snøopplevelser.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/sno"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OBOS-banken",
+      "discount_percentage": null,
+      "description": "I OBOS-banken får du opptil 4,55 % rente fra første krone på sparepengene. I tillegg får du som medlem bedre renter på boliglån, gratis bankkort og god rente på brukskonto fra første krone.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/obos-banken"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Sector Alarm",
+      "discount_percentage": null,
+      "description": "Sikre hjemmet ditt mot innbrudd og brann med boligalarm fra Sector Alarm. Som OBOS-medlem kan du spare opptil 5670 kroner det første året.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/sector-alarm"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Norsk Folkemuseum",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på voksenbillett og 10 % rabatt i museumsbutikken til Norsk Folkemuseum.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/norsk-folkemuseum"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Eeffy",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem sparer du 6000 kroner på energirådgivning fra Eeffy, inkludert energimerking av boligen.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/eeffy"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Trondheim Bysykkel",
+      "discount_percentage": 25,
+      "description": "Få 25 prosent rabatt ved kjøp av sesongpass hos Trondheim bysykkel.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/trondheim-bysykkel"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Otovo",
+      "discount_percentage": 10,
+      "description": "10 % rabatt på et nøkkelferdig solcelleanlegg, inkludert installasjon.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/otovo"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Storhamar Ishockey",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til Storhamar Ishockey sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/storhamar-ishockey"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Bø Sommarland",
+      "discount_percentage": 30,
+      "description": "15–30 % rabatt på billetter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/bo-sommarland"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Kid Interiør",
+      "discount_percentage": 30,
+      "description": "Få det fint hjemme med 30 prosent rabatt hos Kid, både i butikk og på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/kid-interior"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Den Nationale Scene",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på teaterbilletter hos Den Nationale Scene.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/den-nationale-scene"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Skimuseet og Holmenkollen",
+      "discount_percentage": 30,
+      "description": "30 % rabatt på Skimuseet og 100 kroner i avslag på Kollensvevet.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/skimuseet-og-holmenkollen"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Bohus",
+      "discount_percentage": 15,
+      "description": "Forny hjemmet med 15 prosent rabatt hos Bohus, både i varehus og på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/bohus"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Trøndelag Teater",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på billetter hos Trøndelag Teater.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/trondelag-teater"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Oslo Bysykkel",
+      "discount_percentage": 25,
+      "description": "Få 25 prosent rabatt ved kjøp av 365-dagers pass hos Oslo bysykkel.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/oslo-bysykkel"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Farmasiet – apotek på nett",
+      "discount_percentage": 20,
+      "description": "Få 20 prosent rabatt på ordinære varer hos Norges største apotek på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/farmasiet-apotek-pa-nett"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Talkmore",
+      "discount_percentage": 20,
+      "description": "Inntil 20 prosent rabatt på mobilabonnement. Lave priser og garantert full Telenor-dekning.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/talkmore"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Circle K",
+      "discount_percentage": null,
+      "description": "Få minst 38 øre rabatt per liter på drivstoff, og 45 øre/kWt i rabatt på hurtiglading av elbil.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/circle-k"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Montér Stor-Bergen",
+      "discount_percentage": 40,
+      "description": "Inntil 40 % rabatt på bestillingsvarer, og inntil 15 % rabatt på lagerførte varer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/monter-stor-bergen"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Rogaland Teater",
+      "discount_percentage": 25,
+      "description": "Få 25 % rabatt på billetter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/rogaland-teater"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "OBOS-ligaen",
+      "discount_percentage": null,
+      "description": "Som OBOS-medlem har du tilgang til OBOS-billetten: 100 kroner for voksne og 50 kroner for barn. Rabatten gjelder på alle kamper i OBOS-ligaen.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/obos-ligaen"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Kolstad Håndball",
+      "discount_percentage": 50,
+      "description": "Få 30 til 50 % rabatt på Kolstad Håndballs hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/kolstad-handball"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Storhamar Håndball",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til Storhamar Håndball sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/storhamar-handball"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Anton Sport",
+      "discount_percentage": 20,
+      "description": "OBOS-medlemmer får 20 prosent bonus på alle ordinære priser.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/anton-sport"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Hadeland Glassverk",
+      "discount_percentage": 30,
+      "description": "30 % rabatt på sesongens glassblås og 15 % rabatt på varer i butikk og på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hadeland-glassverk"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Avis",
+      "discount_percentage": 30,
+      "description": "Inntil 30 % rabatt på leiebil i Norge.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/avis"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "LSK Kvinner",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til LSK Kvinner sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/lsk-kvinner"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Apollo",
+      "discount_percentage": null,
+      "description": "500 kroner i rabatt per reisende.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/apollo"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "TusenFryd",
+      "discount_percentage": 30,
+      "description": "Opptil 30 % rabatt per billett.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/tusenfryd"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Sparta Sarpsborg",
+      "discount_percentage": 50,
+      "description": "50 % rabatt på billetter til Sparta Hockeys hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/sparta-sarpsborg"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Vianor",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på dekkhotell og flere andre gode fordeler.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/vianor"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "NOVASOL",
+      "discount_percentage": 10,
+      "description": "Fra 6–10 % rabatt på leie av feriehus.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/novasol"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Lørenskog Ishockey",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på billetter til Lørenskog Ishockey sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/lorenskog-ishockey"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Cutters",
+      "discount_percentage": 20,
+      "description": "Få 20 % rabatt, eller 50 % på første klipp hvis du er ny kunde.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/cutters"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Skeid",
+      "discount_percentage": 10,
+      "description": "OBOS-rabatt på hjemmekamper og 10 % rabatt på fotballskoler.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/skeid"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Den Norske Opera & Ballett",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på billetter og omvisning hos Den Norske Opera & Ballett.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/den-norske-opera-and-ballett"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Roseslottet",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på inngang på Roseslottet for inntil fem billetter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/roseslottet"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Lyn Damer",
+      "discount_percentage": 25,
+      "description": "25 % rabatt på billetter til Lyn Damer sine hjemmekamper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/lyn-damer"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Samsung",
+      "discount_percentage": 30,
+      "description": "Inntil 30 prosent rabatt på kvalitetsprodukter fra Samsung.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/samsung"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "VVS Norge – Bademiljø og Comfort",
+      "discount_percentage": 15,
+      "description": "15 % rabatt på rørleggertjenester og deler fra Bademiljø, Comfort og VVS Norge.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/vvs-norge-bademiljo-og-comfort"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Legalis",
+      "discount_percentage": null,
+      "description": "Fast rabattert timespris hos advokat.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/legalis"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Ammerud Basket",
+      "discount_percentage": 50,
+      "description": "Få 50 % rabatt på billetter til hjemmekampene til Ammerud Basket.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/ammerud-basket"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Hunderfossen Eventyrpark",
+      "discount_percentage": null,
+      "description": "OBOS-pris på datofestede dagsbilletter: fra 515 kroner per billett.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/hunderfossen-eventyrpark"
+    },
+    {
+      "provider": "OBOS",
+      "retailer": "Wallmans Oslo",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på inntil seks billetter hos Wallmans Oslo.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.obos.no/medlem/medlemsfordeler/wallmans-oslo"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Zaptec Go 2",
+      "discount_percentage": null,
+      "description": "Medlemspris på Zaptec Go 2. En norskutviklet ladeboks med fremtidsrettede funksjoner.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/zaptec-go-2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Topcamp",
+      "discount_percentage": null,
+      "description": "Rabatt på camping, hytter og glamping på alle Topcamp sine destinasjoner.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/topcamp/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "SpareBank 1 Finans Midt-Norge",
+      "discount_percentage": null,
+      "description": "Elbillån med gode betingelser for brukt og ny elbil.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/elbillan-fra-sparebank-1-finans-midt-norge/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Elbilforeningen (lading)",
+      "discount_percentage": null,
+      "description": "Enkel lading med ladebrikke eller app. Enkel betaling og tusenvis av ladestasjoner.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Elbilforeningens startpakke",
+      "discount_percentage": null,
+      "description": "Vi gir deg det du trenger som ny elbilist.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Råd og hjelp til elbilister",
+      "discount_percentage": null,
+      "description": "Gratis rådgivning for våre medlemmer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Elbilappen",
+      "discount_percentage": null,
+      "description": "Enkel lading, ruteplanlegger, ladekart og medlemskort.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Viking veihjelp",
+      "discount_percentage": null,
+      "description": "Kun kr 515,- for 12 måneder – uten egenandel.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Chilimobil",
+      "discount_percentage": null,
+      "description": "Ekstra gode månedspriser, helt egne pakker og helt uten bindingstid.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Advokatfirmaet Molteberg Nilsen",
+      "discount_percentage": null,
+      "description": "Eksklusive medlemsfordeler på timepris og fastpris på utforming av klage.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Juridisk hjelpesenter",
+      "discount_percentage": null,
+      "description": "Profesjonelle maler som gjør det enkelt å sende en klage på en trygg og effektiv måte.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Zaptec Go ladeboks",
+      "discount_percentage": null,
+      "description": "Smart og kompakt ladeboks designet og produsert i Norge.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "DEFA Power ladeboks",
+      "discount_percentage": null,
+      "description": "En smart ladeboks med integrert ladekabel og brukervennlig display.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "DEFA Solid ladeboks",
+      "discount_percentage": null,
+      "description": "Et godt alternativ for deg som vil ha en enkel og prisgunstig ladeboks hjemme eller på hytta.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "BilXtra",
+      "discount_percentage": 25,
+      "description": "Fast medlemsrabatt på opptil 25 % på alle produkter hos BilXtra.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "BeGood",
+      "discount_percentage": 17,
+      "description": "17 % medlemsrabatt på nesten alt i nettbutikken BeGood.no.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Thon Hotels",
+      "discount_percentage": null,
+      "description": "Unike fordeler på over 90 hoteller spredt i Norge, Sverige, Danmark, Belgia og Nederland.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Carglass",
+      "discount_percentage": null,
+      "description": "Gunstige fordeler ved bytte av frontrute, i tillegg til faste medlemsfordeler.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Viking kontroll (garantiutløp)",
+      "discount_percentage": null,
+      "description": "Gjennomfør en test hos Viking kontroll før garantien på din elbil går ut.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Viking (eierskiftekontroll m/ batteri)",
+      "discount_percentage": null,
+      "description": "Sjekk elbilens batteri og tekniske stand før kjøp eller salg.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Viking (garantiutløpskontroll m/ batteri)",
+      "discount_percentage": null,
+      "description": "Sjekk elbilen og batteriets tilstand før garantien løper ut.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Viking (eierskiftekontroll)",
+      "discount_percentage": null,
+      "description": "Kjøp og selg elbil trygt med en uavhengig sjekk av elbilens tilstand.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Smartlading",
+      "discount_percentage": null,
+      "description": "En medlemsfordel du kan bruke hver dag. Sjekk om din bil støttes.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Viking (skilt)",
+      "discount_percentage": 100,
+      "description": "100 % rabatt på alle skilt i Vikings nettbutikk. Velg mellom flere ulike varianter.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Alliance Optikk",
+      "discount_percentage": null,
+      "description": "Godt syn er viktig for trafikksikkerheten. Eksklusive medlemsfordeler.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "BilXtra",
+      "discount_percentage": 25,
+      "description": "Barn i bil: Hos BilXtra får alle våre medlemmer 25 % rabatt på alt av barneutstyr til bilen.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Domino's Pizza",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på all mat hos Domino's Pizza – elektrisk levert.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Wright Trafikkskole",
+      "discount_percentage": null,
+      "description": "Medlemsrabatt på BE, B96 og B automat.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Storytel",
+      "discount_percentage": null,
+      "description": "Gratisperiode og eksklusiv medlemsrabatt.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Bravida",
+      "discount_percentage": null,
+      "description": "Som medlem får du rabatt på timepris og materiell, samt fastpris på elsjekk.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Tibber",
+      "discount_percentage": null,
+      "description": "Reduser strømforbruket ditt – tegn strømavtale og få et gavekort på 750 kr.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Miljøagentene",
+      "discount_percentage": null,
+      "description": "Få 60 kr rabatt på medlemskontingent hos Miljøagentene, barnas egen miljøorganisasjon.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "Nøkkelservice",
+      "discount_percentage": null,
+      "description": "Med ladebrikken på nøkkelknippet tilbyr vi nøkkelservice til våre medlemmer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "Elbilforeningen",
+      "retailer": "DEFA/Zaptec ladebokser",
+      "discount_percentage": null,
+      "description": "Svært gode medlemspriser på DEFA og Zaptec ladebokser.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://elbil.no/medlemsfordeler/page/2/"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Asker Live",
+      "discount_percentage": null,
+      "description": "Usbl er stolt samarbeidspartner med Asker Live, som gir våre medlemmer rabatt på billetter! Asker Live er en videreføring av Hvalstrandfestivalen, som ble arrangert i ti år før festivalen i 2025 flyttet til sentrum under nytt navn.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/asker-live"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Fjordfesten",
+      "discount_percentage": 15,
+      "description": "Usbl er stolt samarbeidspartner av Fjordfesten 2026! Som medlem i Usbl får du 15 % rabatt på dine festivalbilletter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/fjordfesten"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Jeløyafestivalen",
+      "discount_percentage": null,
+      "description": "Få Usbl-rabatt på Jeløyafestivalen - på vakre Tronvikstranda i Moss!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/jeloyafestivalen"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Lillehammer Live",
+      "discount_percentage": null,
+      "description": "Få Usbl-rabatt på innlandets største musikkfestival! Usbl har vært stolt samarbeidspartner med Lillehammer Live siden 2018, og fortsetter selvfølgelig samarbeidet i 2026.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/lillehammer-live"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Sankthanshaugen 5000 løpet",
+      "discount_percentage": 35,
+      "description": "Som Usbl-medlem får du opptil 35 % rabatt på Sankthanshaugen 5000 løpet!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/sankthanshaugen-5000-lopet"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "TusenFryd - Opptil 25 % rabatt",
+      "discount_percentage": null,
+      "description": "Ta med deg hele familien til Norges største fornøyelsespark - få rabatt på TusenFryd!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/tusenfryd"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Bø Sommarland - opptil 30 % rabatt",
+      "discount_percentage": 30,
+      "description": "Få opptil 30 % rabatt på billetter til Skandinavias største badepark! Her er det moro for hele familien!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/bo-sommarland"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "The Well Spa og Hotell",
+      "discount_percentage": 20,
+      "description": "Nyhet! Nå får Usbl-medlemmer 20 % rabatt på daypass, daypass helg og eveningpass – i tillegg til 15 % rabatt på overnatting i hverdager!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/the-well"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Hadeland Glassverk",
+      "discount_percentage": 10,
+      "description": "Som medlem får du 10 % rabatt på ordinære, i tillegg til 5 % bonus på alle kjøp hos Hadeland Glassverk!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/hadeland-glassverk"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Heder Bank",
+      "discount_percentage": null,
+      "description": "Heder Bank er en heldigital bank som tilbyr rettferdig rente, uten overraskelser. Som medlem får du flytte ditt boliglån uten tinglysningsgebyr.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/heder-bank"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "NKI Nettstudier",
+      "discount_percentage": 22,
+      "description": "Ønsker du å heve din kompetanse eller endre retning? Som Usbl-medlem får du nå 22 % rabatt på samtlige fag og kurs hos NKI.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/nki-nettstudier"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Piknik i Parken",
+      "discount_percentage": 20,
+      "description": "Få 20 % rabatt på Oslos koseligste festival i sommer! Usbl er stolt samarbeidspartner av Oslos fineste sommerfestival, Piknik i Parken!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/piknik-i-parken"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "SurfCamp – alt annet enn surfing",
+      "discount_percentage": null,
+      "description": "Få 500 kroner i avslag på sommerens fineste camp for barn og unge!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/surfcamp"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Montér",
+      "discount_percentage": 5,
+      "description": "Som medlem får du 5 % bonus på alle handler, og 5 % rabatt på ordinære varer i utvalgte Montér-byggevarehus.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/monter"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Usbl Strøm",
+      "discount_percentage": 2,
+      "description": "Samle 2 % bonus på strømforbruket ditt gjennom vår avtale med Polar Kraft!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/usbl-strom"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Oris Dental",
+      "discount_percentage": 5,
+      "description": "Som Usbl-medlem får du 5 % bonus og 8 % rabatt på tannsjekken hos Oris Dental!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/oris-dental"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Forkjøpsrett",
+      "discount_percentage": null,
+      "description": "Kom foran i køen med den viktigste fordelen.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/forkjopsrett"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Alpinco - Hafjell, Kvitfjell og Oppdal",
+      "discount_percentage": 10,
+      "description": "10 % rabatt på skipass og overnatting på Hafjell, på Kvitfjell og i Oppdal",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/alpinco"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Kistefos",
+      "discount_percentage": 20,
+      "description": "Få 20 % rabatt på billetter hos Kistefos!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/kistefos"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "BestDrive",
+      "discount_percentage": 5,
+      "description": "Som medlem får du 5 % bonus på alle kjøp i varehus, i tillegg til faste rabatterte priser!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/bestdrive"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Bohus",
+      "discount_percentage": 5,
+      "description": "Få 5 % bonus hos Norges største landsdekkende møbel- og interiørkjede.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/bohus"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Lyreco",
+      "discount_percentage": 5,
+      "description": "5 % bonus på alle kjøp i Lyrecos butikker i Norge!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/lyreco"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Verisure",
+      "discount_percentage": null,
+      "description": "Usbl samarbeider med Verisure, en av Europas ledende leverandører av overvåkede sikkerhetsløsninger, for å bidra til trygge hjem og gode bomiljøer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/verisure"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Byggmakker",
+      "discount_percentage": 5,
+      "description": "Som medlem i Usbl får du 5 % bonus hos Byggmakker Sandefjord.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/byggmakker"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Hurtigruta Carglass",
+      "discount_percentage": 5,
+      "description": "Som Usbl-medlem får du 5 % bonus og rabatter hos Hurtigruta Carglass.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/hurtigruta-carglass"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Frisk Asker Ishockey",
+      "discount_percentage": 30,
+      "description": "Nyhet! Nå får Usbl-medlemmer 30 % rabatt på ishockey-kamper i Frisk Askers Varner Arena!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/frisk-asker-ishockey"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "RunDRM",
+      "discount_percentage": null,
+      "description": "Usbl er stolt sponsor av Drammen Halvmaraton!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/rundrm"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Drammen Padel",
+      "discount_percentage": null,
+      "description": "Padel er en av verdens raskest voksende idretter og nå kan du oppleve den i topp moderne fasiliteter i Drammen! Drammen Padel er for både nybegynnere, erfarne spillere og alle som ønsker en sosial og morsom treningsform.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/drammen-padel"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Padel Tønsberg",
+      "discount_percentage": 30,
+      "description": "Nyhet! Nå får Usbl-medlemmer 30 % rabatt på banebooking innen angitte tider hos Padel Tønsberg!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/padel-tonsberg"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Best Padel Sandefjord",
+      "discount_percentage": null,
+      "description": "Som Usbl-medlem får du rabatt på padel i Sandefjord!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/best-padel-sandefjord"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Larvik Golfklubb",
+      "discount_percentage": null,
+      "description": "Som medlem i Usbl får du kr. 300 i rabatt på årsavgiften hos Larvik Golfklubb!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/larvik-golfklubb"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Lillehammer Sport",
+      "discount_percentage": 5,
+      "description": "5 % bonus på alt i butikk hos Lillehammer Sport!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/lillehammer-sport"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "If forsikring",
+      "discount_percentage": null,
+      "description": "Som medlem i Usbl får du flere unike fordeler hos If! If sin prisbelønte kundeservice hjelper deg gjerne hvis du har spørsmål om forsikringene dine.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/if-forsikring-for-medlemmer"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Skousen hvitevarer",
+      "discount_percentage": null,
+      "description": "Rabatt og bonus hos Skousen hvitevarer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/skousen-hvitevarer"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Interflora",
+      "discount_percentage": 5,
+      "description": "Usbl-medlemmer får 5 % bonus hos Interflora!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/interflora"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Skiguard",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på lagring av takboks og 10 % rabatt på takboks og takstativ!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/skiguard"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Lagerboks",
+      "discount_percentage": 10,
+      "description": "Lagerboks gir deg 10 % rabatt på lagring og flytteemballasje, i tillegg til gratis utkjøring av emballasje i Oslo*.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/lagerboks"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Ragn-Sells",
+      "discount_percentage": 12,
+      "description": "Som medlem i Usbl får du blant annet 12 % rabatt på container-leie og på kjøp og henting av SmartBag.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/ragn-sells"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Wright trafikkskole",
+      "discount_percentage": 5,
+      "description": "5 % bonus på Norges største trafikkskole.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/wright-trafikkskole"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Lillehammer Trafikkskole",
+      "discount_percentage": 5,
+      "description": "Nyhet! Som medlem får du 5 % bonus på kjøp av alle typer trafikkopplæring hos Lillehammer Trafikkskole.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/lillehammer-trafikkskole"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Fargerike Bjørvik",
+      "discount_percentage": 5,
+      "description": "Hos Fargerike Bjørvik får du 5 % bonus på alle kjøp, i tillegg til gratis befaring og fargeforslag.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/fargerike-bjorvik"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Fargerike Colibri",
+      "discount_percentage": 15,
+      "description": "Hos Colibri Farge og Interiør AS får du opptil 15 % rabatt på blant annet maling, pensler, tapet, gulvbelegg og gardiner.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/fargerike-colibri"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Fargerike Gjert",
+      "discount_percentage": null,
+      "description": "Hos Fargerike Gjert får du rabatt på maling, tapet, gulvbelegg og tepper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/fargerike-gjert"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Modena Fliser",
+      "discount_percentage": 5,
+      "description": "Som medlem i Usbl får du 5 % bonus på alle kjøp hos Modena Fliser.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/modena-fliser"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Bake Me Up",
+      "discount_percentage": 10,
+      "description": "Usbl-medlemmer får 10 % bonus på alle handler hos Bake Me Up!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/bake-me-up"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Thon Hotels",
+      "discount_percentage": null,
+      "description": "Som medlem i Usbl får du gode rabattavtaler hos Thon Hotels både i Norge og Sverige.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/thon-hotels"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Telia",
+      "discount_percentage": null,
+      "description": "Som medlem i Usbl får du markedets beste pris på TV og bredbånd fra totalleverandøren Telia.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/telia"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Nextory: strømmetjeneste for lyd- og e-bøker",
+      "discount_percentage": null,
+      "description": "For deg som er glad i å lese og lytte til gode bøker.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/nextory"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Medarbeiderne",
+      "discount_percentage": 10,
+      "description": "Som Usbl-medlem får du 10 % rabatt på alt av flytteoppdrag, tømming og avfallshåndtering fra et av Oslos best omtalte flyttetjeneste. Samtidig bidrar du til et mer inkluderende arbeidsliv.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/medarbeiderne"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Maihaugen",
+      "discount_percentage": 15,
+      "description": "Friluftsmuseum på Lillehammer. Til Usbl's medlemmer tilbyr de 15 % rabatt på gjeldende priser.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/maihaugen"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Kinoklubben",
+      "discount_percentage": null,
+      "description": "Bli medlem i Kinoklubben og få halv pris på flere gode kinofilmer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/kinoklubben"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Jakt & Friluft",
+      "discount_percentage": 5,
+      "description": "Medlemmer av Usbl får 5 % bonus på alle handler på jaktogfriluft.no.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/jakt-friluft"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "HelloFresh",
+      "discount_percentage": null,
+      "description": "Som medlem kan du spare kr 1549,- på 5 matkaser!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/hellofresh"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Bubbleroom",
+      "discount_percentage": 4,
+      "description": "4 % bonus på klær, sko og beautyprodukter på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/bubbleroom"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Apotekhjem.no",
+      "discount_percentage": 7,
+      "description": "7 % bonus på apotekvarer for folk og dyr",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/apotekhjem.no"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "skruvat.no",
+      "discount_percentage": 5,
+      "description": "Som medlem i Usbl får du 5 % bonus på alle netthandler på skruvat.no - Skandinavias største forhandler av bildeler på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/skruvat.no"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Munk Store",
+      "discount_percentage": 5,
+      "description": "5 % bonus på klær og sneakers! Mer enn 50 kjente merkevarer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/munk-store"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Skogstad Sport",
+      "discount_percentage": 5,
+      "description": "Medlemmer av Usbl får 5 % bonus på alle handler hos skogstadsport.no!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/skogstad"
+    }
+  ]
+}

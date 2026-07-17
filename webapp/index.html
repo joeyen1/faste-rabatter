@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Faste Rabatter</title>
+<meta name="description" content="Søk opp rabatter fra DNB, OBOS, Elbilforeningen og USBL på ett sted." />
+
+<link rel="manifest" href="manifest.json" />
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="Rabatter" />
+<meta name="theme-color" content="#0b1220" />
+
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="topbar">
+  <h1>Faste Rabatter</h1>
+  <p class="subtitle" id="subtitle">Laster …</p>
+</header>
+
+<main>
+  <div class="search-wrap">
+    <input
+      id="search"
+      type="search"
+      inputmode="search"
+      autocomplete="off"
+      autocorrect="off"
+      autocapitalize="off"
+      spellcheck="false"
+      placeholder="Søk etter butikk, f.eks. Elkjøp"
+      aria-label="Søk etter butikk"
+    />
+  </div>
+
+  <div class="filters" id="filters" role="group" aria-label="Filtrer på leverandør">
+    <!-- filter chips injected by app.js -->
+  </div>
+
+  <ul class="results" id="results" aria-live="polite">
+    <!-- results injected by app.js -->
+  </ul>
+
+  <p class="empty-state" id="empty-state" hidden>Ingen rabatter funnet.</p>
+</main>
+
+<footer class="footer">
+  <span id="updated-at"></span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

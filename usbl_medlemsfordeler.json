@@ -1,0 +1,528 @@
+{
+  "provider": "USBL",
+  "source_page": "https://www.usbl.no/medlemskap/medlemsfordeler",
+  "discounts": [
+    {
+      "provider": "USBL",
+      "retailer": "Asker Live",
+      "discount_percentage": null,
+      "description": "Usbl er stolt samarbeidspartner med Asker Live, som gir våre medlemmer rabatt på billetter! Asker Live er en videreføring av Hvalstrandfestivalen, som ble arrangert i ti år før festivalen i 2025 flyttet til sentrum under nytt navn.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/asker-live"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Fjordfesten",
+      "discount_percentage": 15,
+      "description": "Usbl er stolt samarbeidspartner av Fjordfesten 2026! Som medlem i Usbl får du 15 % rabatt på dine festivalbilletter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/fjordfesten"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Jeløyafestivalen",
+      "discount_percentage": null,
+      "description": "Få Usbl-rabatt på Jeløyafestivalen - på vakre Tronvikstranda i Moss!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/jeloyafestivalen"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Lillehammer Live",
+      "discount_percentage": null,
+      "description": "Få Usbl-rabatt på innlandets største musikkfestival! Usbl har vært stolt samarbeidspartner med Lillehammer Live siden 2018, og fortsetter selvfølgelig samarbeidet i 2026.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/lillehammer-live"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Sankthanshaugen 5000 løpet",
+      "discount_percentage": 35,
+      "description": "Som Usbl-medlem får du opptil 35 % rabatt på Sankthanshaugen 5000 løpet!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/sankthanshaugen-5000-lopet"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "TusenFryd - Opptil 25 % rabatt",
+      "discount_percentage": null,
+      "description": "Ta med deg hele familien til Norges største fornøyelsespark - få rabatt på TusenFryd!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/tusenfryd"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Bø Sommarland - opptil 30 % rabatt",
+      "discount_percentage": 30,
+      "description": "Få opptil 30 % rabatt på billetter til Skandinavias største badepark! Her er det moro for hele familien!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/bo-sommarland"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "The Well Spa og Hotell",
+      "discount_percentage": 20,
+      "description": "Nyhet! Nå får Usbl-medlemmer 20 % rabatt på daypass, daypass helg og eveningpass – i tillegg til 15 % rabatt på overnatting i hverdager!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/the-well"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Hadeland Glassverk",
+      "discount_percentage": 10,
+      "description": "Som medlem får du 10 % rabatt på ordinære, i tillegg til 5 % bonus på alle kjøp hos Hadeland Glassverk!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/hadeland-glassverk"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Heder Bank",
+      "discount_percentage": null,
+      "description": "Heder Bank er en heldigital bank som tilbyr rettferdig rente, uten overraskelser. Som medlem får du flytte ditt boliglån uten tinglysningsgebyr.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/heder-bank"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "NKI Nettstudier",
+      "discount_percentage": 22,
+      "description": "Ønsker du å heve din kompetanse eller endre retning? Som Usbl-medlem får du nå 22 % rabatt på samtlige fag og kurs hos NKI.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/nki-nettstudier"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Piknik i Parken",
+      "discount_percentage": 20,
+      "description": "Få 20 % rabatt på Oslos koseligste festival i sommer! Usbl er stolt samarbeidspartner av Oslos fineste sommerfestival, Piknik i Parken!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/piknik-i-parken"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "SurfCamp – alt annet enn surfing",
+      "discount_percentage": null,
+      "description": "Få 500 kroner i avslag på sommerens fineste camp for barn og unge!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/surfcamp"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Montér",
+      "discount_percentage": 5,
+      "description": "Som medlem får du 5 % bonus på alle handler, og 5 % rabatt på ordinære varer i utvalgte Montér-byggevarehus.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/monter"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Usbl Strøm",
+      "discount_percentage": 2,
+      "description": "Samle 2 % bonus på strømforbruket ditt gjennom vår avtale med Polar Kraft!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/usbl-strom"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Oris Dental",
+      "discount_percentage": 5,
+      "description": "Som Usbl-medlem får du 5 % bonus og 8 % rabatt på tannsjekken hos Oris Dental!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/oris-dental"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Forkjøpsrett",
+      "discount_percentage": null,
+      "description": "Kom foran i køen med den viktigste fordelen.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/forkjopsrett"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Alpinco - Hafjell, Kvitfjell og Oppdal",
+      "discount_percentage": 10,
+      "description": "10 % rabatt på skipass og overnatting på Hafjell, på Kvitfjell og i Oppdal",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/alpinco"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Kistefos",
+      "discount_percentage": 20,
+      "description": "Få 20 % rabatt på billetter hos Kistefos!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/kistefos"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "BestDrive",
+      "discount_percentage": 5,
+      "description": "Som medlem får du 5 % bonus på alle kjøp i varehus, i tillegg til faste rabatterte priser!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/bestdrive"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Bohus",
+      "discount_percentage": 5,
+      "description": "Få 5 % bonus hos Norges største landsdekkende møbel- og interiørkjede.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/bohus"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Lyreco",
+      "discount_percentage": 5,
+      "description": "5 % bonus på alle kjøp i Lyrecos butikker i Norge!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/lyreco"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Verisure",
+      "discount_percentage": null,
+      "description": "Usbl samarbeider med Verisure, en av Europas ledende leverandører av overvåkede sikkerhetsløsninger, for å bidra til trygge hjem og gode bomiljøer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/verisure"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Byggmakker",
+      "discount_percentage": 5,
+      "description": "Som medlem i Usbl får du 5 % bonus hos Byggmakker Sandefjord.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/byggmakker"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Hurtigruta Carglass",
+      "discount_percentage": 5,
+      "description": "Som Usbl-medlem får du 5 % bonus og rabatter hos Hurtigruta Carglass.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/hurtigruta-carglass"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Frisk Asker Ishockey",
+      "discount_percentage": 30,
+      "description": "Nyhet! Nå får Usbl-medlemmer 30 % rabatt på ishockey-kamper i Frisk Askers Varner Arena!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/frisk-asker-ishockey"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "RunDRM",
+      "discount_percentage": null,
+      "description": "Usbl er stolt sponsor av Drammen Halvmaraton!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/rundrm"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Drammen Padel",
+      "discount_percentage": null,
+      "description": "Padel er en av verdens raskest voksende idretter og nå kan du oppleve den i topp moderne fasiliteter i Drammen! Drammen Padel er for både nybegynnere, erfarne spillere og alle som ønsker en sosial og morsom treningsform.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/drammen-padel"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Padel Tønsberg",
+      "discount_percentage": 30,
+      "description": "Nyhet! Nå får Usbl-medlemmer 30 % rabatt på banebooking innen angitte tider hos Padel Tønsberg!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/padel-tonsberg"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Best Padel Sandefjord",
+      "discount_percentage": null,
+      "description": "Som Usbl-medlem får du rabatt på padel i Sandefjord!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/best-padel-sandefjord"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Larvik Golfklubb",
+      "discount_percentage": null,
+      "description": "Som medlem i Usbl får du kr. 300 i rabatt på årsavgiften hos Larvik Golfklubb!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/larvik-golfklubb"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Lillehammer Sport",
+      "discount_percentage": 5,
+      "description": "5 % bonus på alt i butikk hos Lillehammer Sport!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/lillehammer-sport"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "If forsikring",
+      "discount_percentage": null,
+      "description": "Som medlem i Usbl får du flere unike fordeler hos If! If sin prisbelønte kundeservice hjelper deg gjerne hvis du har spørsmål om forsikringene dine.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/if-forsikring-for-medlemmer"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Skousen hvitevarer",
+      "discount_percentage": null,
+      "description": "Rabatt og bonus hos Skousen hvitevarer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/skousen-hvitevarer"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Interflora",
+      "discount_percentage": 5,
+      "description": "Usbl-medlemmer får 5 % bonus hos Interflora!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/interflora"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Skiguard",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på lagring av takboks og 10 % rabatt på takboks og takstativ!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/skiguard"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Lagerboks",
+      "discount_percentage": 10,
+      "description": "Lagerboks gir deg 10 % rabatt på lagring og flytteemballasje, i tillegg til gratis utkjøring av emballasje i Oslo*.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/lagerboks"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Ragn-Sells",
+      "discount_percentage": 12,
+      "description": "Som medlem i Usbl får du blant annet 12 % rabatt på container-leie og på kjøp og henting av SmartBag.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/ragn-sells"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Wright trafikkskole",
+      "discount_percentage": 5,
+      "description": "5 % bonus på Norges største trafikkskole.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/wright-trafikkskole"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Lillehammer Trafikkskole",
+      "discount_percentage": 5,
+      "description": "Nyhet! Som medlem får du 5 % bonus på kjøp av alle typer trafikkopplæring hos Lillehammer Trafikkskole.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/lillehammer-trafikkskole"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Fargerike Bjørvik",
+      "discount_percentage": 5,
+      "description": "Hos Fargerike Bjørvik får du 5 % bonus på alle kjøp, i tillegg til gratis befaring og fargeforslag.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/fargerike-bjorvik"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Fargerike Colibri",
+      "discount_percentage": 15,
+      "description": "Hos Colibri Farge og Interiør AS får du opptil 15 % rabatt på blant annet maling, pensler, tapet, gulvbelegg og gardiner.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/fargerike-colibri"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Fargerike Gjert",
+      "discount_percentage": null,
+      "description": "Hos Fargerike Gjert får du rabatt på maling, tapet, gulvbelegg og tepper.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/fargerike-gjert"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Modena Fliser",
+      "discount_percentage": 5,
+      "description": "Som medlem i Usbl får du 5 % bonus på alle kjøp hos Modena Fliser.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/modena-fliser"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Bake Me Up",
+      "discount_percentage": 10,
+      "description": "Usbl-medlemmer får 10 % bonus på alle handler hos Bake Me Up!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/bake-me-up"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Thon Hotels",
+      "discount_percentage": null,
+      "description": "Som medlem i Usbl får du gode rabattavtaler hos Thon Hotels både i Norge og Sverige.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/thon-hotels"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Telia",
+      "discount_percentage": null,
+      "description": "Som medlem i Usbl får du markedets beste pris på TV og bredbånd fra totalleverandøren Telia.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/telia"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Nextory: strømmetjeneste for lyd- og e-bøker",
+      "discount_percentage": null,
+      "description": "For deg som er glad i å lese og lytte til gode bøker.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/nextory"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Medarbeiderne",
+      "discount_percentage": 10,
+      "description": "Som Usbl-medlem får du 10 % rabatt på alt av flytteoppdrag, tømming og avfallshåndtering fra et av Oslos best omtalte flyttetjeneste. Samtidig bidrar du til et mer inkluderende arbeidsliv.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/medarbeiderne"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Maihaugen",
+      "discount_percentage": 15,
+      "description": "Friluftsmuseum på Lillehammer. Til Usbl's medlemmer tilbyr de 15 % rabatt på gjeldende priser.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/maihaugen"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Kinoklubben",
+      "discount_percentage": null,
+      "description": "Bli medlem i Kinoklubben og få halv pris på flere gode kinofilmer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/kinoklubben"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Jakt & Friluft",
+      "discount_percentage": 5,
+      "description": "Medlemmer av Usbl får 5 % bonus på alle handler på jaktogfriluft.no.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/jakt-friluft"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "HelloFresh",
+      "discount_percentage": null,
+      "description": "Som medlem kan du spare kr 1549,- på 5 matkaser!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/hellofresh"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Bubbleroom",
+      "discount_percentage": 4,
+      "description": "4 % bonus på klær, sko og beautyprodukter på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/bubbleroom"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Apotekhjem.no",
+      "discount_percentage": 7,
+      "description": "7 % bonus på apotekvarer for folk og dyr",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/apotekhjem.no"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "skruvat.no",
+      "discount_percentage": 5,
+      "description": "Som medlem i Usbl får du 5 % bonus på alle netthandler på skruvat.no - Skandinavias største forhandler av bildeler på nett.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/skruvat.no"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Munk Store",
+      "discount_percentage": 5,
+      "description": "5 % bonus på klær og sneakers! Mer enn 50 kjente merkevarer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/munk-store"
+    },
+    {
+      "provider": "USBL",
+      "retailer": "Skogstad Sport",
+      "discount_percentage": 5,
+      "description": "Medlemmer av Usbl får 5 % bonus på alle handler hos skogstadsport.no!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.usbl.no/medlemskap/medlemsfordeler/skogstad"
+    }
+  ]
+}
