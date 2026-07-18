@@ -17,6 +17,11 @@
   --lofavor: #c9a227;
   --akademiker: #c0392b;
   --kobbl: #1abc9c;
+  --fysio: #009fda;
+  --unio: #6a1b9a;
+  --ys: #006e26;
+  --nito: #003b00;
+  --pensjonist: #b8860b;
 }
 
 @media (prefers-color-scheme: light) {
@@ -220,6 +225,11 @@ main {
 .badge.provider-LOfavør { background: color-mix(in srgb, var(--lofavor) 20%, transparent); color: var(--lofavor); }
 .badge.provider-Akademikerforbundet { background: color-mix(in srgb, var(--akademiker) 20%, transparent); color: var(--akademiker); }
 .badge.provider-Kobbl { background: color-mix(in srgb, var(--kobbl) 20%, transparent); color: var(--kobbl); }
+.badge.provider-Norsk-Fysioterapeutforbund { background: color-mix(in srgb, var(--fysio) 20%, transparent); color: var(--fysio); }
+.badge.provider-Unio { background: color-mix(in srgb, var(--unio) 20%, transparent); color: var(--unio); }
+.badge.provider-YS { background: color-mix(in srgb, var(--ys) 20%, transparent); color: var(--ys); }
+.badge.provider-NITO { background: color-mix(in srgb, var(--nito) 20%, transparent); color: var(--nito); }
+.badge.provider-Pensjonistforbundet { background: color-mix(in srgb, var(--pensjonist) 20%, transparent); color: var(--pensjonist); }
 
 .empty-state {
   text-align: center;

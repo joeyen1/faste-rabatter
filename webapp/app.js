@@ -41,6 +41,12 @@
     }
   }
 
+  function providerSlug(provider) {
+    // "provider" brukes som CSS-klassenavn - mellomrom ville splittet det
+    // i flere separate klasser (f.eks. "Norsk Fysioterapeutforbund").
+    return (provider || "").replace(/\s+/g, "-");
+  }
+
   function normalize(str) {
     return (str || "")
       .toLowerCase()
@@ -233,7 +239,7 @@
     badges.className = "badges";
 
     const providerBadge = document.createElement("span");
-    providerBadge.className = `badge provider-${item.provider}`;
+    providerBadge.className = `badge provider-${providerSlug(item.provider)}`;
     providerBadge.textContent = item.provider;
     badges.appendChild(providerBadge);
 

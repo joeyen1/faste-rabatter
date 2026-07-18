@@ -1,0 +1,105 @@
+{
+  "provider": "Unio",
+  "source_page": "https://www.unio.no/medlemsprodukter/",
+  "discounts": [
+    {
+      "provider": "Unio",
+      "retailer": "Avis",
+      "discount_percentage": 30,
+      "description": "Unio har inngått et samarbeid med Avis Bilutleie som gir alle medlemmer av Unios medlemsforbund gunstige priser i Norge. Inntil 30 prosent rabatt på leie av personbiler og varebiler i Norge. Rabatten gjelder ikke på forsikring, servicegebyrer, mva., Prestige-biler, weekend- eller månedsleie. Slik får du Unio-rabatten: Oppgi rabattnummer W330405 ved bestilling. Ved bestilling på avis.no, oppgi rabattkode (AWD-nummer) eller bestill via lenken nedenfor. Du kan også bestille på telefon 66 77 10 10. Gyldig bevis for medlemskap i ditt forbund og førerkort fremvises ved henting av leiebilen. Trykk her for å se detaljer",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.avis.no/leiebil-tilbud/partnere/andre-partnere/unio"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": null,
+      "description": "Unio har inngått en avtale som gir deg som medlem av et Unio-forbund gunstige vilkår ved kjøp av ny elbil hos Bertel O. Steen. Avtalen innebærer rabatt på elbiler fra Mercedes-Benz, Peugeot, Citroën, Opel, Kia, DS, Jeep og Fiat. Rabattene varierer fra merke til merke. Les mer om avtalen her Her finner du et stort utvalg av elbiler Bertel O. Steen er en av Nordens største aktører innen salg og servicetjenester for personbiler, varebiler, lastebiler og busser. Du finner hel- og deleide forhandlere i hele Norge, fra Kristiansand i sør til Alta i nord. Her finner du din nærmeste Bertel O. Steen-forhandler Nyhetssak på unio.no: Unio med unikt elbil-tilbud til medlemmene",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.bos.no/fleet"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "BMW",
+      "discount_percentage": 8,
+      "description": "Unio har inngått en eksklusiv rammeavtale med BMW Norge AS. Avtalen gir deg som medlem av et Unio-forbund gunstige vilkår ved kjøp/leasing av BMW-modeller. • Medlemsrabatt fossile/hybride BMW-modeller: 8 prosent • Medlemsrabatt elektriske BMW-modeller: 4 prosent Medlemsrabatten kan kombineres med nasjonale salgskampanjer fra BMW Norge AS og beregnes av veiledende bilpris, fabrikkmontert utstyr og eksklusive avgifter til staten. Merk at avtalen har en uttaksbegrensning på maksimalt to biler per kalenderår per medlem. Medlemskap i et Unio-forbund må verifiseres, for eksempel gjennom medlemsbevis, trekk gjennom lønnsslipp eller lignende. Les mer om hver bilmodell her Les mer om aktuelle nasjonale salgskampanjer he r Med et sterkt fokus på kjørekomfort og tidløst design, tilbyr BMW et variert utvalg av bilmodeller som kombinerer luksus med praktikalitet, perfekt for både hverdagsbruk og lengre turer. Enten du er på jakt etter en ny, sporty sedan, en romslig SUV eller en fin bybil, har BMW noe som passer dine behov og preferanser. Du finner BMW-forhandlere over hele landet, fra sør til nord. Besøk din nærmeste BMW-forhandler for å oppleve hva modellene har å by på. Finn din BMW-forhandler",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.bmw.no/no/all-models.html"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Cutters",
+      "discount_percentage": 20,
+      "description": "Unios medlemsfordeler gir deg hele 20 prosent rabatt på hårklipp hos Cutters. Cutters er en leverandør av frisørtjenester med salonger over hele Norge. Selskapets forretningskonsept er basert på effektivitet, tilgjengelighet og en standardisert pris for hårklipp, uavhengig av kjønn eller type klipp. Bestilling skjer via selskapets applikasjon eller nettside. Anvend koden samhold20 i appen eller på cutters.no. Rabattkoden gjelder alle i din husstand. Du kan lese mer om medlemsfordelen hos Cutters",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://cutters.no/uniorabatt"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "De Historiske",
+      "discount_percentage": 10,
+      "description": "Medlemmer av Unios forbund gis 10 prosent rabatt på overnatting med frokost hos De Historiske. Unn deg et unikt opphold med De Historiske, en samling av noen av Norges mest sjarmerende hoteller og spisesteder, fra Svalbard i nord til Kristiansand i sør. Her finner du alt fra moderne byhoteller til herskapelige herregårder, staselige gods og romantiske boutiquehoteller ved fjorder og i idylliske småbygder. Et opphold på et historisk hotell er en reise gjennom tradisjon og eleganse, hvor kvalitet alltid står i sentrum. Nyt smakfulle retter laget med kortreiste råvarer, kombinert med ekte gjestfrihet og en historisk atmosfære omkranset av Norges vakreste natur. De Historiske setter også bærekraft høyt på agendaen, med fokus på kortreist mat og miljøvennlige løsninger, slik at du kan nyte oppholdet med god samvittighet. Hvert sted har sin egen unike historie, noe som gir opplevelsen et særegent og personlig preg. Her går du i fotsporene til både kongelige, forfattere og eventyrere. Enten du planlegger en romantisk helg eller en ferie langs fjord og fjell, tilbyr De Historiske et opphold utenom det vanlige. Velkommen til De Historiske – noe av det beste Norge har å by på! Vilkår: Rabatten gjelder kun ved digital bestilling av ordinær overnatting (rom og frokost). Den dekker ikke spisesteder eller tilbudspakker på dehistoriske.no. Rabatten kan variere i høysesong. For mer informasjon og inspirasjon, besøk De Historiske . Medlemshoteller – oppdatert 19. februar 2025 Vestlandet Bekkjarvik Gjestgiveri Biologen Herdla Brakanes Hotel Brosundet Charmante Skostredet Hôtel Fjærland Fjordstove Hotell Flatheim Fleischer’s Hotel Fretheim Hotel Haaheim Gaard Hotell Avlsgården Baroniet Rosendal Knutholmen Kviknes Hotel Lilløy Lindenberg Lindstrøm Hotel Philipshaugen Lodge Singerheimen Skjolden Hotel Skrivergaarden Store Ringheim Hotell & Rest Tyssedal Hotel Union Geiranger Utne Hotel Visnes Hotel Walaker Hotell Østlandet Bondeheimen Engø Gård Fredriksten Hotell Gamlebyen Hotell Geilo Mountain Lodge Granavolden Hotel & Gjæstgiveri Hoel Gård Hotell Jeløy Radio Hurdalsjøen Hotell & Spa Losby Gods Lysebu Nevlunghavn Gjestgiveri Rjukan Admini Hotell Straand Hotel Sundvolden Hotel Søstrene Storaas Thorbjørnrud Hotell Rogaland Eilert Smith Hotel Energihotellet Fjordbris Hotell GamlaVærket Grand Hotel Egersund Høyevarde fyrhotell Kronen Gaard Hotel Sogndalstrand Kulturhotell Utstein Kloster Hotell Sørlandet Boen Gård Det Lille Hotel Grand Hotell Flekkefjord Lillesand Hotel Norge Innlandet Danebu Kongsgaard Finnskogtoppen Spa & Velværehotell Fossheim Turisthotell Hindsæter Nermo Hotell Røisheim Trøndelag & Nord-Norge Bårdshaug Herregård Erzscheidergården Røros Hotell Støtt Svinøya Rorbuer Trasti & Trine Vertshuset Røros Ytri Svalbard Funken Lodge Opplev De Historiske – Norges mest sjarmerende hoteller",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "http://www.dehistoriske.no"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Esso drivstoffrabatt",
+      "discount_percentage": 20,
+      "description": "Unio-medlemmer får drivstoffrabatt hos Esso på 52 øre* per liter. Så nå kan du kjøre til jobben, eller dra på tur, og vite at du har en av markedets beste drivstoffrabatter! Glem heller ikke at du også har 20 prosent rabatt på bilvask. I tillegg til Esso Mastercard-rabatten kan du også få vaskerabatthefte på de Esso-stasjonene som tilbyr dette. Med Esso Mastercard får du også 15 prosent rabatt på Strawberry-hotell (Comfort, Quality og Clarion) i helger og ferieperioder. Har du ikke allerede et Esso Mastercard? Søk om kortet her * Drivstoffrabatten forutsetter bruk av et Esso Mastercard på Esso-stasjoner i Norge Vilkår Effektiv rente ved kreditt på kr 15 000 over 12 md. er 31,13 prosent. Total kredittkostnad kr 1 947. Full utnyttelse av den økonomiske gevinsten med rabatt, forutsetter at utestående kreditt betales ved forfall, slik at det ikke påløper renter. Spørsmål? Send e-post til [email protected] eller ringe kundeservice på telefon 21 01 53 65.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://essomastercard.no/unio"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Extra Optical",
+      "discount_percentage": 20,
+      "description": "Unios medlemsfordeler gir deg hele 20 prosent rabatt på Extra Opticals allerede rimelige briller og solbriller med styrke! Bruk rabattkode i kassen og du får 20 prosent rabatt på briller og solbriller merket eo Selection. Rabattkoden gjelder alle briller og solbriller merket eo Selection inkludert valgte glass. Rabattkoden gjelder ikke kontaktlinser og kjente merkevarer. Rabattkoden har ingen kontantverdi, og kan ikke kombineres med andre kampanjer og tilbud. Du kan lese mer og bestille briller på Extra Opticals nettsted her",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://extraoptical.no/unio-eo-medlem"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Nordea",
+      "discount_percentage": null,
+      "description": "Unio har et samarbeid med Nordea som gir medlemmer i et Unio-forbund et godt banktilbud. Avtalen omfatter medlemmer, studentmedlemmer og ansatte i 13 av Unios 14 forbund. Norsk Sykepleierforbund har valgt å stå utenfor avtalen. Her får du gode medlemspriser på boliglån og andre banktjenester. Dette er noen av medlemsfordelene dine: en god boliglånsrente billån til medlemspris topp prioritet hos egen kundeservice kredittkort uten årsgebyr 0 kroner i månedspris for Min dagligbank for deg under 34 år, inkludert ett gratis bankkort medlemsrente på bruks- og sparekonto Unio Pensjon i Nordea Liv Les mer om bankfordelene https://www.unio.no/wp-content/uploads/2026/02/nordea_forbund_16x9_standard_unio.mp4",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nordea.no/privat/fagforbund/unio/?cid=oec-50dhks7svs"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Nordea Liv",
+      "discount_percentage": null,
+      "description": "I løpet av 2021 fikk 1,5 millioner nordmenn som jobber i det private egen pensjonskonto. Er du en av dem? Egen pensjonskonto samler pensjon fra nåværende arbeidsgiver (innskuddspensjon) og fra tidligere arbeidsgivere (pensjonskapitalbevis). Alt på ett sted – i én konto! Visste du at du selv kan velge hvor pensjonen din fra arbeidsgiver skal være? Dersom du ikke foretok deg noe i fjor, ble pensjonen din samlet i selskapet hvor arbeidsgiveren din har innskuddspensjonen. Nå kan du bruke din nye medlemsfordel flytte pensjonen din til Nordea Liv. Unio har fremforhandlet en meget god avtale med Nordea Liv på vegne av alle våre medlemmer, som gir gode og konkurransedyktige pensjonsbetingelser. Avtalen kan sikre deg flere tusen kroner ekstra som pensjonist. For deg som kun har pensjonskapitalbevis fra tidligere arbeidsforhold i det private, får samme gode betingelser som på egen pensjonskonto. Hvorfor skal jeg flytte min egen pensjonskonto til Nordea Liv? Blant markedets laveste forvaltningskostnader – lavere kostnader betyr mer i pensjon til deg. Tilgang til mobilløsningen Nordea Boost der du får total oversikt og kontroll over pensjonen din – ta grepene som øker pensjonen din. Pensjonssparing med fokus på bærekraft – bidra til en mer bærekraftig samfunnsutvikling. Ingen plattformavgift eller andre skjulte kostnader – velg mellom bredt utvalg av investeringsprofiler, med medlemspris på Nordea Liv Fremtid Valutasikret og Nordea Liv Indeksforvaltning Valutasikret. Det er enkelt å flytte pensjonen Gå til nordea.no/unio og logg inn i Nordea Boost. Her kan du enkelt flytte din egen pensjonskonto eller dine pensjonskapitalbevis. Lurer du på hvor pensjonen din er plassert i dag og hva du har oppspart? Sjekk norskpensjon.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nordea.no/privat/vare-produkter/pensjon/pensjonsfordel-unio.html"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Norgesbooking",
+      "discount_percentage": null,
+      "description": "Lei en hytte via Norgesbooking fra kun 299 kroner per natt. Eksklusivt tilbud til Unio-medlemmer: Få 1 000 kroner i rabatt ved leie av hytte for opphold på 1 uke eller lenger, eller 500 kroner for opphold fra 2 til 6 netter. Her kan du finne din perfekte hytte , og ved å legge inn rabattkode «UNIO1000» eller «UNIO500» får du rabatten fratrukket i bestillingen. Vi har mange filter som hjelper deg å finne riktig hytte, som for eksempel WiFi, fjellhytter, peis, båt inkludert, antall personer, husdyr tillatt og mer. Velg mellom hundrevis av hytter over hele landet under menypunkt «Se alle hytter» hvor du kan velge ønsket destinasjon. Medlemmer i Unio-tilsluttede forbund som ønsker å leie ut sin private hytte betaler ikke årlig oppførings- og vedlikeholdsavgift, som ordinært er på kroner 950 (+ mva.) per år. Booking av feriebolig Bookinger hos Norgesbooking kan gjøres via online booking, per telefon eller per e-post. På våre nettsider kan du søke på ønsket dato, eller om du vet eksakt hvilket sted du ønsker å reise til, kan du se alle hytter på en bestemt destinasjon. For booking på vår nettside oppgir du koden «UNIO500» eller «UNIO1000» i kampanjekodefeltet, og du vil få innvilget rabatt med en gang. Samme kode oppgis per telefon eller e-post. Det er viktig at personen som er medlem gjør bookingen i sitt navn. Vi på servicekontoret er tilgjengelig for hjelp og råd for å finne riktig hytte eller svare på andre spørsmål. Rabatten kan benyttes på alle hytter på «øyeblikkelig bestilling». Se disse her: Hytter hos Norgesbooking Vi har generelt en aldersgrense på 23 år ved leie av hytter, men det er unntak på hytter hvor det noen steder er lavere aldersgrense og noen få steder høyere. Om Norgesbooking Norgesbooking AS ble etablert høsten 2001, og var den gangen blant de aller første utleieformidlere som startet en forretningsplattform utelukkende basert på internett. I februar 2002 ble våre nettsider lansert med cirka 30 utleiehytter. I dag tilbyr vi om lag 500 ferieboliger fordelt rundt i hele Norge. Vi tilbyr ferieboliger, ved både kjente og mindre kjente destinasjoner i Norge. Her finner du alt fra enkle, små hytter uten strøm og vann, til store luksushytter med alle tenkelige fasiliteter. E-post: [email protected] Telefon: +47 32 08 57 10 Web: www.norgesbooking.no",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.norgesbooking.no/se-alle-hytter/?ac=1521"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Stormberg",
+      "discount_percentage": 30,
+      "description": "Unios medlemmer får 30 prosent rabatt på ordinære priser på en rekke varer. Her finner du vareutvalget Stormberg er Norges mestselgende sports- og turtøymerkevare. Stormberg var den første sports- og tekstilgrossisten som ble tatt opp i Initiativ for Etisk Handel i 2002. Stormberg har klare retningslinjer om dyreetikk og alle produsentene er pålagt å følge disse. Siden starten i 1998 har Stormberg hatt en god vekst i omsetning og antall medarbeidere.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.stormberg.com/no/kampanje/unio"
+    }
+  ]
+}

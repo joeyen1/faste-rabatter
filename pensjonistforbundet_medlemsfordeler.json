@@ -1,0 +1,303 @@
+{
+  "provider": "Pensjonistforbundet",
+  "source_page": "https://www.pensjonistforbundet.no/medlemsfordeler",
+  "discounts": [
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Treningsreiser med Springtime",
+      "discount_percentage": null,
+      "description": "2.000 i rabatt - Som medlem får du 2.000 kroner i rabatt - Forestill deg solfylte morgener med yoga og stavgang, hyggelige kvelder med foredrag og aktiviteter, og muligheten til å velge akkurat det du har lyst til — enten det er trening, turer i naturen eller late stunder med en god bok. Sjekk ut tilbudet vårt fra Springtime - laget spesielt for deg som ønsker mer enn bare sol og strand. __Som medlem får du hele 2.000 kroner i rabatt på treningsreiser for seniorer.__ Les mer om reisene under👇",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://springtime.no/reiser/langtidsopphold-for-seniorer-i-portugal-host/?sort=DATE_ASC"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Trening utviklet av fysioterapeuter",
+      "discount_percentage": 30,
+      "description": "30 % rabatt - iSteady tilbyr trygg og enkel online trening. - Som medlem av Pensjonistforbundet får du 30 % rabatt på trening hos iSteady. 2 gratis tilsendte treningsstrikker er også inkludert.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.isteady.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Thorbjørnrud Hotell",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - 15% rabatt på rom og frokost hele året. - Som medlem får du 15% rabatt på overnatting alle dager hele året. Les mer og kontakt hotellet for bestillinger her. [https://thorbjornrudhotell.no/nb](https://thorbjornrudhotell.no/nb \"Thorbjørnrud Hotell\") Kombiner gjerne med et besøk på [Hadeland Glassverk](https://www.pensjonistforbundet.no/medlemsfordeler/hadeland-glassverk) der medlemmer også har 15 % rabatt.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://thorbjornrudhotell.no/nb"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Temareiser med Fotefar",
+      "discount_percentage": null,
+      "description": "1.000 i rabatt - Spennende temareiser med medlemsrabatt. - ### Medlemsfordel Medlemmer av Pensjonistforbundet får 1.000 kroner i rabatt per person på alle reiser. [Les mer og bestill her](https://www.fotefartemareiser.no/turar-2025) __Innimellom tilbys også spesialkampanjer med 1.500 kroner i rabatt. Nå har vi følgende reiser til kampanjepris:__ [Den store England-turen med Eva Bratholm og Joar Hoel Larsen](https://www.fotefartemareiser.no/england-med-eva-og-joar) [Cruise rundt britiske øyer med Rune Larsen og Anne Veddeng](https://www.fotefartemareiser.no/britiske-oyar-med-rune-larsen-og-anne-veddeng) [Kulturreise til vakre italienske byer med Tommy Sørbø](https://www.fotefartemareiser.no/kulturreise-til-vakre-italienske-byar-med-tommy-sorbo#dagsprogram) [Cruise til Færøyane, Orknøyane og rundt Island med Gunnstein Akselberg og Tore Skeie](https://www.fotefartemareiser.no/cruise-til-faeroyane-orknoyane-og-rundt-island) [Elvecruise på Rhinen og Mosel med Sylfest Lomheim og Rasmus Sunde](https://www.fotefartemareiser.no/elvecruise-pa-rhinen-og-mosel-med-sylfest-lomheim-og-rasmus-sunde) Trenger du hjelp eller har spørsmål? Kontakt Fotefar temareiser på telefon [918 20 304](Tel:91820304).",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.fotefartemareiser.no/turar-2025"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Syden og storby med Apollo",
+      "discount_percentage": null,
+      "description": "500 kr rabatt - Pakkereiser med charterfly. - ### Medlemsfordel: Medlemmer av Pensjonistforbundet får gjennom avtalen 500 kr i rabatt per person. Reis direkte fra Alta, Bodø, Evenes, Haugesund, Kristiansand, Kristiansund, Stavanger, Torp, Tromsø, Ålesund, Bergen, Trondheim, Molde og Oslo. - Rabatten gjelder charterfly og pakkereiser med rutefly (ikke gruppereiser eller påmeldingsturer) - Rabatten kan ikke kombineres med andre rabatter. - Gjelder for personer på samme bestillingsnummer som medlemmet, maks 9 personer. __NB: husk å legge inn rabattkoden FØR du endelig bekrefter bestillingen. Rabatten kan ikke gis i ettertid. __ [Les mer og bestill her](https://www.apollo.no/billige-reiser/pf)",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.apollo.no/billige-reiser/pf"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Strykekvartett i Bergen og Oslo",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Medlemsrabatt på musikalske opplevelser. - ### Medlemsfordel Med Oslo Quartet Series og Bergen Kammermusikkforening kan du nyte herlige musikkopplevelser i ærverdige omgivelser, med strykekvartetter fra hele verden. Les mer om hver enkelt i boksene under👇",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://bk-musikk.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Solskjerming og garasjeporter",
+      "discount_percentage": 45,
+      "description": "45 % rabatt! - 45 % rabatt hos Fasadeprodukter - ### Medlemsfordel - 45 % rabatt på alt av inn- og utvendig solskjerming. (markiser, screen, dukskift, plisségardiner, rullegardiner m.m.) - 45 % rabatt på garasjeporter - 30 % rabatt på gardiner - 40 % rabatt på tilbehør __+ 5 % EKSTRA Best-pris-rabatt __ (hvis produktet er på kampanje ved bestilling med samme eller høyere rabatt enn medlemsfordelen.) Det er ikke rabatt på spesialprodukter eller montasje. __NB: Medlemsbevis må vises FØR bestilling.__ [Du kan lese mer om utvalget her](https://www.fasadeprodukter.no/pensjonistforbundet/?utm_source=pensjonistforbundet&utm_medium=medlemsside&utm_campaign=pensjonistforbundet_medlem&utm_id=pensjonistforbundet_medlem) Telefon: [911 50 200](Tel:91150200)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.fasadeprodukter.no/pensjonistforbundet/?utm_source=pensjonistforbundet&utm_medium=medlemsside&utm_campaign=pensjonistforbundet_medlem&utm_id=pensjonistforbundet_medlem"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Solgården, Spania",
+      "discount_percentage": null,
+      "description": "1000 kroner rabatt - Medlemsrabatt på utvalgte turer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.solgarden.no/pensjonistforbundet/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Riksteatret",
+      "discount_percentage": 30,
+      "description": "30 % rabatt - Rabatt på omreisende teaterforestillinger i hele Norge. - __Viktig! Rabatten gjelder på utvalgte forestillinger og må bestilles i en bestemt tidsperiode. Følg derfor nøye med på nyhetsbrev og oppdateringer på denne siden. __ ### Forestillinger med medlemsrabatt vår 2026: [Læreren](https://www.riksteatret.no/repertoar/lareren/) - Bestillingsperiode: 1. januar - 31. januar - På turne med Riksteateret: 17. februar - 30. april - Spilles i Østlandet, Sørlandet, Vestlandet og Midt-Norge Merk: rabatten gjelder ikke Vega scene i Oslo [Kniven i ilden](https://www.riksteatret.no/repertoar/kniven-i-ilden/) - Bestillingsperiode: 1. februar 2026 - 28. februar 2026 - På turne med Riksteateret: 28. januar 2026 - 30. april 2026 - Spilles i alle landsdeler [Skorpionens spill](https://www.riksteatret.no/repertoar/skorpionens-spill-i-skyggen-av-roblox/) Ta med barnebarna på teater og sett deg inn i deres verden ! - Bestillingsperiode: 1. februar - 28. februar - På turne med Riksteateret: 17. februar - 7. juni - Spilles i alle landsdeler Merk: rabatten gjelder ikke Teater Ibsen i Skien __Slik bestiller du billetter__ Gå inn på riksteatret.no og finn ditt lokale kulturhus. Klikk på «Kjøp billett» og velg billettkategorien «Pensjonistforbundet» i bestillingsperioden. Du kan også kjøpe billetter direkte i billettskranken eller på telefon hos ditt lokale kulturhus ved å oppgi samme kategori innenfor bestillingsperioden. ### Om Riksteateret Riksteatret er hele landets teater, og ble opprettet ved lov etter 2. verdenskrig som en del av den kulturelle gjenoppreisingen av Norge. [Les mer om Riksteateret her](https://www.riksteatret.no/om-riksteatret/hva-er-riksteatret/)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.riksteatret.no/repertoar/lareren/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Rabatt på tannlege",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Rabatt på tannlege i Oslo, Akershus og Buskerud - Smil og Clear tannlegene består av 8 tannlegesenter og er foreløpig ulike steder i Oslo, Drammen og på Bekkestua i Akershus. Det er planer om utvidelse av virksomheten til flere byer. ### Medlemsfordelen omfatter: - Fast lav pris på komplett tannlegeundersøkelse og årlig tannkontroll (4 stk. røntgenbilder), inkl. tannrens og tannpuss, kun kr. 690,- - 15 % avslag på spesialistbehandlinger og andre tannbehandlinger (gjelder ikke kosmetiske behandlinger) - 15 % avslag på alt av tilleggskostnader (bedøvelse etc.) __Om Smil og Clear tannlegesenter__ - Samarbeid med Helse Sør-Øst for rekvirering av pasientreiser. - Alle tannleger er medlemmer av Den Norske Tannlegeforening. - Tilleggskompetanse innen tannlegeskrekk. - Spesialister innen oralkirurgi, rotfylling, krone og implantater. - Tilbyr også tannbehandling under narkose. - Åpningstider fra kl. 08:00 til 20:00, og også på lørdager, uten ekstra kostnad. - Akutt tannlegevakt - Direkteoppgjør med Helfo for eventuelle refusjoner - Toppmoderne utstyr - De fleste klinikker har enkel, rullestolvennlig adkomst [Les mer og bestill time hos Smil tannlegesenter her (Oslo og Akershus)](https://www.smiltannlegesenter.no/) [Les mer og bestill time hos Clear tannlegesenter her (Oslo og Drammen)](https://www.cleartannlegesenter.no/) __Kontakt__ Telefon Smil tannlegesenter: [23 65 18 81](tel:23651881) Telefon Clear tannlegesenter: [23 65 43 43](tel23654343) [Her kan du lese om Pensjonistforbundets arbeid innenfor tannhelse](https://www.pensjonistforbundet.no/politisk-arbeid/var-politikk-for-helse-og-omsorg)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.smiltannlegesenter.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Pensjonisten",
+      "discount_percentage": null,
+      "description": "8 utgaver pr år! - Åtte utgaver med massevis av lesestoff hvert år. - Som medlem får du Pensjonisten tilsendt rett hjem i postkassen åtte ganger i året. Ikke-medlemmer kan abonnere på bladet. Bladet gir deg blant annet: - Informasjon om økonomi, pensjon, rettigheter og teknologi - Inspirasjon; reiser, mat & drikke, helse og kultur - Lokale aktiviteter i Pensjonistforbundet - Kryssord og Sudoku - \"Finn en venn\" [I tillegg kan du lese bladet digitalt her.](https://www.pensjonistforbundet.no/om-pensjonistforbundet/pensjonisten)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.pensjonistforbundet.no/medlemsfordeler/pensjonisten"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Opel og Citroën",
+      "discount_percentage": 19,
+      "description": "6-19 % rabatt på bil - Rabatt på Opel og Citroën, samt tilleggsutstyr.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://mobile.no/pensjonistforbundet"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Online psykolog og fysioterapi",
+      "discount_percentage": 20,
+      "description": "20 % rabatt - Rabatt på online psykolog og digital fysioterapi. - Dette gir deg enkel tilgang til fagpersoner og kvalitetssikrede behandlingsløp – hjemme, på hytta eller på reise. __Avtalen gir medlemmer 20 % rabatt på følgende tjenester: __ - [mentale selvhjelpsprogrammer ](https://eyr.md/no/eyr-psykolog/mental-selvhjelp) - [online psykolog ](https://eyr.md/no/eyr-psykolog) - [online fysioterapi ](https://eyr.md/no/fysio) __ __NB: Avtalen inkluderer ikke rabatt på legetjenester.____ __Medlemspriser:__ - mentale selvhjelpsprogrammer kroner 392,- - psykolog kroner 1160,- - online fysioterapi kroner 436,- __Slik bruker du tjenesten: __ 1. Last ned Eyr-appen 2. Logg inn med BankID 3. Gå til min konto og betalingsmetoder 4. Gå på legg til medlemskap og velg Pensjonistforbundet 5. Legg inn rabattkoden for å aktivere rabatten 6. Book ønsket dato og tidspunkt for psykolog eller digital fysioterapi __Om Eyr__ Eyr er en norsk digital helsetjeneste som gjør det enkelt å få profesjonell hjelp når du trenger det. [Les mer om Eyr her ](https://eyr.md/no/)",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://eyr.md/no/eyr-psykolog/mental-selvhjelp"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Nortrip-guiden",
+      "discount_percentage": 20,
+      "description": "Spar 20 % - Tilbud til deg som reiser med bobil/campingvogn - ### Ny medlemsfordel Nortrip-guiden er en app for deg med bobil eller campingvogn. Den gir deg tilgang til over 300 vertsplasser i Norge og Sverige – alt fra mikrobryggerier og ysterier til småbruk og gårdsbutikker. Her kan du fiske i fjorden, spise deg mett på lokal mat, sykle i nærområdet, lære om tradisjonelt jordbruk eller bare nyte stillheten. Alt mens du står gratis parkert, ofte rett ved fjell, fjord eller gårdstun. Noen steder har butikk, noen har bakeri, noen har kuer, og alle har verter som tar imot deg med et smil. Som medlem i Pensjonistforbundet får du alltid 20 % rabatt på tjenesten. [Les mer og bestill guiden her](https://nortrip.no/shop/?tag_ref=pensjonistforbundet&discountCode=PF20)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://nortrip.no/shop/?tag_ref=pensjonistforbundet&discountCode=PF20"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Lokale aktiviteter",
+      "discount_percentage": null,
+      "description": "Sosialt samvær - 700 lokalforeninger i hele landet! - Det finnes en lokalforening i nærheten av deg, der du er hjertelig velkommen til aktiviteter og fellesskap. Enten du er på jakt etter en gjeng å gå på tur med, drikke kaffe med eller ønsker å bruke dine ressurser til å hjelpe andre, kan lokalforeningen være stedet å begynne. [https://www.pensjonistforbundet.no/foreninger](https://www.pensjonistforbundet.no/foreninger \"Finn din lokalforening her\")",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.pensjonistforbundet.no/medlemsfordeler/lokalt-engasjement-og-fellesskap"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Lexus og Toyota",
+      "discount_percentage": 6,
+      "description": "2-6 % rabatt - Rabatt på ny bil og finansiering hos Toyota og Lexus. - Som medlem får du ekstra rabatt ved kjøp av personbil og varebil fra Toyota og Lexus. I tillegg innebærer avtalen bedre betingelser på finansiering. Se faktabokser nedenfor for komplett tilbudsoversikt. Rabatten regnes ut fra den til enhver tid gjeldende listepris, eks mva og avgift. Medlemsbevis må fremlegges __ved bestilling__ for å oppnå rabatten. [Besøk Toyota her](https://www.toyota.no) [Besøk Lexus her ](https://www.lexus.no/)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.toyota.no"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Legal24 advokatfirma",
+      "discount_percentage": null,
+      "description": "Lav timepris - Rabatt på advokattjenester. - ### Medlemstilbud __Juridisk bistand__ - Første 30 minutters samtale med advokat/fullmektig er gratis - Deretter timespris kroner 2.019,- inkludert mva. __Tilgang til digitale kontrakter/»selvbetjening» til fastpris__ - Fremtidsfullmakt, kroner 1.599,- - Samboerkontrakt, kroner 939,- - Testament, kroner 2.149,- Alle priser er inkludert mva. og inkluderer juridisk godkjenning av dokumentet i etterkant. NB: Dette tilbudet inkluderer ikke individuelt tilpassede løsninger, rådgivning og samtale med advokat i forkant eller etterkant av utfylling. __Fastpris på kontrakter med veiledning fra advokat__ - Fremtidsfullmakt enkel og gjensidig, en pris for både medlem og for ektefelle, kroner 4.850,- - Enkelt testament, kroner 6.500,- (se mer info under) - Enkelt gjensidig og felles testament, kroner 7.500,- - Samboerkontrakt, kroner 6.500,- - Ektepakt, kroner 6.500 ,- - Enkel samboerkontrakt og felles testament, kroner 11.600,- - Enkel ektepakt og felles testament, kroner 11.600,- - Enkelt testament og fremtidsfullmakt NOK 11.200,- Alle priser er inkludert mva. Prisen inkluderer rådgivning og samtale med advokat der man blir enige om en løsning som passer for deg i tråd med lovverket. __Timepris benyttes i følgende tilfeller:__ Utvidede og skreddersydde testamenter (f.eks. flere eiendommer, verdier i utlandet, aksjer, særkullsbarn) krever mer arbeid for advokat/advokatfullmektig og det avtales pris i henhold til rabattert timespris overfor ved inngåelse av oppdraget. Dette gjelder også endring av testament som er utarbeidet av Legal24. [Les mer og bestill her](https://legal24.no/pensjonistforbundet) Telefon: 21 51 98 30 E-post: post@legal24.no",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://legal24.no/pensjonistforbundet"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Lære hele livet - senioruni.no",
+      "discount_percentage": 30,
+      "description": "30 % rabatt - Foredrag med engasjerende eksperter!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://senioruni.no/trygg/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Ishavskraft - seniorstrøm",
+      "discount_percentage": null,
+      "description": "Stabil strømavtale - God og stabil strømavtale - Strømavtalen med Ishavskraft skal sikre medlemmene en stabil og forutsigbar strømavtale, uten skjulte kostnader. ### Medlemsfordel Med Seniorstrøm fra Ishavskraft får du: - ingen månedsavgift. - påslag per kwh 7.12 øre. - avslag på 370 kroner på første faktura. - som stabil kunde får du tilbake kroner 370 hvert år. - faktura i posten uten gebyr. - rådgivning per telefon på hvordan du kan senke dine strømkostnader. - 9 mnd.bindingstid. [Les mer og bestill her](https://www.ishavskraft.no/stromavtale/seniorstrom)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.ishavskraft.no/stromavtale/seniorstrom"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "IsFritt varmematter",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Rabatt på varmematter fra IsFritt. - Med varmematter fra IsFritt kan du få et sklisikkert underlag - hele vinteren igjennom. Som medlem i Pensjonistforbundet får du 15 % rabatt på hele sortimentet hos [www.isfritt.com](https://www.isfritt.com/no/) - Enkel montering - Krever kun utendørs stikkontakt - Solid konstruksjon med grov overflate for antiskli og vannavrenning - Alle matter og størrelser kan seriekobles til hverandre - Mattene kan strømstyres via smartkontakt/ app el automatisk av ute-temperatur - Kan festes, men ligger stødig alene - Smelter 6cm snø pr time Sjekk [IsFritt sine nettsider](https://www.isfritt.com/no/) for mer info, bilder og videoer. Ønsker du tips eller bistand med oppmåling til en sklisikker løsning? Ta kontakt med IsFritt: Telefon: [404 02 404](Tel:40402404) E-post: [post@isfritt.no](mailto:post@isfritt.no)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.isfritt.com/no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Hurtigruten/ Boreal Adventure",
+      "discount_percentage": null,
+      "description": "Svært god rabatt på reiser med Hurtigruten.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.borealreiser.no/opplev-svalbard-med-pensjonistforbundet"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Hotellavtale med Thon",
+      "discount_percentage": 12,
+      "description": "12 % rabatt - Hotellovernatting til medlemspris. - ### Slik bestiller du __På nett:__ [Bestill hotellrom her](https://www.thonhotels.no/?firma=TH111017). 1. Velg hotell, dato, antall personer og romtype. 2. Legg inn dine opplysninger og du vil få opp ulike alternativer på pris og avbestillingsregler. 3. Velg deretter det tilbudet som passer deg best. __I app: __ 1. Last ned Thon Hotels appen. 2. Gå inn på Min profil 3. Velg avtalepriser og legg til firmakode __TH111017__ Nå har du tilgang til firmaets avtalepriser på en rask og enkel måte via mobilen. Appen er personlig. ### Kontaktinfo Thon Hotels kundesenter hjelper deg med din bestilling. Telefon: [21 49 69 00](Tel:21496900) E-post: [service@olavthon.no](mailto:service@olavthon.no)",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.thonhotels.no/?firma=TH111017"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Hjertestarter",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Hjertestarter fra Trygg Partner AS. - I tillegg til hjertestartere, tilbyr Trygg Partner AS kurs i bruk av hjertestarter og generell førstehjelp til svært fordelaktige priser. Pensjonistforbundet anbefaler denne avtalen når slikt utstyr skal kjøpes. Det gis også 15 prosent rabatt på førstehjelpsutstyr, som kjøpes i Trygg Partners nettbutikk; [www.trygg-partner.no](https://www.trygg-partner.no) eller via telefon og mail.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.trygg-partner.no"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Hjelpemidler for et aktivt liv",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Løsninger for et selvstendig liv. - Medlemmer av Pensjonistforbundet får 15 prosent rabatt på hele nettbutikken [www.velferdsbutikken.no](https://www.velferdsbutikken.no/).",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.velferdsbutikken.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Hadeland Glassverk",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - 15 % rabatt på varer og egne opplevelsespakker på glassverket - På Hadeland Glassverk kan du oppleve glassblåsning på nært hold. Det finnes flere spennende opplevelsesprodukter, som blant annet historisk vandring. Det er også mulig å blåse sitt eget glass. Et godt utvalg butikker og spisesteder legger til rette for en hyggelig dag i naturskjønne omgivelser. #### Ordinær medlemsfordel - 15% på ordinære varer på Hadeland Glassverk - 15% på ordinære varer i nettbutikken - Gode priser på ulike opplevelser på glassverket - 15 % rabatt på overnatting hos [Thorbjørnrud hotell](https://www.pensjonistforbundet.no/medlemsfordeler/thorbjornrud-hotell) (Rabatten gjelder ikke belysning, Icon glass, eller mat og drikke) Les mer om tilbudet [her](https://www.hadeland.com/pages/medlemsfordeler-pensjonistforbundet-pa-hadeland-glassverk)",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.hadeland.com/pages/medlemsfordeler-pensjonistforbundet-pa-hadeland-glassverk"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Go Nordic Cruiseline",
+      "discount_percentage": 10,
+      "description": "10 % fast rabatt! - Rabatt på danskebåten. - ### Faste rabatter og andre tilbud Som medlem i Pensjonistforbundet får du alltid 10 % rabatt på båtreiser til København. Rabatten gjelder alle lugartyper, samt personbiler. *Noen få avganger vil være unntatt fra rabatt i sin helhet. [Les mer og bestill her](https://www.gonordiccruiseline.no/partner/medlemsfordel?utm_source=partnerships&utm_medium=referral&utm_campaign=pensjonistforbundet_no_29-04-2025)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.gonordiccruiseline.no/partner/medlemsfordel?utm_source=partnerships&utm_medium=referral&utm_campaign=pensjonistforbundet_no_29-04-2025"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Flytevester",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Rabatt på flytevester hos Redningsselskapet. - ### Medlemsfordel Som medlem får du 15 % rabatt på alle produkter i nettbutikken til Redningsselskapet. Rabatten gjelder ikke tilbudsvarer og kan ikke kombineres med andre kampanjetilbud. [Les mer om Redningsselskapet her](https://nettbutikk.rs.no/) Hvis du har spørsmål, kan disse rettes direkte til kundeservice; [nettbutikk@rs.no](mailto:nettbutikk@rs.no)",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://nettbutikk.rs.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Flexistore minilager",
+      "discount_percentage": 20,
+      "description": "20 % rabatt - Trenger du ekstra plass? - Da kan Flexistore minilager hjelpe deg. Som medlem får du: - 20 % fast rabatt - 50 % rabatt ved kortere behov, opp til 2 måneder, med rabattkode PF502MND. Mer informasjon om Flexistore finner du på [www.flexistore.no](https://www.flexistore.no/) Bestill direkte på nettsiden: Velg avdeling og oppstartsdato, verifiser deg med Vipps eller BankID. - Åpne alle dører med Flexistore-appen - Del nøkler med andre i appen, helt gratis - Tilgang 24 timer i døgnet, alle dager - Vi hjelper deg med transport og flyttehjelp - Videoovervåket og tempererte lager",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.flexistore.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Filmweb Kinoklubb",
+      "discount_percentage": null,
+      "description": "Se film til halv pris på de fleste kinoer i Norge - Du får mulighet til å se 12 utvalgte filmer i året til halv pris. Går du på kino mer enn to ganger i året, lønner dette seg. Ser du alle filmene, kan du spare nesten en tusenlapp. Tilbudet gjelder på de fleste kinoer i Norge, fra nord til sør.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.kinoklubb.no/BliMedlem/OpprettBruker?rabattkode=PENSJONIST"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Filmweb kinogavekort",
+      "discount_percentage": 10,
+      "description": "10 % rabatt - Rabatt på kjøp av kinogavekort. - Kinogavekortet er den perfekte gaven til mange anledninger, som bursdag, mor- og farsdag, julegave, eller bare som en hyggelig oppmerksomhet. Alle setter pris på en opplevelse med nære og kjære. Gavekortet kan brukes til kjøp av både kinobilletter og kioskvarer på de fleste kinoer i hele landet. Du kan selv velge beløp, antall gavekort og skrive en hyggelig hilsen. Enkelt å gi - morsomt å få!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kinogavekort.no/Digital?discountCode=PENSJONIST"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Dag Aasbø Travel",
+      "discount_percentage": null,
+      "description": "Egne turer for medlemmer - Rabatt på reiser fra flere byer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://dagaasbo.no/type-reise/pensjonistforbundet/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Briller og solbriller",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Extra Optical leverer alle typer brilleglass. - Extra Optical har alle typer brilleglass, og tilbyr like gode briller til en lavere pris. Langsynt, nærsynt, skjeve hornhinner, prismer, progressive – uansett synsfeil unngår du å blakke deg helt! Som medlem i Pensjonistforbundet får du 15 % rabatt på alle briller og solbriller med styrke - Sportsbriller med styrke - Tilbehør - Glassbytte i egen innfatning – Briller neste dag! (få briller med styrke neste dag) - Blålysbriller med og uten styrke - Solbriller uten styrke i vårt eget eXo merke Merk at rabatt ikke gjelder for kontaktlinser og merkesolbriller. Dette er alltid holdt utenfor avtaler da prisnivået allerede gir svært lave marginer på disse produktene. ExtraOptical har eget sliperi på Flatåsen i Trondheim som gjør at Pensjonistforbundets medlemmer også kan få rabatt på tjenester i verkstedet. Extra Optical tilbyr alle typer glass. Rabatten vil også gjelde disse: - Leseglass - Avstandsglass - Progressive glass - Dataglass - Glass for prismekorrigering - Glass for brytningsfeil - Glass uten styrke - Polariserte solbrilleglass - Polariserte speilglass (solbrilleglass) - Vanlige solbrilleglass Extra Optical tilbyr gratis hjemlån av briller til alle som ønsker dette. __Les mer her:__ [Om ExtraOptical](https://extraoptical.no/om-extraoptical) [Brilleverksted](https://extraoptical.no/om-extraoptical/brilleverksted) [Du finner oss i Trondheim](https://extraoptical.no/om-extraoptical/trondheim)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://extraoptical.no/om-extraoptical"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Balder Forsikring",
+      "discount_percentage": null,
+      "description": "Avtalen er avsluttet - __Informasjon til deg som allerede er kunde hos Balder Forsikring__ Forsikringsavtaler inngås for ett år av gangen og kan ikke endres i avtaleperioden. Medlemmer som har benyttet seg av avtalen vil derfor beholde sin medlemsfordel frem til avtalen skal fornyes, ett år etter at den ble inngått. (hovedforfall). Balder Forsikring fortsetter sin drift på vanlig måte, og vil ivareta alle som har kjøpt forsikring hos Balder videre.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.pensjonistforbundet.no/medlemsfordeler/balder-forsikring"
+    }
+  ]
+}

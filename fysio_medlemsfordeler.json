@@ -1,0 +1,51 @@
+{
+  "provider": "Norsk Fysioterapeutforbund",
+  "source_page": "https://fysio.no/medlemsfordeler",
+  "discounts": [
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Garmin",
+      "discount_percentage": null,
+      "description": "GPS-navigasjonsprodukter og smartteknologi for trening og fritid. Medlemmer får god rabatt på et utvalg produkter når de kjøper fra Garmins nettbutikk . Tilgjengelige produkter i utvalget spesifiseres ved hver forespørsel om rabatt. Spesielle rabattkoder kreves, og hver rabattkode som utleveres er begrenset til kjøp av ett hovedprodukt og ett tilbehør til produktet. Nærmere informasjon om produkter, rabattsatser og særlige vilkår i avtalen: se denne artikkelen . Ta kontakt med forbundets kontaktperson på e-post for å få tilsendt rabattkode: vr@fysio.no .",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.garmin.com/nb-NO/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Stormberg",
+      "discount_percentage": 30,
+      "description": "30 % rabatt på et bredt utvalg av Stormbergs produkter. Merk at rabatten gis på ordinære varer på Stormbergs rabattside for Unio-medlemmer, ikke varer som allerede er nedsatt i pris (salgs-, lavpris- og outletvarer). Les omtale på Unios sider . Ta kontakt med NFF på vr@fysio.no for å få tilgang til Stormbergs rabattside.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/stormberg/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Torshov Sport",
+      "discount_percentage": 20,
+      "description": "10–20 prosent rabatt på sportsutstyr i alle Torshov Sport-butikker og i nettbutikken. 25 prosent rabatt på visse samlebestillinger. Ta kontakt med NFF på vr@fysio.no for å motta Torshov Sports rabattkode og øvrige vilkår.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://fysio.no/medlemsfordeler"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Fjordkraft",
+      "discount_percentage": null,
+      "description": "Strømavtale og mobilabonnement Norsk Fysioterapeutforbund har en medlemsfordelsavtale med Fjordkraft for strøm. Velger du strøm og mobilabonnement fra Fjordkraft sammen, kan du spare enda mer. Fjordkraft selger strøm til kunder over hele Norge. Les mer om medlemsfordelen",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.fjordkraft.no/nff"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Kunstverket Galleri",
+      "discount_percentage": 25,
+      "description": "Kunstverket Galleri AS NFF-medlemmer får 25 % rabatt på innramming ved kjøp av kunst fra Kunstverkets nettgalleri eller galleriet deres i Kirkegata 5 i Oslo. Ved handel fra nettgalleriet må følgende tekst skrives i notatfeltet: \"Er medlem av Norsk Fysioterapeutforbund og får derfor 25 % rabatt på innramming\".",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "http://kunstverket.no"
+    }
+  ]
+}

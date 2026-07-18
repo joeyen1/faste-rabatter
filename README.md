@@ -1,7 +1,8 @@
 # Faste Rabatter
 
 En app for å søke opp faste medlemsrabatter fra DNB, OBOS, Elbilforeningen,
-USBL, LOfavør, Akademikerforbundet og Kobbl på ett sted. Kjører som en PWA
+USBL, LOfavør, Akademikerforbundet, Kobbl, Norsk Fysioterapeutforbund,
+Unio, YS, NITO og Pensjonistforbundet på ett sted. Kjører som en PWA
 (nettapp) du legger til på hjemskjermen på iPhone – ingen App Store, ingen
 Xcode.
 
@@ -21,6 +22,11 @@ usbl_medlemsfordeler.py          → usbl_medlemsfordeler.json
 lofavor_medlemsfordeler.py       → lofavor_medlemsfordeler.json
 akademikerforbundet_medlemsfordeler.py → akademikerforbundet_medlemsfordeler.json
 kobbl_medlemsfordeler.py         → kobbl_medlemsfordeler.json
+fysio_medlemsfordeler.py         → fysio_medlemsfordeler.json
+unio_medlemsprodukter.py         → unio_medlemsprodukter.json
+ys_medlemsfordeler.py            → ys_medlemsfordeler.json
+nito_medlemsfordeler.py          → nito_medlemsfordeler.json
+pensjonistforbundet_medlemsfordeler.py → pensjonistforbundet_medlemsfordeler.json
 elbilforeningen_medlemsfordeler.json   (manuelt vedlikeholdt, se under)
                 ↓
             combine.py
@@ -41,6 +47,11 @@ python3 usbl_medlemsfordeler.py
 python3 lofavor_medlemsfordeler.py
 python3 akademikerforbundet_medlemsfordeler.py
 python3 kobbl_medlemsfordeler.py
+python3 fysio_medlemsfordeler.py
+python3 unio_medlemsprodukter.py
+python3 ys_medlemsfordeler.py
+python3 nito_medlemsfordeler.py
+python3 pensjonistforbundet_medlemsfordeler.py
 python3 combine.py
 ```
 
@@ -77,6 +88,38 @@ denne siden først for et ferskt token, akkurat slik nettleseren gjør, og
 kaller så samme API. Ingen hemmeligheter er hardkodet - subscription-keyen
 er offentlig i sidens egen JS-bunt, og tokenet fornyes automatisk hver gang
 siden lastes.
+
+### Norsk Fysioterapeutforbund henter kun det som er unikt
+
+`fysio.no/medlemsfordeler` er en HubSpot-side med en accordion der de
+fleste fanene er generiske forbundstjenester eller en gjenfortelling av
+Unios sentrale avtaler (dekket av `unio_medlemsprodukter.py`). Skraperen
+plukker derfor bare ut de reelt NFF-unike butikkrabattene (Garmin,
+Stormberg, Torshov Sport, Fjordkraft, Kunstverket Galleri) - 5 tilbud.
+
+### Unio er hovedorganisasjonen bak flere av forbundene
+
+`unio_medlemsprodukter.py` henter Unios 11 sentrale medlemsprodukter
+(Avis, BMW, Cutters, Extra Optical, Stormberg, Nordea, m.fl.). Disse er
+samme avtaler som ofte dukker opp igjen hos tilsluttede forbund som
+Akademikerforbundet og Norsk Fysioterapeutforbund - det er forventet og
+gir et poeng: samme rabatt kan gjelde uansett hvilket Unio-forbund du er
+medlem av.
+
+### YS og NITO er egne hovedorganisasjoner/forbund
+
+`ys_medlemsfordeler.py` (24 tilbud) og `nito_medlemsfordeler.py` (30
+tilbud, kun "Rabatter"-kategorien - forsikring/bank/juridisk er utelatt
+som hos Akademikerforbundet) henter fra hver sin side med egne
+partneravtaler, uavhengig av Unio.
+
+### Pensjonistforbundet
+
+`pensjonistforbundet_medlemsfordeler.py` henter alle 33 fordelene fra en
+Next.js/Contentful-datastrøm (`__NEXT_DATA__`). Ekstern partnerlenke
+finnes ikke i et fast felt, så skraperen søker gjennom hele fordelens
+JSON-data etter URL-er og filtrerer bort kjente ikke-partner-domener
+(bilder, video, egne sider).
 
 ### Elbilforeningen er et unntak
 
@@ -147,6 +190,12 @@ Hvert rabatt-objekt i `discounts.json` ser slik ut:
 - **Kobbl**: 42 rabatter, hentet fra et skjult API (se over). Både bonus-
   og rabattprosent finnes i dataene; `discount_percentage` prioriterer
   selve rabatten fremfor bonus (cashback).
+- **Norsk Fysioterapeutforbund**: 5 rabatter (kun NFF-unike, se over).
+- **Unio**: 11 rabatter (sentrale medlemsprodukter, se over).
+- **YS**: 24 rabatter.
+- **NITO**: 30 rabatter (kun "Rabatter"-kategorien, se over).
+- **Pensjonistforbundet**: 33 rabatter, hentet fra Next.js/Contentful-data
+  (se over).
 - Prosentsatser er hentet med regex fra beskrivelsesteksten og kan mangle
   for tilbud som ikke er rene prosent-rabatter (f.eks. faste kronebeløp,
   "2 for 1", rentefordeler).

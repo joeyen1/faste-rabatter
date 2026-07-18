@@ -1,0 +1,222 @@
+{
+  "provider": "YS",
+  "source_page": "https://ys.no/medlemsfordeler/",
+  "discounts": [
+    {
+      "provider": "YS",
+      "retailer": "Gjensidige",
+      "discount_percentage": null,
+      "description": "Uansett hvor du skal, til varmere strøk eller en biltur i nord, så gjelder reiseforsikringen til Gjensidige fra du drar hjemmefra. Du kan kjøpe helårs reiseforsikring til medlemspris, som gjelder for deg og hele familien. Egne barn, bonus- og fosterbarn er dekket til de er 20 år.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.gjensidige.no/salg-api/open/dispatcher/ys/bil?x-client-id=ys&utm_id=vpir12&utm_source=ys&utm_medium=affiliate&utm_campaign=sommer-partner_lenke-nettside"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Nordea",
+      "discount_percentage": null,
+      "description": "For å sikre at medlemmer av YS har et best mulig banktilbud har Nordea nylig gjort justeringer i rentene som kan slå ut positivt på boliglån for YS-medlemmer. Har du enda ikke byttet bank anbefaler vi deg å gjøre det nå.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nordea.no/privat/fagforbund/ys/?cid=soc-hh7t7ctr0m"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Radisson hotels",
+      "discount_percentage": 20,
+      "description": "Her får du som YS-medlem rabatt på 10-20 %. NB! For å få rabatten må dere benytte koden 090673. Koden skal skrives inn i feltet «Corporate Account ID/Bedriftskonto-ID»",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.radissonhotels.com/no-no/"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Markisemannen",
+      "discount_percentage": null,
+      "description": "Ny og svært god medlemsfordel på inn- og utvendig solskjerming, gardinlengder og garasjeporter! Medlemsrabatt HELE året på ALLE produkter",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.markisemannen.no/ys-fordel/?utm_source=ys_fordel&utm_medium=partner&utm_campaign=ys_fordel_2026"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Tuftewear",
+      "discount_percentage": 20,
+      "description": "Som medlem får du -20% fast rabatt på klær hos tuftewear.no. I tillegg får du tilgang til sesongrelevante, eksklusive tilbud og kampanjer spesielt laget for YS-medlemmer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://tuftewear.no/collections/ys-fordeler"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Kinoklubb",
+      "discount_percentage": 40,
+      "description": "Se gode filmer på kino til halv pris! YS-medlemmer får 40 % rabatt og 2 medlemskap til prisen av 1 hos Kinoklubben! Medlemskapet gjelder på over 120 kinoer i hele landet, og gir halv pris på minst 12 kinofilmer hvert år.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.kinoklubb.no/BliMedlem/OpprettBruker?rabattkode=YS&utm_source=YS+ferdig+rabattkode&utm_medium=Innmeldingslenke&utm_campaign=YS+partner&utm_id=YSpartner"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Klarkraft",
+      "discount_percentage": null,
+      "description": "Klarkraft er rangert som nummer 1 av 88 strømleverandører på bytt.no, og nå kan du som YS-medlem få en trygg, enkel og ekstra billig spotavtale fra Klarkraft.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://klarkraft.no/nyheter/ys"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Kinogavekort",
+      "discount_percentage": 10,
+      "description": "10% rabatt på Filmweb Kinogavekort Alle medlemmer får 10% rabatt på Filmweb Kinogavekort. Gavekortet kan brukes til kjøp av både kinobilletter og kioskvarer i hele landet. Du kan selv velge beløp, antall gavekort og skrive en hyggelig hilsen.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kinogavekort.no/Digital?discountCode=YSKINO"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Konfidens",
+      "discount_percentage": null,
+      "description": "Samtaleterapi og psykologisk rådgivning Når hverdagen føles overveldende kan Nion hjelpe deg med samtaleterapi og psykologisk rådgivning til deg som er YS medlem og din nærmeste familie.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.konfidens.com/no/avtaler/ys"
+    },
+    {
+      "provider": "YS",
+      "retailer": "YS Tannhelseforsikring",
+      "discount_percentage": null,
+      "description": "En bekymring mindre! Forsikrer du tennene dine får du ingen overraskelser hos tannlegen. 193,- kr per mnd.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.norsktannhelseforsikring.no/ys-tannhelseforsikring"
+    },
+    {
+      "provider": "YS",
+      "retailer": "AVIS",
+      "discount_percentage": 25,
+      "description": "25% rabatt på leiebil hos Avis. Benytt kode X199101. Avtalen gjelder ukedager og ikke i helger, og kun i Norge.",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.avis.no/leiebil-tilbud/partnere/andre-partnere/ys"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Esso",
+      "discount_percentage": 20,
+      "description": "Esso Mastercard Drivstoff rabatt på 52 øre/liter på pumpepris, 20% rabatt pluss hver 6 bilvask gratis *)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://essomastercard.no/ys/"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Redningsselskapet",
+      "discount_percentage": 20,
+      "description": "Som medlem av YS får du 20% på første års medlemskap i Redningsselskapet på assistansemedlemskap og RS-medlem",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://rs.no/ys-medlemsfordel/"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Scandic",
+      "discount_percentage": 14,
+      "description": "14% rabatt til YS-medlemmer på alle Scandic-hoteller, og på alle priskategorier(Flex, Save og Change)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.scandichotels.com/no/hotelltilbud/ys"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Thon hotel",
+      "discount_percentage": 16,
+      "description": "16% rabatt for medlemmer i YS-tilknyttede forbund eller bedre rabatt hvis Thon har egen kampanje på hotellet.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://thonhotels.no/?firma=TH21796049"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Strawberry",
+      "discount_percentage": 18,
+      "description": "18% rabatt på hotell i Norge, Norden og Baltikum i weekend og skoleferie.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.strawberry.no/ys/?utm_medium=partnerships&utm_source=partnerships&utm_campaign=LPA&utm_content=YS%20Medlemsf%C3%B8rdeler"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Color Line",
+      "discount_percentage": 12,
+      "description": "12% rabatt på båtreise.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.colorline.no/oslo-kiel/ysmedlem"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Go Nordic Cruiseline",
+      "discount_percentage": 10,
+      "description": "10% rabatt på båtreise.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.gonordiccruiseline.no/partner/medlemsfordel?utm_source=partnerships&utm_medium=referral&utm_campaign=ys_no_23-04-2025"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Sembo",
+      "discount_percentage": 10,
+      "description": "Som medlem av et YS tilknyttet forbund får du 10% rabatt på over 400.000 hoteller over hele verden.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sembo.no/creator/ys?affiliate-id=SAP-3564"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Plussmobil",
+      "discount_percentage": null,
+      "description": "Mobilabonnement med Telenor dekning og tilgang til flere digitale magasiner ++",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.plussmobil.no/ys?utm_source=ys.no&utm_medium=tekstlink&utm_campaign=fordel&utm_content=ysfordel"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Milrab",
+      "discount_percentage": 30,
+      "description": "30% på STOIX og Eagle 20% på Aclima, Salomon, Carhartt, Lundhags, Rab, Swix, Osprey og Therm-a-Rest",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://milrab.no/ys-fordeler"
+    },
+    {
+      "provider": "YS",
+      "retailer": "YS Pensjon – Få mer pensjon for pengene",
+      "discount_percentage": null,
+      "description": "Jobber du nå eller har du jobbet i privat sektor, kan du spare mye penger ved å flytte pensjonskapitalen din til YS Pensjon. Alt på ett sted – i én konto!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://yspensjon.no/"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Mitt Lederunivers",
+      "discount_percentage": 30,
+      "description": "Hos oss kan du velge å laste ned enkeltkurs, webinarer osv eller kjøpe et abonnement på ledelse. YS-forbundenes medlemmer som har lederansvar får 30 % rabatt.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://ultify.io/profile/mitt-lederunivers"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Yskarriereveiviser",
+      "discount_percentage": null,
+      "description": "Er du på jakt etter ny jobb, eller ønsker du å styrke dine muligheter i den jobben du har nå?",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://yskarriereveiviser.inflow24.com/landing-page"
+    }
+  ]
+}

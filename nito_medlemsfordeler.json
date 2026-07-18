@@ -1,0 +1,276 @@
+{
+  "provider": "NITO",
+  "source_page": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/",
+  "discounts": [
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 5,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Mercedes-Benz personbil: MODELL RABATT GLC 5 % OBS! Kampanje gjelder ut august Les mer om kampanjen GLB 1,5 % og i tillegg gratis vinterdekk ELLER 2,99 % rente på billån OBS! Kampanje gjelder ut august Alle modeller (unntatt kampanjemodeller) 3 % Special Editions 1,5 % Rabattoversikt på Mercedes-Benz personbil: MODELL RABATT GLC 5 % OBS! Kampanje gjelder ut august Les mer om kampanjen GLB 1,5 % og i tillegg gratis vinterdekk ELLER 2,99 % rente på billån OBS! Kampanje gjelder ut august Alle modeller (unntatt kampanjemodeller) 3 % Special Editions 1,5 % Rabattoversikt på Mercedes-Benz varebil: MODELL RABATT Citan 14 % Vito 14 % Sprinter 13 % Minibusser 0 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.mercedes-benz.no/offers/nye-glc/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 6,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Opel personbil: MODELL RABATT Helelektrisk 6 % Kampanje til 30. juni på elbil 2 % på gjeldende kampanje, les mer Rabattoversikt på Opel personbil: MODELL RABATT Helelektrisk 6 % Kampanje til 30. juni på elbil 2 % på gjeldende kampanje, les mer Rabattoversikt på Opel varebil: MODELL RABATT Helelektrisk 14 % 4x2: Opel Elite 19 % 4x4: Opel Elite 14 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.opel.no/tilbud/aktuelle-tilbud.html"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 8,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Peugeot personbil: MODELL RABATT Helelektrisk 8 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Peugeot personbil: MODELL RABATT Helelektrisk 8 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Peugeot varebil: MODELL RABATT Helelektrisk 4x2 21 % Helelektrisk 4x4 19 % Diesel 4x2 23 % Diesel 4x4 19 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.peugeot.no/kjop/aktuelle-kampanjer/kampanjer.html"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 10,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Kia hos Bertel O. Steen. Rabatten gjelder for både personbil og varebil. MODELL RABATT Kia personbil EV3 +EV4 + EV5 + EV6 7,5 % EV2 3,8 % EV9 Air og Exclusive 7,5 % EV9 GT Line og GT 8,8 % PV5 Personbil 10 % Kia varebil EV9 Air og Exclusive varebil 6 % EV9 GT Line og GT varebil 7 % PV5 Cargo 12 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-kia/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 6,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Citroën personbil: MODELL RABATT Helelektrisk, unntatt Citroën ë-C4 Plus og YOU 6 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Citroën personbil: MODELL RABATT Helelektrisk, unntatt Citroën ë-C4 Plus og YOU 6 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Citroën varebil: MODELL RABATT Citroën Varebiler 4x4 Elite 14 % 4x2 Elite 19 % Citroën varebil - Work 4x2 Work fossil 15 % 4x2 Work elektrisk 14 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.citroen.no/kjop/kampanjer.html"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "SIXT bilutleie",
+      "discount_percentage": null,
+      "description": "SIXT har over 2,000 internasjonale utleiesteder i 105 land, og vi øker tilgjengeligheten kontinuerlig over hele verden. Om du planlegger å reise på et budsjett eller første klasse, har SIXT den ideelle leiebilen til deg. I tilfelle du trenger en leiebil i Europa, hjelper SIXT deg gjerne med å komme deg på veien med våre tjenester i alle store land og byer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-sixt-bilutleie/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "EVO treningssenter",
+      "discount_percentage": null,
+      "description": "Rabatt hos EVO treningssenter",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-treningssenter/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "SUMO Restauranter",
+      "discount_percentage": null,
+      "description": "Som medlem kan du nyte gode smaker til en enda bedre pris – enten du vil kose deg hjemme, ta med noe godt p å farten, eller samle venner og kolleger til en hyggelig middag ute. Grip sjansen og bruk medlemsrabatten!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-sumo/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Skitt Fiske",
+      "discount_percentage": null,
+      "description": "Rabatt hos Skitt Fiske",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-skitt-fiske/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "NEAK",
+      "discount_percentage": null,
+      "description": "Kursrabatt hos NEAK",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/kursrabatt-hos-neak/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Fjellsport",
+      "discount_percentage": null,
+      "description": "Rabatt hos Fjellsport",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-fjellsport/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "XL-BYGG",
+      "discount_percentage": 30,
+      "description": "Nå kan du få opptil 30 prosent rabatt hos XL-BYGG. Rabatten gjelder på en rekke byggevarer, verktøy og utstyr. Enten du skal pusse opp hjemme, bygge på hytta, eller er i gang med et større prosjekt, vil du finne det du trenger hos XL-BYGG.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-xl-bygg/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bikemember",
+      "discount_percentage": 30,
+      "description": "BikeMember er et sykkelregister. Når du registrerer sykkelen din her kan det bli enklere å finne den igjen om den skulle bli stjålet. FG-godkjent sykkelregister Få sikkerhetsoblat til din sykkel Har du NITO Innboforsikring får du 1000 kroner i rabatt på egenandelen om sykkelen blir stjålet Du kan registrere sykler for hele familien raskt og enkelt. NITO-medlemmer får rabattert pris på abonnement for ett, tre eller fem år. Rabatten for NITO-medlemmer er 30 prosent.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-bikemember/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "MedEasy",
+      "discount_percentage": null,
+      "description": "MedEasy er en digital læringsplattform for helseundervisning. De tilbyr forelesninger og andre læringsressurser som gjør det mulig for studenter og helsepersonell å lære komplisert teori på en lettvint, effektivt og gøyal måte.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-medeasy/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Klatring på Grensen",
+      "discount_percentage": null,
+      "description": "Hos Klatring på Grensen venter spennende klatreløyper, zipline, nettbroer og morsomme utfordringer for både små og store. De har også et stort utvalg av bakkeaktiviteter. Dagsbilletten inkluderer: 25 klatreløyper i ulike høyder og vanskelighetsgrader Klatrenett og klatrevegg, begge 8 meter høye, med automatsikring Ninja-løype på bakken Nett-tårn for barn Hvis du ikke skal klatre/delta på en aktivitet, trenger du ikke å betale. Det er fine stier under løypene slik at du kan følge de som klatrer. Det er mulig med drop-in, men det er anbefalt å forhåndsbooke for å være sikret en sele.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 6,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Alfa Romeo personbil hos Bertel O. Steen. Rabattoversikt på Alfa Romeo personbil: MODELL RABATT Helelektrisk 6 % Fossil 12 % *Quadrifoglio-modeller er unntatt denne støttematrisen",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-alfa-romeo/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 6,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Smart personbil: MODELL RABATT Helelektrisk 6 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-ds/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 10,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Fiat personbil: MODELL RABATT Helelektrisk 10 % MODELL RABATT Helelektrisk 10 % Rabattoversikt på Fiat varebil: MODELL RABATT Helelektrisk 14 % 4x2 Pro 19 % 4x4 Pro 14 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-fiat/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 10,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Jeep hos Bertel O. Steen. Rabatten gjelder for både helelektriske , plug -in og fossilbiler. NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Jeep hos Bertel O. Steen. Rabatten gjelder for både helelektriske , plug -in og fossilbiler. Rabattoversikt på Jeep personbil: MODELL RABATT Helelektrisk 10 % Rabatt gjelder ikke for Fiat Grande Panda ICON 0 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-jeep/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 2,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Smart personbil: MODELL RABATT Alle modeller 2 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-smart/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "De Historiske",
+      "discount_percentage": null,
+      "description": "Hotellrabatt De Historiske",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-de-historiske/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Scandic",
+      "discount_percentage": null,
+      "description": "Som NITO-medlem kan du få avtalepris på overnatting hos Scandic. Det er ikke alltid NITOs avtalepriser er de gunstigste, men er alltid lavere enn ordinærpris. Sjekk eventuelle kampanjetilbud. Som NITO-medlem skal du alltid ha tilgang på de laveste prisene.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-scandic/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Strawberry",
+      "discount_percentage": null,
+      "description": "Hotellrabatt Strawberry",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-strawberry/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Teknisk Ukeblad",
+      "discount_percentage": null,
+      "description": "Halv pris på TU og Digi",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/halv-pris-pa-tu-og-digi/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Narvikfjellet",
+      "discount_percentage": null,
+      "description": "Se åpningstider og les mer om Narvikfjellet .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.narvikfjellet.no/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "SarvesAlta Alpinsenter",
+      "discount_percentage": null,
+      "description": "Les mer om alpinbakken, lån av utstyr etc. i SarvesAlta Alpinsenter",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://sarvesalta.no/alpinsenter/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Tromsø Alpinpark",
+      "discount_percentage": null,
+      "description": "Les mer om alpinbakken, lån av utstyr etc i Tromsø Alpinpark.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://tromsoalpinpark.no/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "INSPIRIA",
+      "discount_percentage": null,
+      "description": "INSPIRIA science center i Sarpsborg er et regionalt vitensenter hvor du kan oppleve, utforske og lære om vitenskapens verden. Slik får du gratis inngang NITO Østfold har to årskort på INSPIRIA, og du kan låne ett eller begge for å få gratis inngang. Ønsker du å låne kort, send en e-post til NITO Østfold med medlemsnummer og dato for besøket ditt. Her gjelder prinsippet om å være først til mølla.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-inspiria-science-center/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Vitensenteret Innlandet",
+      "discount_percentage": null,
+      "description": "Vi har kjøpt fire årskort som gir deg og tre andre gratis inngang til Vitensenteret . Som NITO-medlem kan du og din familie få gratis inngang på Vitensenteret Innlandet, Gjøvik. Alt du trenger er å forhåndsreservere inngangsbillettene. Du må bli medlem eller logge inn for å kunne bestille gratis inngang. Vi har kjøpt fire årskort som gir deg og tre andre gratis inngang til Vitensenteret . Som NITO-medlem kan du og din familie få gratis inngang på Vitensenteret Innlandet, Gjøvik. Alt du trenger er å forhåndsreservere inngangsbillettene. Du må bli medlem eller logge inn for å kunne bestille gratis inngang.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://vitensenteret.no/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Vitensenteret Sørlandet",
+      "discount_percentage": null,
+      "description": "Med årskortet får du tilgang til inspirerende opplevelser og lærerike aktiviteter gjennom hele året – perfekt for alle aldersgrupper. Medlemspriser på årskort (barn/voksen) for 2026 Vitensenteret i Arendal: 380 kr (ord. pris 600 kr) Vitensenteret i Kristiansand: ikke eget årskort (stengt til juni pga. flytting) Vitensenteret i Kvinesdal: ikke eget årskort Felles årskort for alle tre sentre: 500 kr (ord. pris 800 kr) Årskortene gjelder fra 1.1. til 31.12.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-vitensenteret-sorlandet/"
+    }
+  ]
+}

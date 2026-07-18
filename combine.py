@@ -20,6 +20,11 @@ SOURCE_FILES = [
     "lofavor_medlemsfordeler.json",
     "akademikerforbundet_medlemsfordeler.json",
     "kobbl_medlemsfordeler.json",
+    "fysio_medlemsfordeler.json",
+    "unio_medlemsprodukter.json",
+    "ys_medlemsfordeler.json",
+    "nito_medlemsfordeler.json",
+    "pensjonistforbundet_medlemsfordeler.json",
 ]
 
 OUTPUT_PATH = Path("webapp/data/discounts.json")

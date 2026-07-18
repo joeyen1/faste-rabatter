@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T21:47:01.137611+00:00",
+  "generated_at": "2026-07-18T23:29:41.031075+00:00",
   "sources": [
     {
       "provider": "DNB",
@@ -48,6 +48,41 @@
       "source_page": "https://www.kobbl.no/privat/medlemskap/rabatter-og-bonuser/",
       "shared_discount_code": null,
       "count": 42,
+      "fetched_at": null
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "source_page": "https://fysio.no/medlemsfordeler",
+      "shared_discount_code": null,
+      "count": 5,
+      "fetched_at": null
+    },
+    {
+      "provider": "Unio",
+      "source_page": "https://www.unio.no/medlemsprodukter/",
+      "shared_discount_code": null,
+      "count": 11,
+      "fetched_at": null
+    },
+    {
+      "provider": "YS",
+      "source_page": "https://ys.no/medlemsfordeler/",
+      "shared_discount_code": null,
+      "count": 24,
+      "fetched_at": null
+    },
+    {
+      "provider": "NITO",
+      "source_page": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/",
+      "shared_discount_code": null,
+      "count": 30,
+      "fetched_at": null
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "source_page": "https://www.pensjonistforbundet.no/medlemsfordeler",
+      "shared_discount_code": null,
+      "count": 33,
       "fetched_at": null
     }
   ],
@@ -3417,6 +3452,933 @@
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.odalrockclub.no/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Garmin",
+      "discount_percentage": null,
+      "description": "GPS-navigasjonsprodukter og smartteknologi for trening og fritid. Medlemmer får god rabatt på et utvalg produkter når de kjøper fra Garmins nettbutikk . Tilgjengelige produkter i utvalget spesifiseres ved hver forespørsel om rabatt. Spesielle rabattkoder kreves, og hver rabattkode som utleveres er begrenset til kjøp av ett hovedprodukt og ett tilbehør til produktet. Nærmere informasjon om produkter, rabattsatser og særlige vilkår i avtalen: se denne artikkelen . Ta kontakt med forbundets kontaktperson på e-post for å få tilsendt rabattkode: vr@fysio.no .",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.garmin.com/nb-NO/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Stormberg",
+      "discount_percentage": 30,
+      "description": "30 % rabatt på et bredt utvalg av Stormbergs produkter. Merk at rabatten gis på ordinære varer på Stormbergs rabattside for Unio-medlemmer, ikke varer som allerede er nedsatt i pris (salgs-, lavpris- og outletvarer). Les omtale på Unios sider . Ta kontakt med NFF på vr@fysio.no for å få tilgang til Stormbergs rabattside.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/stormberg/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Torshov Sport",
+      "discount_percentage": 20,
+      "description": "10–20 prosent rabatt på sportsutstyr i alle Torshov Sport-butikker og i nettbutikken. 25 prosent rabatt på visse samlebestillinger. Ta kontakt med NFF på vr@fysio.no for å motta Torshov Sports rabattkode og øvrige vilkår.",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://fysio.no/medlemsfordeler"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Fjordkraft",
+      "discount_percentage": null,
+      "description": "Strømavtale og mobilabonnement Norsk Fysioterapeutforbund har en medlemsfordelsavtale med Fjordkraft for strøm. Velger du strøm og mobilabonnement fra Fjordkraft sammen, kan du spare enda mer. Fjordkraft selger strøm til kunder over hele Norge. Les mer om medlemsfordelen",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.fjordkraft.no/nff"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Kunstverket Galleri",
+      "discount_percentage": 25,
+      "description": "Kunstverket Galleri AS NFF-medlemmer får 25 % rabatt på innramming ved kjøp av kunst fra Kunstverkets nettgalleri eller galleriet deres i Kirkegata 5 i Oslo. Ved handel fra nettgalleriet må følgende tekst skrives i notatfeltet: \"Er medlem av Norsk Fysioterapeutforbund og får derfor 25 % rabatt på innramming\".",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "http://kunstverket.no"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Avis",
+      "discount_percentage": 30,
+      "description": "Unio har inngått et samarbeid med Avis Bilutleie som gir alle medlemmer av Unios medlemsforbund gunstige priser i Norge. Inntil 30 prosent rabatt på leie av personbiler og varebiler i Norge. Rabatten gjelder ikke på forsikring, servicegebyrer, mva., Prestige-biler, weekend- eller månedsleie. Slik får du Unio-rabatten: Oppgi rabattnummer W330405 ved bestilling. Ved bestilling på avis.no, oppgi rabattkode (AWD-nummer) eller bestill via lenken nedenfor. Du kan også bestille på telefon 66 77 10 10. Gyldig bevis for medlemskap i ditt forbund og førerkort fremvises ved henting av leiebilen. Trykk her for å se detaljer",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.avis.no/leiebil-tilbud/partnere/andre-partnere/unio"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": null,
+      "description": "Unio har inngått en avtale som gir deg som medlem av et Unio-forbund gunstige vilkår ved kjøp av ny elbil hos Bertel O. Steen. Avtalen innebærer rabatt på elbiler fra Mercedes-Benz, Peugeot, Citroën, Opel, Kia, DS, Jeep og Fiat. Rabattene varierer fra merke til merke. Les mer om avtalen her Her finner du et stort utvalg av elbiler Bertel O. Steen er en av Nordens største aktører innen salg og servicetjenester for personbiler, varebiler, lastebiler og busser. Du finner hel- og deleide forhandlere i hele Norge, fra Kristiansand i sør til Alta i nord. Her finner du din nærmeste Bertel O. Steen-forhandler Nyhetssak på unio.no: Unio med unikt elbil-tilbud til medlemmene",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.bos.no/fleet"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "BMW",
+      "discount_percentage": 8,
+      "description": "Unio har inngått en eksklusiv rammeavtale med BMW Norge AS. Avtalen gir deg som medlem av et Unio-forbund gunstige vilkår ved kjøp/leasing av BMW-modeller. • Medlemsrabatt fossile/hybride BMW-modeller: 8 prosent • Medlemsrabatt elektriske BMW-modeller: 4 prosent Medlemsrabatten kan kombineres med nasjonale salgskampanjer fra BMW Norge AS og beregnes av veiledende bilpris, fabrikkmontert utstyr og eksklusive avgifter til staten. Merk at avtalen har en uttaksbegrensning på maksimalt to biler per kalenderår per medlem. Medlemskap i et Unio-forbund må verifiseres, for eksempel gjennom medlemsbevis, trekk gjennom lønnsslipp eller lignende. Les mer om hver bilmodell her Les mer om aktuelle nasjonale salgskampanjer he r Med et sterkt fokus på kjørekomfort og tidløst design, tilbyr BMW et variert utvalg av bilmodeller som kombinerer luksus med praktikalitet, perfekt for både hverdagsbruk og lengre turer. Enten du er på jakt etter en ny, sporty sedan, en romslig SUV eller en fin bybil, har BMW noe som passer dine behov og preferanser. Du finner BMW-forhandlere over hele landet, fra sør til nord. Besøk din nærmeste BMW-forhandler for å oppleve hva modellene har å by på. Finn din BMW-forhandler",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.bmw.no/no/all-models.html"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Cutters",
+      "discount_percentage": 20,
+      "description": "Unios medlemsfordeler gir deg hele 20 prosent rabatt på hårklipp hos Cutters. Cutters er en leverandør av frisørtjenester med salonger over hele Norge. Selskapets forretningskonsept er basert på effektivitet, tilgjengelighet og en standardisert pris for hårklipp, uavhengig av kjønn eller type klipp. Bestilling skjer via selskapets applikasjon eller nettside. Anvend koden samhold20 i appen eller på cutters.no. Rabattkoden gjelder alle i din husstand. Du kan lese mer om medlemsfordelen hos Cutters",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://cutters.no/uniorabatt"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "De Historiske",
+      "discount_percentage": 10,
+      "description": "Medlemmer av Unios forbund gis 10 prosent rabatt på overnatting med frokost hos De Historiske. Unn deg et unikt opphold med De Historiske, en samling av noen av Norges mest sjarmerende hoteller og spisesteder, fra Svalbard i nord til Kristiansand i sør. Her finner du alt fra moderne byhoteller til herskapelige herregårder, staselige gods og romantiske boutiquehoteller ved fjorder og i idylliske småbygder. Et opphold på et historisk hotell er en reise gjennom tradisjon og eleganse, hvor kvalitet alltid står i sentrum. Nyt smakfulle retter laget med kortreiste råvarer, kombinert med ekte gjestfrihet og en historisk atmosfære omkranset av Norges vakreste natur. De Historiske setter også bærekraft høyt på agendaen, med fokus på kortreist mat og miljøvennlige løsninger, slik at du kan nyte oppholdet med god samvittighet. Hvert sted har sin egen unike historie, noe som gir opplevelsen et særegent og personlig preg. Her går du i fotsporene til både kongelige, forfattere og eventyrere. Enten du planlegger en romantisk helg eller en ferie langs fjord og fjell, tilbyr De Historiske et opphold utenom det vanlige. Velkommen til De Historiske – noe av det beste Norge har å by på! Vilkår: Rabatten gjelder kun ved digital bestilling av ordinær overnatting (rom og frokost). Den dekker ikke spisesteder eller tilbudspakker på dehistoriske.no. Rabatten kan variere i høysesong. For mer informasjon og inspirasjon, besøk De Historiske . Medlemshoteller – oppdatert 19. februar 2025 Vestlandet Bekkjarvik Gjestgiveri Biologen Herdla Brakanes Hotel Brosundet Charmante Skostredet Hôtel Fjærland Fjordstove Hotell Flatheim Fleischer’s Hotel Fretheim Hotel Haaheim Gaard Hotell Avlsgården Baroniet Rosendal Knutholmen Kviknes Hotel Lilløy Lindenberg Lindstrøm Hotel Philipshaugen Lodge Singerheimen Skjolden Hotel Skrivergaarden Store Ringheim Hotell & Rest Tyssedal Hotel Union Geiranger Utne Hotel Visnes Hotel Walaker Hotell Østlandet Bondeheimen Engø Gård Fredriksten Hotell Gamlebyen Hotell Geilo Mountain Lodge Granavolden Hotel & Gjæstgiveri Hoel Gård Hotell Jeløy Radio Hurdalsjøen Hotell & Spa Losby Gods Lysebu Nevlunghavn Gjestgiveri Rjukan Admini Hotell Straand Hotel Sundvolden Hotel Søstrene Storaas Thorbjørnrud Hotell Rogaland Eilert Smith Hotel Energihotellet Fjordbris Hotell GamlaVærket Grand Hotel Egersund Høyevarde fyrhotell Kronen Gaard Hotel Sogndalstrand Kulturhotell Utstein Kloster Hotell Sørlandet Boen Gård Det Lille Hotel Grand Hotell Flekkefjord Lillesand Hotel Norge Innlandet Danebu Kongsgaard Finnskogtoppen Spa & Velværehotell Fossheim Turisthotell Hindsæter Nermo Hotell Røisheim Trøndelag & Nord-Norge Bårdshaug Herregård Erzscheidergården Røros Hotell Støtt Svinøya Rorbuer Trasti & Trine Vertshuset Røros Ytri Svalbard Funken Lodge Opplev De Historiske – Norges mest sjarmerende hoteller",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "http://www.dehistoriske.no"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Esso drivstoffrabatt",
+      "discount_percentage": 20,
+      "description": "Unio-medlemmer får drivstoffrabatt hos Esso på 52 øre* per liter. Så nå kan du kjøre til jobben, eller dra på tur, og vite at du har en av markedets beste drivstoffrabatter! Glem heller ikke at du også har 20 prosent rabatt på bilvask. I tillegg til Esso Mastercard-rabatten kan du også få vaskerabatthefte på de Esso-stasjonene som tilbyr dette. Med Esso Mastercard får du også 15 prosent rabatt på Strawberry-hotell (Comfort, Quality og Clarion) i helger og ferieperioder. Har du ikke allerede et Esso Mastercard? Søk om kortet her * Drivstoffrabatten forutsetter bruk av et Esso Mastercard på Esso-stasjoner i Norge Vilkår Effektiv rente ved kreditt på kr 15 000 over 12 md. er 31,13 prosent. Total kredittkostnad kr 1 947. Full utnyttelse av den økonomiske gevinsten med rabatt, forutsetter at utestående kreditt betales ved forfall, slik at det ikke påløper renter. Spørsmål? Send e-post til [email protected] eller ringe kundeservice på telefon 21 01 53 65.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://essomastercard.no/unio"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Extra Optical",
+      "discount_percentage": 20,
+      "description": "Unios medlemsfordeler gir deg hele 20 prosent rabatt på Extra Opticals allerede rimelige briller og solbriller med styrke! Bruk rabattkode i kassen og du får 20 prosent rabatt på briller og solbriller merket eo Selection. Rabattkoden gjelder alle briller og solbriller merket eo Selection inkludert valgte glass. Rabattkoden gjelder ikke kontaktlinser og kjente merkevarer. Rabattkoden har ingen kontantverdi, og kan ikke kombineres med andre kampanjer og tilbud. Du kan lese mer og bestille briller på Extra Opticals nettsted her",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://extraoptical.no/unio-eo-medlem"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Nordea",
+      "discount_percentage": null,
+      "description": "Unio har et samarbeid med Nordea som gir medlemmer i et Unio-forbund et godt banktilbud. Avtalen omfatter medlemmer, studentmedlemmer og ansatte i 13 av Unios 14 forbund. Norsk Sykepleierforbund har valgt å stå utenfor avtalen. Her får du gode medlemspriser på boliglån og andre banktjenester. Dette er noen av medlemsfordelene dine: en god boliglånsrente billån til medlemspris topp prioritet hos egen kundeservice kredittkort uten årsgebyr 0 kroner i månedspris for Min dagligbank for deg under 34 år, inkludert ett gratis bankkort medlemsrente på bruks- og sparekonto Unio Pensjon i Nordea Liv Les mer om bankfordelene https://www.unio.no/wp-content/uploads/2026/02/nordea_forbund_16x9_standard_unio.mp4",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nordea.no/privat/fagforbund/unio/?cid=oec-50dhks7svs"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Nordea Liv",
+      "discount_percentage": null,
+      "description": "I løpet av 2021 fikk 1,5 millioner nordmenn som jobber i det private egen pensjonskonto. Er du en av dem? Egen pensjonskonto samler pensjon fra nåværende arbeidsgiver (innskuddspensjon) og fra tidligere arbeidsgivere (pensjonskapitalbevis). Alt på ett sted – i én konto! Visste du at du selv kan velge hvor pensjonen din fra arbeidsgiver skal være? Dersom du ikke foretok deg noe i fjor, ble pensjonen din samlet i selskapet hvor arbeidsgiveren din har innskuddspensjonen. Nå kan du bruke din nye medlemsfordel flytte pensjonen din til Nordea Liv. Unio har fremforhandlet en meget god avtale med Nordea Liv på vegne av alle våre medlemmer, som gir gode og konkurransedyktige pensjonsbetingelser. Avtalen kan sikre deg flere tusen kroner ekstra som pensjonist. For deg som kun har pensjonskapitalbevis fra tidligere arbeidsforhold i det private, får samme gode betingelser som på egen pensjonskonto. Hvorfor skal jeg flytte min egen pensjonskonto til Nordea Liv? Blant markedets laveste forvaltningskostnader – lavere kostnader betyr mer i pensjon til deg. Tilgang til mobilløsningen Nordea Boost der du får total oversikt og kontroll over pensjonen din – ta grepene som øker pensjonen din. Pensjonssparing med fokus på bærekraft – bidra til en mer bærekraftig samfunnsutvikling. Ingen plattformavgift eller andre skjulte kostnader – velg mellom bredt utvalg av investeringsprofiler, med medlemspris på Nordea Liv Fremtid Valutasikret og Nordea Liv Indeksforvaltning Valutasikret. Det er enkelt å flytte pensjonen Gå til nordea.no/unio og logg inn i Nordea Boost. Her kan du enkelt flytte din egen pensjonskonto eller dine pensjonskapitalbevis. Lurer du på hvor pensjonen din er plassert i dag og hva du har oppspart? Sjekk norskpensjon.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nordea.no/privat/vare-produkter/pensjon/pensjonsfordel-unio.html"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Norgesbooking",
+      "discount_percentage": null,
+      "description": "Lei en hytte via Norgesbooking fra kun 299 kroner per natt. Eksklusivt tilbud til Unio-medlemmer: Få 1 000 kroner i rabatt ved leie av hytte for opphold på 1 uke eller lenger, eller 500 kroner for opphold fra 2 til 6 netter. Her kan du finne din perfekte hytte , og ved å legge inn rabattkode «UNIO1000» eller «UNIO500» får du rabatten fratrukket i bestillingen. Vi har mange filter som hjelper deg å finne riktig hytte, som for eksempel WiFi, fjellhytter, peis, båt inkludert, antall personer, husdyr tillatt og mer. Velg mellom hundrevis av hytter over hele landet under menypunkt «Se alle hytter» hvor du kan velge ønsket destinasjon. Medlemmer i Unio-tilsluttede forbund som ønsker å leie ut sin private hytte betaler ikke årlig oppførings- og vedlikeholdsavgift, som ordinært er på kroner 950 (+ mva.) per år. Booking av feriebolig Bookinger hos Norgesbooking kan gjøres via online booking, per telefon eller per e-post. På våre nettsider kan du søke på ønsket dato, eller om du vet eksakt hvilket sted du ønsker å reise til, kan du se alle hytter på en bestemt destinasjon. For booking på vår nettside oppgir du koden «UNIO500» eller «UNIO1000» i kampanjekodefeltet, og du vil få innvilget rabatt med en gang. Samme kode oppgis per telefon eller e-post. Det er viktig at personen som er medlem gjør bookingen i sitt navn. Vi på servicekontoret er tilgjengelig for hjelp og råd for å finne riktig hytte eller svare på andre spørsmål. Rabatten kan benyttes på alle hytter på «øyeblikkelig bestilling». Se disse her: Hytter hos Norgesbooking Vi har generelt en aldersgrense på 23 år ved leie av hytter, men det er unntak på hytter hvor det noen steder er lavere aldersgrense og noen få steder høyere. Om Norgesbooking Norgesbooking AS ble etablert høsten 2001, og var den gangen blant de aller første utleieformidlere som startet en forretningsplattform utelukkende basert på internett. I februar 2002 ble våre nettsider lansert med cirka 30 utleiehytter. I dag tilbyr vi om lag 500 ferieboliger fordelt rundt i hele Norge. Vi tilbyr ferieboliger, ved både kjente og mindre kjente destinasjoner i Norge. Her finner du alt fra enkle, små hytter uten strøm og vann, til store luksushytter med alle tenkelige fasiliteter. E-post: [email protected] Telefon: +47 32 08 57 10 Web: www.norgesbooking.no",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.norgesbooking.no/se-alle-hytter/?ac=1521"
+    },
+    {
+      "provider": "Unio",
+      "retailer": "Stormberg",
+      "discount_percentage": 30,
+      "description": "Unios medlemmer får 30 prosent rabatt på ordinære priser på en rekke varer. Her finner du vareutvalget Stormberg er Norges mestselgende sports- og turtøymerkevare. Stormberg var den første sports- og tekstilgrossisten som ble tatt opp i Initiativ for Etisk Handel i 2002. Stormberg har klare retningslinjer om dyreetikk og alle produsentene er pålagt å følge disse. Siden starten i 1998 har Stormberg hatt en god vekst i omsetning og antall medarbeidere.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.stormberg.com/no/kampanje/unio"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Gjensidige",
+      "discount_percentage": null,
+      "description": "Uansett hvor du skal, til varmere strøk eller en biltur i nord, så gjelder reiseforsikringen til Gjensidige fra du drar hjemmefra. Du kan kjøpe helårs reiseforsikring til medlemspris, som gjelder for deg og hele familien. Egne barn, bonus- og fosterbarn er dekket til de er 20 år.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.gjensidige.no/salg-api/open/dispatcher/ys/bil?x-client-id=ys&utm_id=vpir12&utm_source=ys&utm_medium=affiliate&utm_campaign=sommer-partner_lenke-nettside"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Nordea",
+      "discount_percentage": null,
+      "description": "For å sikre at medlemmer av YS har et best mulig banktilbud har Nordea nylig gjort justeringer i rentene som kan slå ut positivt på boliglån for YS-medlemmer. Har du enda ikke byttet bank anbefaler vi deg å gjøre det nå.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nordea.no/privat/fagforbund/ys/?cid=soc-hh7t7ctr0m"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Radisson hotels",
+      "discount_percentage": 20,
+      "description": "Her får du som YS-medlem rabatt på 10-20 %. NB! For å få rabatten må dere benytte koden 090673. Koden skal skrives inn i feltet «Corporate Account ID/Bedriftskonto-ID»",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.radissonhotels.com/no-no/"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Markisemannen",
+      "discount_percentage": null,
+      "description": "Ny og svært god medlemsfordel på inn- og utvendig solskjerming, gardinlengder og garasjeporter! Medlemsrabatt HELE året på ALLE produkter",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.markisemannen.no/ys-fordel/?utm_source=ys_fordel&utm_medium=partner&utm_campaign=ys_fordel_2026"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Tuftewear",
+      "discount_percentage": 20,
+      "description": "Som medlem får du -20% fast rabatt på klær hos tuftewear.no. I tillegg får du tilgang til sesongrelevante, eksklusive tilbud og kampanjer spesielt laget for YS-medlemmer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://tuftewear.no/collections/ys-fordeler"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Kinoklubb",
+      "discount_percentage": 40,
+      "description": "Se gode filmer på kino til halv pris! YS-medlemmer får 40 % rabatt og 2 medlemskap til prisen av 1 hos Kinoklubben! Medlemskapet gjelder på over 120 kinoer i hele landet, og gir halv pris på minst 12 kinofilmer hvert år.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.kinoklubb.no/BliMedlem/OpprettBruker?rabattkode=YS&utm_source=YS+ferdig+rabattkode&utm_medium=Innmeldingslenke&utm_campaign=YS+partner&utm_id=YSpartner"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Klarkraft",
+      "discount_percentage": null,
+      "description": "Klarkraft er rangert som nummer 1 av 88 strømleverandører på bytt.no, og nå kan du som YS-medlem få en trygg, enkel og ekstra billig spotavtale fra Klarkraft.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://klarkraft.no/nyheter/ys"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Kinogavekort",
+      "discount_percentage": 10,
+      "description": "10% rabatt på Filmweb Kinogavekort Alle medlemmer får 10% rabatt på Filmweb Kinogavekort. Gavekortet kan brukes til kjøp av både kinobilletter og kioskvarer i hele landet. Du kan selv velge beløp, antall gavekort og skrive en hyggelig hilsen.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kinogavekort.no/Digital?discountCode=YSKINO"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Konfidens",
+      "discount_percentage": null,
+      "description": "Samtaleterapi og psykologisk rådgivning Når hverdagen føles overveldende kan Nion hjelpe deg med samtaleterapi og psykologisk rådgivning til deg som er YS medlem og din nærmeste familie.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.konfidens.com/no/avtaler/ys"
+    },
+    {
+      "provider": "YS",
+      "retailer": "YS Tannhelseforsikring",
+      "discount_percentage": null,
+      "description": "En bekymring mindre! Forsikrer du tennene dine får du ingen overraskelser hos tannlegen. 193,- kr per mnd.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.norsktannhelseforsikring.no/ys-tannhelseforsikring"
+    },
+    {
+      "provider": "YS",
+      "retailer": "AVIS",
+      "discount_percentage": 25,
+      "description": "25% rabatt på leiebil hos Avis. Benytt kode X199101. Avtalen gjelder ukedager og ikke i helger, og kun i Norge.",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.avis.no/leiebil-tilbud/partnere/andre-partnere/ys"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Esso",
+      "discount_percentage": 20,
+      "description": "Esso Mastercard Drivstoff rabatt på 52 øre/liter på pumpepris, 20% rabatt pluss hver 6 bilvask gratis *)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://essomastercard.no/ys/"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Redningsselskapet",
+      "discount_percentage": 20,
+      "description": "Som medlem av YS får du 20% på første års medlemskap i Redningsselskapet på assistansemedlemskap og RS-medlem",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://rs.no/ys-medlemsfordel/"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Scandic",
+      "discount_percentage": 14,
+      "description": "14% rabatt til YS-medlemmer på alle Scandic-hoteller, og på alle priskategorier(Flex, Save og Change)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.scandichotels.com/no/hotelltilbud/ys"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Thon hotel",
+      "discount_percentage": 16,
+      "description": "16% rabatt for medlemmer i YS-tilknyttede forbund eller bedre rabatt hvis Thon har egen kampanje på hotellet.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://thonhotels.no/?firma=TH21796049"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Strawberry",
+      "discount_percentage": 18,
+      "description": "18% rabatt på hotell i Norge, Norden og Baltikum i weekend og skoleferie.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.strawberry.no/ys/?utm_medium=partnerships&utm_source=partnerships&utm_campaign=LPA&utm_content=YS%20Medlemsf%C3%B8rdeler"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Color Line",
+      "discount_percentage": 12,
+      "description": "12% rabatt på båtreise.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.colorline.no/oslo-kiel/ysmedlem"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Go Nordic Cruiseline",
+      "discount_percentage": 10,
+      "description": "10% rabatt på båtreise.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.gonordiccruiseline.no/partner/medlemsfordel?utm_source=partnerships&utm_medium=referral&utm_campaign=ys_no_23-04-2025"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Sembo",
+      "discount_percentage": 10,
+      "description": "Som medlem av et YS tilknyttet forbund får du 10% rabatt på over 400.000 hoteller over hele verden.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sembo.no/creator/ys?affiliate-id=SAP-3564"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Plussmobil",
+      "discount_percentage": null,
+      "description": "Mobilabonnement med Telenor dekning og tilgang til flere digitale magasiner ++",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.plussmobil.no/ys?utm_source=ys.no&utm_medium=tekstlink&utm_campaign=fordel&utm_content=ysfordel"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Milrab",
+      "discount_percentage": 30,
+      "description": "30% på STOIX og Eagle 20% på Aclima, Salomon, Carhartt, Lundhags, Rab, Swix, Osprey og Therm-a-Rest",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://milrab.no/ys-fordeler"
+    },
+    {
+      "provider": "YS",
+      "retailer": "YS Pensjon – Få mer pensjon for pengene",
+      "discount_percentage": null,
+      "description": "Jobber du nå eller har du jobbet i privat sektor, kan du spare mye penger ved å flytte pensjonskapitalen din til YS Pensjon. Alt på ett sted – i én konto!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://yspensjon.no/"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Mitt Lederunivers",
+      "discount_percentage": 30,
+      "description": "Hos oss kan du velge å laste ned enkeltkurs, webinarer osv eller kjøpe et abonnement på ledelse. YS-forbundenes medlemmer som har lederansvar får 30 % rabatt.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://ultify.io/profile/mitt-lederunivers"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Yskarriereveiviser",
+      "discount_percentage": null,
+      "description": "Er du på jakt etter ny jobb, eller ønsker du å styrke dine muligheter i den jobben du har nå?",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://yskarriereveiviser.inflow24.com/landing-page"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 5,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Mercedes-Benz personbil: MODELL RABATT GLC 5 % OBS! Kampanje gjelder ut august Les mer om kampanjen GLB 1,5 % og i tillegg gratis vinterdekk ELLER 2,99 % rente på billån OBS! Kampanje gjelder ut august Alle modeller (unntatt kampanjemodeller) 3 % Special Editions 1,5 % Rabattoversikt på Mercedes-Benz personbil: MODELL RABATT GLC 5 % OBS! Kampanje gjelder ut august Les mer om kampanjen GLB 1,5 % og i tillegg gratis vinterdekk ELLER 2,99 % rente på billån OBS! Kampanje gjelder ut august Alle modeller (unntatt kampanjemodeller) 3 % Special Editions 1,5 % Rabattoversikt på Mercedes-Benz varebil: MODELL RABATT Citan 14 % Vito 14 % Sprinter 13 % Minibusser 0 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.mercedes-benz.no/offers/nye-glc/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 6,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Opel personbil: MODELL RABATT Helelektrisk 6 % Kampanje til 30. juni på elbil 2 % på gjeldende kampanje, les mer Rabattoversikt på Opel personbil: MODELL RABATT Helelektrisk 6 % Kampanje til 30. juni på elbil 2 % på gjeldende kampanje, les mer Rabattoversikt på Opel varebil: MODELL RABATT Helelektrisk 14 % 4x2: Opel Elite 19 % 4x4: Opel Elite 14 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.opel.no/tilbud/aktuelle-tilbud.html"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 8,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Peugeot personbil: MODELL RABATT Helelektrisk 8 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Peugeot personbil: MODELL RABATT Helelektrisk 8 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Peugeot varebil: MODELL RABATT Helelektrisk 4x2 21 % Helelektrisk 4x4 19 % Diesel 4x2 23 % Diesel 4x4 19 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.peugeot.no/kjop/aktuelle-kampanjer/kampanjer.html"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 10,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Kia hos Bertel O. Steen. Rabatten gjelder for både personbil og varebil. MODELL RABATT Kia personbil EV3 +EV4 + EV5 + EV6 7,5 % EV2 3,8 % EV9 Air og Exclusive 7,5 % EV9 GT Line og GT 8,8 % PV5 Personbil 10 % Kia varebil EV9 Air og Exclusive varebil 6 % EV9 GT Line og GT varebil 7 % PV5 Cargo 12 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-kia/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 6,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Citroën personbil: MODELL RABATT Helelektrisk, unntatt Citroën ë-C4 Plus og YOU 6 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Citroën personbil: MODELL RABATT Helelektrisk, unntatt Citroën ë-C4 Plus og YOU 6 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Citroën varebil: MODELL RABATT Citroën Varebiler 4x4 Elite 14 % 4x2 Elite 19 % Citroën varebil - Work 4x2 Work fossil 15 % 4x2 Work elektrisk 14 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.citroen.no/kjop/kampanjer.html"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "SIXT bilutleie",
+      "discount_percentage": null,
+      "description": "SIXT har over 2,000 internasjonale utleiesteder i 105 land, og vi øker tilgjengeligheten kontinuerlig over hele verden. Om du planlegger å reise på et budsjett eller første klasse, har SIXT den ideelle leiebilen til deg. I tilfelle du trenger en leiebil i Europa, hjelper SIXT deg gjerne med å komme deg på veien med våre tjenester i alle store land og byer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-sixt-bilutleie/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "EVO treningssenter",
+      "discount_percentage": null,
+      "description": "Rabatt hos EVO treningssenter",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-treningssenter/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "SUMO Restauranter",
+      "discount_percentage": null,
+      "description": "Som medlem kan du nyte gode smaker til en enda bedre pris – enten du vil kose deg hjemme, ta med noe godt p å farten, eller samle venner og kolleger til en hyggelig middag ute. Grip sjansen og bruk medlemsrabatten!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-sumo/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Skitt Fiske",
+      "discount_percentage": null,
+      "description": "Rabatt hos Skitt Fiske",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-skitt-fiske/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "NEAK",
+      "discount_percentage": null,
+      "description": "Kursrabatt hos NEAK",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/kursrabatt-hos-neak/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Fjellsport",
+      "discount_percentage": null,
+      "description": "Rabatt hos Fjellsport",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-fjellsport/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "XL-BYGG",
+      "discount_percentage": 30,
+      "description": "Nå kan du få opptil 30 prosent rabatt hos XL-BYGG. Rabatten gjelder på en rekke byggevarer, verktøy og utstyr. Enten du skal pusse opp hjemme, bygge på hytta, eller er i gang med et større prosjekt, vil du finne det du trenger hos XL-BYGG.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-xl-bygg/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bikemember",
+      "discount_percentage": 30,
+      "description": "BikeMember er et sykkelregister. Når du registrerer sykkelen din her kan det bli enklere å finne den igjen om den skulle bli stjålet. FG-godkjent sykkelregister Få sikkerhetsoblat til din sykkel Har du NITO Innboforsikring får du 1000 kroner i rabatt på egenandelen om sykkelen blir stjålet Du kan registrere sykler for hele familien raskt og enkelt. NITO-medlemmer får rabattert pris på abonnement for ett, tre eller fem år. Rabatten for NITO-medlemmer er 30 prosent.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-bikemember/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "MedEasy",
+      "discount_percentage": null,
+      "description": "MedEasy er en digital læringsplattform for helseundervisning. De tilbyr forelesninger og andre læringsressurser som gjør det mulig for studenter og helsepersonell å lære komplisert teori på en lettvint, effektivt og gøyal måte.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-medeasy/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Klatring på Grensen",
+      "discount_percentage": null,
+      "description": "Hos Klatring på Grensen venter spennende klatreløyper, zipline, nettbroer og morsomme utfordringer for både små og store. De har også et stort utvalg av bakkeaktiviteter. Dagsbilletten inkluderer: 25 klatreløyper i ulike høyder og vanskelighetsgrader Klatrenett og klatrevegg, begge 8 meter høye, med automatsikring Ninja-løype på bakken Nett-tårn for barn Hvis du ikke skal klatre/delta på en aktivitet, trenger du ikke å betale. Det er fine stier under løypene slik at du kan følge de som klatrer. Det er mulig med drop-in, men det er anbefalt å forhåndsbooke for å være sikret en sele.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/klatring-pa-grensen/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 6,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Alfa Romeo personbil hos Bertel O. Steen. Rabattoversikt på Alfa Romeo personbil: MODELL RABATT Helelektrisk 6 % Fossil 12 % *Quadrifoglio-modeller er unntatt denne støttematrisen",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-alfa-romeo/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 6,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Smart personbil: MODELL RABATT Helelektrisk 6 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-ds/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 10,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Fiat personbil: MODELL RABATT Helelektrisk 10 % MODELL RABATT Helelektrisk 10 % Rabattoversikt på Fiat varebil: MODELL RABATT Helelektrisk 14 % 4x2 Pro 19 % 4x4 Pro 14 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-fiat/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 10,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Jeep hos Bertel O. Steen. Rabatten gjelder for både helelektriske , plug -in og fossilbiler. NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Jeep hos Bertel O. Steen. Rabatten gjelder for både helelektriske , plug -in og fossilbiler. Rabattoversikt på Jeep personbil: MODELL RABATT Helelektrisk 10 % Rabatt gjelder ikke for Fiat Grande Panda ICON 0 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-jeep/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 2,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Smart personbil: MODELL RABATT Alle modeller 2 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-smart/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "De Historiske",
+      "discount_percentage": null,
+      "description": "Hotellrabatt De Historiske",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-de-historiske/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Scandic",
+      "discount_percentage": null,
+      "description": "Som NITO-medlem kan du få avtalepris på overnatting hos Scandic. Det er ikke alltid NITOs avtalepriser er de gunstigste, men er alltid lavere enn ordinærpris. Sjekk eventuelle kampanjetilbud. Som NITO-medlem skal du alltid ha tilgang på de laveste prisene.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-scandic/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Strawberry",
+      "discount_percentage": null,
+      "description": "Hotellrabatt Strawberry",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-overnatting-hos-strawberry/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Teknisk Ukeblad",
+      "discount_percentage": null,
+      "description": "Halv pris på TU og Digi",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/halv-pris-pa-tu-og-digi/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Narvikfjellet",
+      "discount_percentage": null,
+      "description": "Se åpningstider og les mer om Narvikfjellet .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.narvikfjellet.no/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "SarvesAlta Alpinsenter",
+      "discount_percentage": null,
+      "description": "Les mer om alpinbakken, lån av utstyr etc. i SarvesAlta Alpinsenter",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://sarvesalta.no/alpinsenter/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Tromsø Alpinpark",
+      "discount_percentage": null,
+      "description": "Les mer om alpinbakken, lån av utstyr etc i Tromsø Alpinpark.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://tromsoalpinpark.no/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "INSPIRIA",
+      "discount_percentage": null,
+      "description": "INSPIRIA science center i Sarpsborg er et regionalt vitensenter hvor du kan oppleve, utforske og lære om vitenskapens verden. Slik får du gratis inngang NITO Østfold har to årskort på INSPIRIA, og du kan låne ett eller begge for å få gratis inngang. Ønsker du å låne kort, send en e-post til NITO Østfold med medlemsnummer og dato for besøket ditt. Her gjelder prinsippet om å være først til mølla.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/gratis-inngang-pa-inspiria-science-center/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Vitensenteret Innlandet",
+      "discount_percentage": null,
+      "description": "Vi har kjøpt fire årskort som gir deg og tre andre gratis inngang til Vitensenteret . Som NITO-medlem kan du og din familie få gratis inngang på Vitensenteret Innlandet, Gjøvik. Alt du trenger er å forhåndsreservere inngangsbillettene. Du må bli medlem eller logge inn for å kunne bestille gratis inngang. Vi har kjøpt fire årskort som gir deg og tre andre gratis inngang til Vitensenteret . Som NITO-medlem kan du og din familie få gratis inngang på Vitensenteret Innlandet, Gjøvik. Alt du trenger er å forhåndsreservere inngangsbillettene. Du må bli medlem eller logge inn for å kunne bestille gratis inngang.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://vitensenteret.no/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Vitensenteret Sørlandet",
+      "discount_percentage": null,
+      "description": "Med årskortet får du tilgang til inspirerende opplevelser og lærerike aktiviteter gjennom hele året – perfekt for alle aldersgrupper. Medlemspriser på årskort (barn/voksen) for 2026 Vitensenteret i Arendal: 380 kr (ord. pris 600 kr) Vitensenteret i Kristiansand: ikke eget årskort (stengt til juni pga. flytting) Vitensenteret i Kvinesdal: ikke eget årskort Felles årskort for alle tre sentre: 500 kr (ord. pris 800 kr) Årskortene gjelder fra 1.1. til 31.12.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-vitensenteret-sorlandet/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Treningsreiser med Springtime",
+      "discount_percentage": null,
+      "description": "2.000 i rabatt - Som medlem får du 2.000 kroner i rabatt - Forestill deg solfylte morgener med yoga og stavgang, hyggelige kvelder med foredrag og aktiviteter, og muligheten til å velge akkurat det du har lyst til — enten det er trening, turer i naturen eller late stunder med en god bok. Sjekk ut tilbudet vårt fra Springtime - laget spesielt for deg som ønsker mer enn bare sol og strand. __Som medlem får du hele 2.000 kroner i rabatt på treningsreiser for seniorer.__ Les mer om reisene under👇",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://springtime.no/reiser/langtidsopphold-for-seniorer-i-portugal-host/?sort=DATE_ASC"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Trening utviklet av fysioterapeuter",
+      "discount_percentage": 30,
+      "description": "30 % rabatt - iSteady tilbyr trygg og enkel online trening. - Som medlem av Pensjonistforbundet får du 30 % rabatt på trening hos iSteady. 2 gratis tilsendte treningsstrikker er også inkludert.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.isteady.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Thorbjørnrud Hotell",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - 15% rabatt på rom og frokost hele året. - Som medlem får du 15% rabatt på overnatting alle dager hele året. Les mer og kontakt hotellet for bestillinger her. [https://thorbjornrudhotell.no/nb](https://thorbjornrudhotell.no/nb \"Thorbjørnrud Hotell\") Kombiner gjerne med et besøk på [Hadeland Glassverk](https://www.pensjonistforbundet.no/medlemsfordeler/hadeland-glassverk) der medlemmer også har 15 % rabatt.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://thorbjornrudhotell.no/nb"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Temareiser med Fotefar",
+      "discount_percentage": null,
+      "description": "1.000 i rabatt - Spennende temareiser med medlemsrabatt. - ### Medlemsfordel Medlemmer av Pensjonistforbundet får 1.000 kroner i rabatt per person på alle reiser. [Les mer og bestill her](https://www.fotefartemareiser.no/turar-2025) __Innimellom tilbys også spesialkampanjer med 1.500 kroner i rabatt. Nå har vi følgende reiser til kampanjepris:__ [Den store England-turen med Eva Bratholm og Joar Hoel Larsen](https://www.fotefartemareiser.no/england-med-eva-og-joar) [Cruise rundt britiske øyer med Rune Larsen og Anne Veddeng](https://www.fotefartemareiser.no/britiske-oyar-med-rune-larsen-og-anne-veddeng) [Kulturreise til vakre italienske byer med Tommy Sørbø](https://www.fotefartemareiser.no/kulturreise-til-vakre-italienske-byar-med-tommy-sorbo#dagsprogram) [Cruise til Færøyane, Orknøyane og rundt Island med Gunnstein Akselberg og Tore Skeie](https://www.fotefartemareiser.no/cruise-til-faeroyane-orknoyane-og-rundt-island) [Elvecruise på Rhinen og Mosel med Sylfest Lomheim og Rasmus Sunde](https://www.fotefartemareiser.no/elvecruise-pa-rhinen-og-mosel-med-sylfest-lomheim-og-rasmus-sunde) Trenger du hjelp eller har spørsmål? Kontakt Fotefar temareiser på telefon [918 20 304](Tel:91820304).",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.fotefartemareiser.no/turar-2025"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Syden og storby med Apollo",
+      "discount_percentage": null,
+      "description": "500 kr rabatt - Pakkereiser med charterfly. - ### Medlemsfordel: Medlemmer av Pensjonistforbundet får gjennom avtalen 500 kr i rabatt per person. Reis direkte fra Alta, Bodø, Evenes, Haugesund, Kristiansand, Kristiansund, Stavanger, Torp, Tromsø, Ålesund, Bergen, Trondheim, Molde og Oslo. - Rabatten gjelder charterfly og pakkereiser med rutefly (ikke gruppereiser eller påmeldingsturer) - Rabatten kan ikke kombineres med andre rabatter. - Gjelder for personer på samme bestillingsnummer som medlemmet, maks 9 personer. __NB: husk å legge inn rabattkoden FØR du endelig bekrefter bestillingen. Rabatten kan ikke gis i ettertid. __ [Les mer og bestill her](https://www.apollo.no/billige-reiser/pf)",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.apollo.no/billige-reiser/pf"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Strykekvartett i Bergen og Oslo",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Medlemsrabatt på musikalske opplevelser. - ### Medlemsfordel Med Oslo Quartet Series og Bergen Kammermusikkforening kan du nyte herlige musikkopplevelser i ærverdige omgivelser, med strykekvartetter fra hele verden. Les mer om hver enkelt i boksene under👇",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://bk-musikk.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Solskjerming og garasjeporter",
+      "discount_percentage": 45,
+      "description": "45 % rabatt! - 45 % rabatt hos Fasadeprodukter - ### Medlemsfordel - 45 % rabatt på alt av inn- og utvendig solskjerming. (markiser, screen, dukskift, plisségardiner, rullegardiner m.m.) - 45 % rabatt på garasjeporter - 30 % rabatt på gardiner - 40 % rabatt på tilbehør __+ 5 % EKSTRA Best-pris-rabatt __ (hvis produktet er på kampanje ved bestilling med samme eller høyere rabatt enn medlemsfordelen.) Det er ikke rabatt på spesialprodukter eller montasje. __NB: Medlemsbevis må vises FØR bestilling.__ [Du kan lese mer om utvalget her](https://www.fasadeprodukter.no/pensjonistforbundet/?utm_source=pensjonistforbundet&utm_medium=medlemsside&utm_campaign=pensjonistforbundet_medlem&utm_id=pensjonistforbundet_medlem) Telefon: [911 50 200](Tel:91150200)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.fasadeprodukter.no/pensjonistforbundet/?utm_source=pensjonistforbundet&utm_medium=medlemsside&utm_campaign=pensjonistforbundet_medlem&utm_id=pensjonistforbundet_medlem"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Solgården, Spania",
+      "discount_percentage": null,
+      "description": "1000 kroner rabatt - Medlemsrabatt på utvalgte turer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.solgarden.no/pensjonistforbundet/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Riksteatret",
+      "discount_percentage": 30,
+      "description": "30 % rabatt - Rabatt på omreisende teaterforestillinger i hele Norge. - __Viktig! Rabatten gjelder på utvalgte forestillinger og må bestilles i en bestemt tidsperiode. Følg derfor nøye med på nyhetsbrev og oppdateringer på denne siden. __ ### Forestillinger med medlemsrabatt vår 2026: [Læreren](https://www.riksteatret.no/repertoar/lareren/) - Bestillingsperiode: 1. januar - 31. januar - På turne med Riksteateret: 17. februar - 30. april - Spilles i Østlandet, Sørlandet, Vestlandet og Midt-Norge Merk: rabatten gjelder ikke Vega scene i Oslo [Kniven i ilden](https://www.riksteatret.no/repertoar/kniven-i-ilden/) - Bestillingsperiode: 1. februar 2026 - 28. februar 2026 - På turne med Riksteateret: 28. januar 2026 - 30. april 2026 - Spilles i alle landsdeler [Skorpionens spill](https://www.riksteatret.no/repertoar/skorpionens-spill-i-skyggen-av-roblox/) Ta med barnebarna på teater og sett deg inn i deres verden ! - Bestillingsperiode: 1. februar - 28. februar - På turne med Riksteateret: 17. februar - 7. juni - Spilles i alle landsdeler Merk: rabatten gjelder ikke Teater Ibsen i Skien __Slik bestiller du billetter__ Gå inn på riksteatret.no og finn ditt lokale kulturhus. Klikk på «Kjøp billett» og velg billettkategorien «Pensjonistforbundet» i bestillingsperioden. Du kan også kjøpe billetter direkte i billettskranken eller på telefon hos ditt lokale kulturhus ved å oppgi samme kategori innenfor bestillingsperioden. ### Om Riksteateret Riksteatret er hele landets teater, og ble opprettet ved lov etter 2. verdenskrig som en del av den kulturelle gjenoppreisingen av Norge. [Les mer om Riksteateret her](https://www.riksteatret.no/om-riksteatret/hva-er-riksteatret/)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.riksteatret.no/repertoar/lareren/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Rabatt på tannlege",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Rabatt på tannlege i Oslo, Akershus og Buskerud - Smil og Clear tannlegene består av 8 tannlegesenter og er foreløpig ulike steder i Oslo, Drammen og på Bekkestua i Akershus. Det er planer om utvidelse av virksomheten til flere byer. ### Medlemsfordelen omfatter: - Fast lav pris på komplett tannlegeundersøkelse og årlig tannkontroll (4 stk. røntgenbilder), inkl. tannrens og tannpuss, kun kr. 690,- - 15 % avslag på spesialistbehandlinger og andre tannbehandlinger (gjelder ikke kosmetiske behandlinger) - 15 % avslag på alt av tilleggskostnader (bedøvelse etc.) __Om Smil og Clear tannlegesenter__ - Samarbeid med Helse Sør-Øst for rekvirering av pasientreiser. - Alle tannleger er medlemmer av Den Norske Tannlegeforening. - Tilleggskompetanse innen tannlegeskrekk. - Spesialister innen oralkirurgi, rotfylling, krone og implantater. - Tilbyr også tannbehandling under narkose. - Åpningstider fra kl. 08:00 til 20:00, og også på lørdager, uten ekstra kostnad. - Akutt tannlegevakt - Direkteoppgjør med Helfo for eventuelle refusjoner - Toppmoderne utstyr - De fleste klinikker har enkel, rullestolvennlig adkomst [Les mer og bestill time hos Smil tannlegesenter her (Oslo og Akershus)](https://www.smiltannlegesenter.no/) [Les mer og bestill time hos Clear tannlegesenter her (Oslo og Drammen)](https://www.cleartannlegesenter.no/) __Kontakt__ Telefon Smil tannlegesenter: [23 65 18 81](tel:23651881) Telefon Clear tannlegesenter: [23 65 43 43](tel23654343) [Her kan du lese om Pensjonistforbundets arbeid innenfor tannhelse](https://www.pensjonistforbundet.no/politisk-arbeid/var-politikk-for-helse-og-omsorg)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.smiltannlegesenter.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Pensjonisten",
+      "discount_percentage": null,
+      "description": "8 utgaver pr år! - Åtte utgaver med massevis av lesestoff hvert år. - Som medlem får du Pensjonisten tilsendt rett hjem i postkassen åtte ganger i året. Ikke-medlemmer kan abonnere på bladet. Bladet gir deg blant annet: - Informasjon om økonomi, pensjon, rettigheter og teknologi - Inspirasjon; reiser, mat & drikke, helse og kultur - Lokale aktiviteter i Pensjonistforbundet - Kryssord og Sudoku - \"Finn en venn\" [I tillegg kan du lese bladet digitalt her.](https://www.pensjonistforbundet.no/om-pensjonistforbundet/pensjonisten)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.pensjonistforbundet.no/medlemsfordeler/pensjonisten"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Opel og Citroën",
+      "discount_percentage": 19,
+      "description": "6-19 % rabatt på bil - Rabatt på Opel og Citroën, samt tilleggsutstyr.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://mobile.no/pensjonistforbundet"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Online psykolog og fysioterapi",
+      "discount_percentage": 20,
+      "description": "20 % rabatt - Rabatt på online psykolog og digital fysioterapi. - Dette gir deg enkel tilgang til fagpersoner og kvalitetssikrede behandlingsløp – hjemme, på hytta eller på reise. __Avtalen gir medlemmer 20 % rabatt på følgende tjenester: __ - [mentale selvhjelpsprogrammer ](https://eyr.md/no/eyr-psykolog/mental-selvhjelp) - [online psykolog ](https://eyr.md/no/eyr-psykolog) - [online fysioterapi ](https://eyr.md/no/fysio) __ __NB: Avtalen inkluderer ikke rabatt på legetjenester.____ __Medlemspriser:__ - mentale selvhjelpsprogrammer kroner 392,- - psykolog kroner 1160,- - online fysioterapi kroner 436,- __Slik bruker du tjenesten: __ 1. Last ned Eyr-appen 2. Logg inn med BankID 3. Gå til min konto og betalingsmetoder 4. Gå på legg til medlemskap og velg Pensjonistforbundet 5. Legg inn rabattkoden for å aktivere rabatten 6. Book ønsket dato og tidspunkt for psykolog eller digital fysioterapi __Om Eyr__ Eyr er en norsk digital helsetjeneste som gjør det enkelt å få profesjonell hjelp når du trenger det. [Les mer om Eyr her ](https://eyr.md/no/)",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://eyr.md/no/eyr-psykolog/mental-selvhjelp"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Nortrip-guiden",
+      "discount_percentage": 20,
+      "description": "Spar 20 % - Tilbud til deg som reiser med bobil/campingvogn - ### Ny medlemsfordel Nortrip-guiden er en app for deg med bobil eller campingvogn. Den gir deg tilgang til over 300 vertsplasser i Norge og Sverige – alt fra mikrobryggerier og ysterier til småbruk og gårdsbutikker. Her kan du fiske i fjorden, spise deg mett på lokal mat, sykle i nærområdet, lære om tradisjonelt jordbruk eller bare nyte stillheten. Alt mens du står gratis parkert, ofte rett ved fjell, fjord eller gårdstun. Noen steder har butikk, noen har bakeri, noen har kuer, og alle har verter som tar imot deg med et smil. Som medlem i Pensjonistforbundet får du alltid 20 % rabatt på tjenesten. [Les mer og bestill guiden her](https://nortrip.no/shop/?tag_ref=pensjonistforbundet&discountCode=PF20)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://nortrip.no/shop/?tag_ref=pensjonistforbundet&discountCode=PF20"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Lokale aktiviteter",
+      "discount_percentage": null,
+      "description": "Sosialt samvær - 700 lokalforeninger i hele landet! - Det finnes en lokalforening i nærheten av deg, der du er hjertelig velkommen til aktiviteter og fellesskap. Enten du er på jakt etter en gjeng å gå på tur med, drikke kaffe med eller ønsker å bruke dine ressurser til å hjelpe andre, kan lokalforeningen være stedet å begynne. [https://www.pensjonistforbundet.no/foreninger](https://www.pensjonistforbundet.no/foreninger \"Finn din lokalforening her\")",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.pensjonistforbundet.no/medlemsfordeler/lokalt-engasjement-og-fellesskap"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Lexus og Toyota",
+      "discount_percentage": 6,
+      "description": "2-6 % rabatt - Rabatt på ny bil og finansiering hos Toyota og Lexus. - Som medlem får du ekstra rabatt ved kjøp av personbil og varebil fra Toyota og Lexus. I tillegg innebærer avtalen bedre betingelser på finansiering. Se faktabokser nedenfor for komplett tilbudsoversikt. Rabatten regnes ut fra den til enhver tid gjeldende listepris, eks mva og avgift. Medlemsbevis må fremlegges __ved bestilling__ for å oppnå rabatten. [Besøk Toyota her](https://www.toyota.no) [Besøk Lexus her ](https://www.lexus.no/)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.toyota.no"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Legal24 advokatfirma",
+      "discount_percentage": null,
+      "description": "Lav timepris - Rabatt på advokattjenester. - ### Medlemstilbud __Juridisk bistand__ - Første 30 minutters samtale med advokat/fullmektig er gratis - Deretter timespris kroner 2.019,- inkludert mva. __Tilgang til digitale kontrakter/»selvbetjening» til fastpris__ - Fremtidsfullmakt, kroner 1.599,- - Samboerkontrakt, kroner 939,- - Testament, kroner 2.149,- Alle priser er inkludert mva. og inkluderer juridisk godkjenning av dokumentet i etterkant. NB: Dette tilbudet inkluderer ikke individuelt tilpassede løsninger, rådgivning og samtale med advokat i forkant eller etterkant av utfylling. __Fastpris på kontrakter med veiledning fra advokat__ - Fremtidsfullmakt enkel og gjensidig, en pris for både medlem og for ektefelle, kroner 4.850,- - Enkelt testament, kroner 6.500,- (se mer info under) - Enkelt gjensidig og felles testament, kroner 7.500,- - Samboerkontrakt, kroner 6.500,- - Ektepakt, kroner 6.500 ,- - Enkel samboerkontrakt og felles testament, kroner 11.600,- - Enkel ektepakt og felles testament, kroner 11.600,- - Enkelt testament og fremtidsfullmakt NOK 11.200,- Alle priser er inkludert mva. Prisen inkluderer rådgivning og samtale med advokat der man blir enige om en løsning som passer for deg i tråd med lovverket. __Timepris benyttes i følgende tilfeller:__ Utvidede og skreddersydde testamenter (f.eks. flere eiendommer, verdier i utlandet, aksjer, særkullsbarn) krever mer arbeid for advokat/advokatfullmektig og det avtales pris i henhold til rabattert timespris overfor ved inngåelse av oppdraget. Dette gjelder også endring av testament som er utarbeidet av Legal24. [Les mer og bestill her](https://legal24.no/pensjonistforbundet) Telefon: 21 51 98 30 E-post: post@legal24.no",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://legal24.no/pensjonistforbundet"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Lære hele livet - senioruni.no",
+      "discount_percentage": 30,
+      "description": "30 % rabatt - Foredrag med engasjerende eksperter!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://senioruni.no/trygg/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Ishavskraft - seniorstrøm",
+      "discount_percentage": null,
+      "description": "Stabil strømavtale - God og stabil strømavtale - Strømavtalen med Ishavskraft skal sikre medlemmene en stabil og forutsigbar strømavtale, uten skjulte kostnader. ### Medlemsfordel Med Seniorstrøm fra Ishavskraft får du: - ingen månedsavgift. - påslag per kwh 7.12 øre. - avslag på 370 kroner på første faktura. - som stabil kunde får du tilbake kroner 370 hvert år. - faktura i posten uten gebyr. - rådgivning per telefon på hvordan du kan senke dine strømkostnader. - 9 mnd.bindingstid. [Les mer og bestill her](https://www.ishavskraft.no/stromavtale/seniorstrom)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.ishavskraft.no/stromavtale/seniorstrom"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "IsFritt varmematter",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Rabatt på varmematter fra IsFritt. - Med varmematter fra IsFritt kan du få et sklisikkert underlag - hele vinteren igjennom. Som medlem i Pensjonistforbundet får du 15 % rabatt på hele sortimentet hos [www.isfritt.com](https://www.isfritt.com/no/) - Enkel montering - Krever kun utendørs stikkontakt - Solid konstruksjon med grov overflate for antiskli og vannavrenning - Alle matter og størrelser kan seriekobles til hverandre - Mattene kan strømstyres via smartkontakt/ app el automatisk av ute-temperatur - Kan festes, men ligger stødig alene - Smelter 6cm snø pr time Sjekk [IsFritt sine nettsider](https://www.isfritt.com/no/) for mer info, bilder og videoer. Ønsker du tips eller bistand med oppmåling til en sklisikker løsning? Ta kontakt med IsFritt: Telefon: [404 02 404](Tel:40402404) E-post: [post@isfritt.no](mailto:post@isfritt.no)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.isfritt.com/no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Hurtigruten/ Boreal Adventure",
+      "discount_percentage": null,
+      "description": "Svært god rabatt på reiser med Hurtigruten.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.borealreiser.no/opplev-svalbard-med-pensjonistforbundet"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Hotellavtale med Thon",
+      "discount_percentage": 12,
+      "description": "12 % rabatt - Hotellovernatting til medlemspris. - ### Slik bestiller du __På nett:__ [Bestill hotellrom her](https://www.thonhotels.no/?firma=TH111017). 1. Velg hotell, dato, antall personer og romtype. 2. Legg inn dine opplysninger og du vil få opp ulike alternativer på pris og avbestillingsregler. 3. Velg deretter det tilbudet som passer deg best. __I app: __ 1. Last ned Thon Hotels appen. 2. Gå inn på Min profil 3. Velg avtalepriser og legg til firmakode __TH111017__ Nå har du tilgang til firmaets avtalepriser på en rask og enkel måte via mobilen. Appen er personlig. ### Kontaktinfo Thon Hotels kundesenter hjelper deg med din bestilling. Telefon: [21 49 69 00](Tel:21496900) E-post: [service@olavthon.no](mailto:service@olavthon.no)",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.thonhotels.no/?firma=TH111017"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Hjertestarter",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Hjertestarter fra Trygg Partner AS. - I tillegg til hjertestartere, tilbyr Trygg Partner AS kurs i bruk av hjertestarter og generell førstehjelp til svært fordelaktige priser. Pensjonistforbundet anbefaler denne avtalen når slikt utstyr skal kjøpes. Det gis også 15 prosent rabatt på førstehjelpsutstyr, som kjøpes i Trygg Partners nettbutikk; [www.trygg-partner.no](https://www.trygg-partner.no) eller via telefon og mail.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.trygg-partner.no"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Hjelpemidler for et aktivt liv",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Løsninger for et selvstendig liv. - Medlemmer av Pensjonistforbundet får 15 prosent rabatt på hele nettbutikken [www.velferdsbutikken.no](https://www.velferdsbutikken.no/).",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.velferdsbutikken.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Hadeland Glassverk",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - 15 % rabatt på varer og egne opplevelsespakker på glassverket - På Hadeland Glassverk kan du oppleve glassblåsning på nært hold. Det finnes flere spennende opplevelsesprodukter, som blant annet historisk vandring. Det er også mulig å blåse sitt eget glass. Et godt utvalg butikker og spisesteder legger til rette for en hyggelig dag i naturskjønne omgivelser. #### Ordinær medlemsfordel - 15% på ordinære varer på Hadeland Glassverk - 15% på ordinære varer i nettbutikken - Gode priser på ulike opplevelser på glassverket - 15 % rabatt på overnatting hos [Thorbjørnrud hotell](https://www.pensjonistforbundet.no/medlemsfordeler/thorbjornrud-hotell) (Rabatten gjelder ikke belysning, Icon glass, eller mat og drikke) Les mer om tilbudet [her](https://www.hadeland.com/pages/medlemsfordeler-pensjonistforbundet-pa-hadeland-glassverk)",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://www.hadeland.com/pages/medlemsfordeler-pensjonistforbundet-pa-hadeland-glassverk"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Go Nordic Cruiseline",
+      "discount_percentage": 10,
+      "description": "10 % fast rabatt! - Rabatt på danskebåten. - ### Faste rabatter og andre tilbud Som medlem i Pensjonistforbundet får du alltid 10 % rabatt på båtreiser til København. Rabatten gjelder alle lugartyper, samt personbiler. *Noen få avganger vil være unntatt fra rabatt i sin helhet. [Les mer og bestill her](https://www.gonordiccruiseline.no/partner/medlemsfordel?utm_source=partnerships&utm_medium=referral&utm_campaign=pensjonistforbundet_no_29-04-2025)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.gonordiccruiseline.no/partner/medlemsfordel?utm_source=partnerships&utm_medium=referral&utm_campaign=pensjonistforbundet_no_29-04-2025"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Flytevester",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Rabatt på flytevester hos Redningsselskapet. - ### Medlemsfordel Som medlem får du 15 % rabatt på alle produkter i nettbutikken til Redningsselskapet. Rabatten gjelder ikke tilbudsvarer og kan ikke kombineres med andre kampanjetilbud. [Les mer om Redningsselskapet her](https://nettbutikk.rs.no/) Hvis du har spørsmål, kan disse rettes direkte til kundeservice; [nettbutikk@rs.no](mailto:nettbutikk@rs.no)",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://nettbutikk.rs.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Flexistore minilager",
+      "discount_percentage": 20,
+      "description": "20 % rabatt - Trenger du ekstra plass? - Da kan Flexistore minilager hjelpe deg. Som medlem får du: - 20 % fast rabatt - 50 % rabatt ved kortere behov, opp til 2 måneder, med rabattkode PF502MND. Mer informasjon om Flexistore finner du på [www.flexistore.no](https://www.flexistore.no/) Bestill direkte på nettsiden: Velg avdeling og oppstartsdato, verifiser deg med Vipps eller BankID. - Åpne alle dører med Flexistore-appen - Del nøkler med andre i appen, helt gratis - Tilgang 24 timer i døgnet, alle dager - Vi hjelper deg med transport og flyttehjelp - Videoovervåket og tempererte lager",
+      "online_only": true,
+      "requires_code": true,
+      "source_url": "https://www.flexistore.no/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Filmweb Kinoklubb",
+      "discount_percentage": null,
+      "description": "Se film til halv pris på de fleste kinoer i Norge - Du får mulighet til å se 12 utvalgte filmer i året til halv pris. Går du på kino mer enn to ganger i året, lønner dette seg. Ser du alle filmene, kan du spare nesten en tusenlapp. Tilbudet gjelder på de fleste kinoer i Norge, fra nord til sør.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.kinoklubb.no/BliMedlem/OpprettBruker?rabattkode=PENSJONIST"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Filmweb kinogavekort",
+      "discount_percentage": 10,
+      "description": "10 % rabatt - Rabatt på kjøp av kinogavekort. - Kinogavekortet er den perfekte gaven til mange anledninger, som bursdag, mor- og farsdag, julegave, eller bare som en hyggelig oppmerksomhet. Alle setter pris på en opplevelse med nære og kjære. Gavekortet kan brukes til kjøp av både kinobilletter og kioskvarer på de fleste kinoer i hele landet. Du kan selv velge beløp, antall gavekort og skrive en hyggelig hilsen. Enkelt å gi - morsomt å få!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://kinogavekort.no/Digital?discountCode=PENSJONIST"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Dag Aasbø Travel",
+      "discount_percentage": null,
+      "description": "Egne turer for medlemmer - Rabatt på reiser fra flere byer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://dagaasbo.no/type-reise/pensjonistforbundet/"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Briller og solbriller",
+      "discount_percentage": 15,
+      "description": "15 % rabatt - Extra Optical leverer alle typer brilleglass. - Extra Optical har alle typer brilleglass, og tilbyr like gode briller til en lavere pris. Langsynt, nærsynt, skjeve hornhinner, prismer, progressive – uansett synsfeil unngår du å blakke deg helt! Som medlem i Pensjonistforbundet får du 15 % rabatt på alle briller og solbriller med styrke - Sportsbriller med styrke - Tilbehør - Glassbytte i egen innfatning – Briller neste dag! (få briller med styrke neste dag) - Blålysbriller med og uten styrke - Solbriller uten styrke i vårt eget eXo merke Merk at rabatt ikke gjelder for kontaktlinser og merkesolbriller. Dette er alltid holdt utenfor avtaler da prisnivået allerede gir svært lave marginer på disse produktene. ExtraOptical har eget sliperi på Flatåsen i Trondheim som gjør at Pensjonistforbundets medlemmer også kan få rabatt på tjenester i verkstedet. Extra Optical tilbyr alle typer glass. Rabatten vil også gjelde disse: - Leseglass - Avstandsglass - Progressive glass - Dataglass - Glass for prismekorrigering - Glass for brytningsfeil - Glass uten styrke - Polariserte solbrilleglass - Polariserte speilglass (solbrilleglass) - Vanlige solbrilleglass Extra Optical tilbyr gratis hjemlån av briller til alle som ønsker dette. __Les mer her:__ [Om ExtraOptical](https://extraoptical.no/om-extraoptical) [Brilleverksted](https://extraoptical.no/om-extraoptical/brilleverksted) [Du finner oss i Trondheim](https://extraoptical.no/om-extraoptical/trondheim)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://extraoptical.no/om-extraoptical"
+    },
+    {
+      "provider": "Pensjonistforbundet",
+      "retailer": "Balder Forsikring",
+      "discount_percentage": null,
+      "description": "Avtalen er avsluttet - __Informasjon til deg som allerede er kunde hos Balder Forsikring__ Forsikringsavtaler inngås for ett år av gangen og kan ikke endres i avtaleperioden. Medlemmer som har benyttet seg av avtalen vil derfor beholde sin medlemsfordel frem til avtalen skal fornyes, ett år etter at den ble inngått. (hovedforfall). Balder Forsikring fortsetter sin drift på vanlig måte, og vil ivareta alle som har kjøpt forsikring hos Balder videre.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.pensjonistforbundet.no/medlemsfordeler/balder-forsikring"
     }
   ]
 }
