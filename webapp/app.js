@@ -7,12 +7,39 @@
   const filtersEl = document.getElementById("filters");
   const subtitleEl = document.getElementById("subtitle");
   const updatedAtEl = document.getElementById("updated-at");
+  const settingsBtn = document.getElementById("settings-btn");
+  const settingsOverlay = document.getElementById("settings-overlay");
+  const settingsList = document.getElementById("settings-list");
+  const settingsClose = document.getElementById("settings-close");
+
+  const EXCLUDED_KEY = "fasteRabatter:excludedProviders";
 
   /** @type {Array<any>} */
   let discounts = [];
   let providers = [];
   let sharedCodeByProvider = {};
   let activeProvider = null; // null = alle
+
+  // Leverandører brukeren har valgt bort ("ikke medlem av") - lagres lokalt
+  // på telefonen/nettleseren, ikke på tvers av enheter.
+  let excludedProviders = loadExcludedProviders();
+
+  function loadExcludedProviders() {
+    try {
+      const raw = localStorage.getItem(EXCLUDED_KEY);
+      return new Set(raw ? JSON.parse(raw) : []);
+    } catch {
+      return new Set();
+    }
+  }
+
+  function saveExcludedProviders() {
+    try {
+      localStorage.setItem(EXCLUDED_KEY, JSON.stringify([...excludedProviders]));
+    } catch {
+      // localStorage utilgjengelig (privat nettlesing e.l.) - bare fortsett uten lagring
+    }
+  }
 
   function normalize(str) {
     return (str || "")
@@ -41,25 +68,82 @@
     });
     providers = [...new Set(discounts.map((d) => d.provider))].sort();
 
-    subtitleEl.textContent = `${discounts.length} rabatter fra ${providers.length} leverandører`;
+    // Fjern eventuelle lagrede valg som ikke lenger finnes i dataene
+    excludedProviders.forEach((p) => {
+      if (!providers.includes(p)) excludedProviders.delete(p);
+    });
+
     updatedAtEl.textContent = data.generated_at
       ? `Oppdatert ${formatDate(data.generated_at)}`
       : "";
 
     renderFilters();
+    renderSettingsList();
     render();
+  }
+
+  function visibleProviders() {
+    return providers.filter((p) => !excludedProviders.has(p));
   }
 
   function renderFilters() {
     filtersEl.innerHTML = "";
 
+    if (activeProvider && excludedProviders.has(activeProvider)) {
+      activeProvider = null;
+    }
+
     const allChip = makeChip("Alle", null);
     filtersEl.appendChild(allChip);
 
-    providers.forEach((p) => {
+    visibleProviders().forEach((p) => {
       filtersEl.appendChild(makeChip(p, p));
     });
   }
+
+  function renderSettingsList() {
+    settingsList.innerHTML = "";
+
+    providers.forEach((p) => {
+      const label = document.createElement("label");
+      label.className = "settings-row";
+
+      const checkbox = document.createElement("input");
+      checkbox.type = "checkbox";
+      checkbox.checked = !excludedProviders.has(p);
+      checkbox.addEventListener("change", () => {
+        if (checkbox.checked) {
+          excludedProviders.delete(p);
+        } else {
+          excludedProviders.add(p);
+        }
+        saveExcludedProviders();
+        renderFilters();
+        render();
+      });
+
+      const span = document.createElement("span");
+      span.textContent = p;
+
+      label.appendChild(checkbox);
+      label.appendChild(span);
+      settingsList.appendChild(label);
+    });
+  }
+
+  function openSettings() {
+    settingsOverlay.hidden = false;
+  }
+
+  function closeSettings() {
+    settingsOverlay.hidden = true;
+  }
+
+  settingsBtn.addEventListener("click", openSettings);
+  settingsClose.addEventListener("click", closeSettings);
+  settingsOverlay.addEventListener("click", (e) => {
+    if (e.target === settingsOverlay) closeSettings();
+  });
 
   function makeChip(label, providerValue) {
     const btn = document.createElement("button");
@@ -76,6 +160,7 @@
   }
 
   function matches(item, query) {
+    if (excludedProviders.has(item.provider)) return false;
     if (activeProvider && item.provider !== activeProvider) return false;
     if (!query) return true;
     const haystack = normalize(item.retailer + " " + (item.description || ""));
@@ -85,6 +170,12 @@
   function render() {
     const query = normalize(searchInput.value.trim());
     const filtered = discounts.filter((d) => matches(d, query));
+
+    const visibleCount = discounts.length - discounts.filter((d) => excludedProviders.has(d.provider)).length;
+    subtitleEl.textContent =
+      excludedProviders.size > 0
+        ? `${visibleCount} av ${discounts.length} rabatter fra ${visibleProviders().length} av ${providers.length} leverandører`
+        : `${discounts.length} rabatter fra ${providers.length} leverandører`;
 
     resultsEl.innerHTML = "";
 

@@ -20,9 +20,31 @@
 <body>
 
 <header class="topbar">
-  <h1>Faste Rabatter</h1>
+  <div class="topbar-row">
+    <h1>Faste Rabatter</h1>
+    <button
+      type="button"
+      id="settings-btn"
+      class="settings-btn"
+      aria-haspopup="dialog"
+      aria-label="Velg hvilke leverandører du er medlem av"
+    >⚙️ Mine medlemskap</button>
+  </div>
   <p class="subtitle" id="subtitle">Laster …</p>
 </header>
+
+<div id="settings-overlay" class="overlay" hidden>
+  <div class="settings-panel" role="dialog" aria-modal="true" aria-label="Mine medlemskap">
+    <h2>Mine medlemskap</h2>
+    <p class="settings-desc">
+      Velg hvilke leverandører du er medlem av. Rabatter fra de andre skjules.
+    </p>
+    <div id="settings-list" class="settings-list">
+      <!-- avkrysningsbokser injiseres av app.js -->
+    </div>
+    <button type="button" id="settings-close" class="settings-done">Ferdig</button>
+  </div>
+</div>
 
 <main>
   <div class="search-wrap">

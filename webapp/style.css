@@ -58,11 +58,31 @@ body {
   border-bottom: 1px solid var(--border);
 }
 
+.topbar-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+}
+
 .topbar h1 {
   margin: 0;
   font-size: 1.4rem;
   font-weight: 700;
   letter-spacing: -0.02em;
+}
+
+.settings-btn {
+  flex: 0 0 auto;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--pill-bg);
+  color: var(--text);
+  cursor: pointer;
+  white-space: nowrap;
 }
 
 .subtitle {
@@ -204,6 +224,92 @@ main {
   color: var(--text-dim);
   margin-top: 3rem;
   font-size: 0.95rem;
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+@media (min-width: 640px) {
+  .overlay {
+    align-items: center;
+  }
+}
+
+.settings-panel {
+  width: 100%;
+  max-width: 480px;
+  max-height: min(80vh, 640px);
+  overflow-y: auto;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 18px 18px 0 0;
+  padding: 1.1rem 1.1rem calc(1.1rem + var(--safe-bottom));
+}
+
+@media (min-width: 640px) {
+  .settings-panel {
+    border-radius: 18px;
+  }
+}
+
+.settings-panel h2 {
+  margin: 0 0 0.35rem;
+  font-size: 1.15rem;
+}
+
+.settings-desc {
+  margin: 0 0 0.9rem;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  line-height: 1.4;
+}
+
+.settings-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.settings-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.6rem 0.7rem;
+  border-radius: 10px;
+  background: var(--pill-bg);
+  cursor: pointer;
+}
+
+.settings-row input {
+  width: 1.15rem;
+  height: 1.15rem;
+  flex: 0 0 auto;
+  accent-color: var(--accent);
+}
+
+.settings-row span {
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.settings-done {
+  width: 100%;
+  padding: 0.8rem;
+  border: none;
+  border-radius: 12px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
 }
 
 .footer {
