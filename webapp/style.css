@@ -231,9 +231,16 @@ main {
   inset: 0;
   z-index: 100;
   background: rgba(0, 0, 0, 0.5);
-  display: flex;
+  display: none;
   align-items: flex-end;
   justify-content: center;
+}
+
+/* [hidden] og .overlay har lik CSS-spesifisitet, så uten :not() her ville
+   display:flex over vunnet over nettleserens [hidden]{display:none} og
+   panelet ville alltid vist seg, uansett hidden-attributt. */
+.overlay:not([hidden]) {
+  display: flex;
 }
 
 @media (min-width: 640px) {
