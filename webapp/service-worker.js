@@ -1,4 +1,4 @@
-const CACHE_NAME = "faste-rabatter-v3";
+const CACHE_NAME = "faste-rabatter-v4";
 const APP_SHELL = [
   "./",
   "./index.html",

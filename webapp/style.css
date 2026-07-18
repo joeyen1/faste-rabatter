@@ -16,6 +16,7 @@
   --elbil: #2eb872;
   --lofavor: #c9a227;
   --akademiker: #c0392b;
+  --kobbl: #1abc9c;
 }
 
 @media (prefers-color-scheme: light) {
@@ -218,6 +219,7 @@ main {
 .badge.provider-Elbilforeningen { background: color-mix(in srgb, var(--elbil) 20%, transparent); color: var(--elbil); }
 .badge.provider-LOfavør { background: color-mix(in srgb, var(--lofavor) 20%, transparent); color: var(--lofavor); }
 .badge.provider-Akademikerforbundet { background: color-mix(in srgb, var(--akademiker) 20%, transparent); color: var(--akademiker); }
+.badge.provider-Kobbl { background: color-mix(in srgb, var(--kobbl) 20%, transparent); color: var(--kobbl); }
 
 .empty-state {
   text-align: center;

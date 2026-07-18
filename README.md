@@ -1,8 +1,9 @@
 # Faste Rabatter
 
 En app for å søke opp faste medlemsrabatter fra DNB, OBOS, Elbilforeningen,
-USBL, LOfavør og Akademikerforbundet på ett sted. Kjører som en PWA (nettapp)
-du legger til på hjemskjermen på iPhone – ingen App Store, ingen Xcode.
+USBL, LOfavør, Akademikerforbundet og Kobbl på ett sted. Kjører som en PWA
+(nettapp) du legger til på hjemskjermen på iPhone – ingen App Store, ingen
+Xcode.
 
 ## Slik virker det
 
@@ -19,6 +20,7 @@ obos_medlemsfordeler.py          → obos_medlemsfordeler.json
 usbl_medlemsfordeler.py          → usbl_medlemsfordeler.json
 lofavor_medlemsfordeler.py       → lofavor_medlemsfordeler.json
 akademikerforbundet_medlemsfordeler.py → akademikerforbundet_medlemsfordeler.json
+kobbl_medlemsfordeler.py         → kobbl_medlemsfordeler.json
 elbilforeningen_medlemsfordeler.json   (manuelt vedlikeholdt, se under)
                 ↓
             combine.py
@@ -38,6 +40,7 @@ python3 obos_medlemsfordeler.py
 python3 usbl_medlemsfordeler.py
 python3 lofavor_medlemsfordeler.py
 python3 akademikerforbundet_medlemsfordeler.py
+python3 kobbl_medlemsfordeler.py
 python3 combine.py
 ```
 
@@ -63,6 +66,17 @@ Trening og sport, Bøker og tidsskrifter og Diverse medlemsfordeler (11
 tilbud). Forsikring, Bank, Kurs og Rådgivning er bevisst utelatt – det er
 generiske medlemstjenester fra én leverandør (Akaforsikring/Nordea), ikke
 butikkrabatter, og siden bruker uansett en helt annen HTML-mal der.
+
+### Kobbl henter fra et skjult API, ikke synlig HTML
+
+`kobbl.no` rendrer ikke rabattene i HTML i det hele tatt - en liten
+plugin-script henter dem fra `https://api.bbld.io/memberbenefits/Contracts/current`
+(en delt medlemsfordel-plattform for flere boligbyggelag) med en
+bearer-token som ligger i selve sidens HTML (`data-token`). Scriptet henter
+denne siden først for et ferskt token, akkurat slik nettleseren gjør, og
+kaller så samme API. Ingen hemmeligheter er hardkodet - subscription-keyen
+er offentlig i sidens egen JS-bunt, og tokenet fornyes automatisk hver gang
+siden lastes.
 
 ### Elbilforeningen er et unntak
 
@@ -130,6 +144,9 @@ Hvert rabatt-objekt i `discounts.json` ser slik ut:
   lenker da til selve LOfavør-siden i stedet.
 - **Akademikerforbundet**: 11 rabatter (kun butikk-/leverandørkategoriene,
   se over).
+- **Kobbl**: 42 rabatter, hentet fra et skjult API (se over). Både bonus-
+  og rabattprosent finnes i dataene; `discount_percentage` prioriterer
+  selve rabatten fremfor bonus (cashback).
 - Prosentsatser er hentet med regex fra beskrivelsesteksten og kan mangle
   for tilbud som ikke er rene prosent-rabatter (f.eks. faste kronebeløp,
   "2 for 1", rentefordeler).

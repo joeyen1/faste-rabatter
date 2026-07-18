@@ -1,0 +1,384 @@
+{
+  "provider": "Kobbl",
+  "source_page": "https://www.kobbl.no/privat/medlemskap/rabatter-og-bonuser/",
+  "discounts": [
+    {
+      "provider": "Kobbl",
+      "retailer": "Interflora",
+      "discount_percentage": 5,
+      "description": "5 % bonus – Som medlem i boligbyggelaget får du 5 % bonus når du kjøper blomster på Interflora.no eller i butikker som er med i avtalen. Betal med et kort du har registrert på Min side med kortnummer Gjelder både kreditt- og debetkort (med kortnummer) Bonusen blir automatisk registrert Når du betaler må du velge Kortbetaling som betalingsmetode. Betaling med Vipps, faktura/Qliro eller gavekort gir ikke bonus. Blomster til glede – bonus på kjøpet!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.interflora.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Lyreco",
+      "discount_percentage": 5,
+      "description": "5 % bonus – Som medlem i boligbyggelaget får du 5 % bonus når du handler hos Lyreco sine fysiske butikker. Betal med det samme betalingskortet som du har registrert på Min side i boligbyggelaget. Betal med et kort du har registrert på Min side hos boligbyggelaget Gjelder både kreditt- og debetkort Bonusen blir automatisk registrert Bonus gjelder ikke nettbutikk",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.lyreco.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Medlemsstrøm for KOBBL levert av Polar Kraft",
+      "discount_percentage": 2,
+      "description": "2 % bonus – Du får 2% medlemsbonus på ditt strømforbruk etter strømstøtte er trukket fra Polar Kraft-appen gir deg full kontroll, kostnadsfritt Prisutviklingen kan du følge i Polar Kraft-appen og på Min side Avtalen gjelder kun privatkunder og forutsetter godkjent kredittvurdering Fastbeløp for privatpersoner: 39 kr/mnd i Sør Norge, 31,20 kr/mnd i Nord-Norge og etterskuddsvis fakturering",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.polarkraft.no/stromavtaler/partner/KOBBL/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Montér",
+      "discount_percentage": 5,
+      "description": "5 % rabatt – 5 % bonus – 5 % bonus på alt du handler 5 % rabatt på ordinære varer (Rabatt gjelder ikke nettopriser og kampanjepriser) 10 % rabatt på innerdør, ytterdør, garderobe og peis (bestillingsvarer) Inntil 35 % rabatt på vindu og balkongdør (bestillingsvarer) Husk: -Fordelen gjelder kun ved kjøp i butikk -For å få rabatt, vis medlemsbevis i kassen (se appen til boligbyggelaget) -For å få bonus, betal med bankkortet/kredittkortet du har registrert på Min side hos boligbyggelaget Avtalen kan kombineres med Montér sin kundeklubb, men ikke med øvrige kundeklubber eller avtaler. Les mer om fordelen her . Gjelder ikke betaling på nett.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.monter.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Skousen Hvitevarer Norge",
+      "discount_percentage": 15,
+      "description": "15 % rabatt – 5% bonus – 5 % bonus 15 % rabatt på ordinære priser på lagerførte varer i butikk Bonus og rabatt gjelder ikke ved betaling i nettbutikk Viktig informasjon: ✔️ For å få bonus må du betale med et debetkort som du har registrert på Min side hos boligbyggelaget. ✔️ Betaler du med et registrert kredittkort må du sende inn kvittering til boligbyggelaget for å få etter-registrert transaksjonen.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.skousen.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "XL - Bygg Kongsvinger",
+      "discount_percentage": 40,
+      "description": "fra 7 - 40% på utvalgte produktsegmenter. – 5 % bonus – 5% Bonus på alle varer. 7% rabatt på alle ordinære varer 20% rabatt på skyvedørsfronter og garderobe innredning fra Elfa - Gratis oppmåling og formidler montering dersom ønskelig. 20% rabatt på Drømmekjøkkenet og Granarp kjøkken fra Nobia (samme som Norema) - Gratis oppmåling og tegnetime, samt formidler montering om ønskelig. 40% rabatt på vinder og balkongdører - Gratis oppmåling og formidler montering dersom ønskelig.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.xl-bygg.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Byggtorget",
+      "discount_percentage": 5,
+      "description": "5% Bonus og 10% på alle lagerførte varer – 5 % bonus – 5% bonus og 10% avslag på alle varer som er lagerførte*. *Unntak fra medlemsfordeler er: Landbruksvarer og allerede rabatterte varer og kampanjevarer.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://odals.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Hurtigruta Carglass",
+      "discount_percentage": 30,
+      "description": "30 % rabatt på Bosch vindusviskere – 5 % bonus – Medlemsfordeler: 5 % bonus 30 % rabatt på ferdig monterte vindusviskere fra Bosch Medlemspris kr 49 på Glass spray (ordinær pris kr 79) Gratis steinsprutplaster Gratis lånebil etter avtale De rengjør førermiljøet, vasker bilens ruter inn- og utvendig",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.carglass.no/partner/bbl"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Medlemspris og bonus på advokat!",
+      "discount_percentage": 5,
+      "description": "5% bonus – 5 % bonus Gjelder alle tjenester. Oppgi ditt medlemskortnummer (9 siffer) i kontakt med Legalis for å få bonus. Bonus beregnes ikke på utlegg som advokaten betaler på vegne av klienten , eksempelvis rettsgebyr. Medlemspris Gratis innledende samtale med advokat, uten forpliktelser. Medlemspris per time kr 2.335,- inkl m.v.a. Du får fastpris på digitale maler med kvalitetssikring av advokat: Fremtidsfullmakt – 1 659 kr Testament – 2 169 kr Samboerkontrakt – 1 039 kr",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://legalis.no/priser?medlem=bbl"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Oris Dental",
+      "discount_percentage": 8,
+      "description": "8 % rabatt – 5% bonus – 5 % bonus på alle behandlinger 8 % rabatt på tannsjekken og behandlinger Rabatt gjelder ikke: salgsvarer, spesialistbehandlinger, hygienetillegg og tannteknikerarbeid (tjenester som kjøpes utenfra, f.eks krone, bro, protese, implantatkomponenter, invisalign)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://orisdental.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "BestDrive",
+      "discount_percentage": 15,
+      "description": "Opptil 15 % rabatt – 5 % bonus – 5 % bonus på alle kjøp i varehus 10 % Rabatt på verkstedtjenester (EU kontroll, AC-service, oljeskift/filter, vindusviskere og øvrige bilreparasjoner.) 2 års skadegaranti på dekk ved medlemskap i kundeklubben til Bestdrive. Dekkhotell 1. sesong, 500,- rabatt + 5 % bonus Dekkhotell 2. sesong, 15 % rabatt + 5 % bonus Til informasjon: -Avtalen gjelder ikke hos alle BestDrive Partnere. -Betal med bankkortet du har registrert på Min side for å få bonus. -Vis medlemsbevis for å få rabatt. Rabatt gjelder ikke på allerede nedsatte varer. -Verkstedtjenester gjelder kun utvalgte BestDrive avdelinger.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.bestdrive.no/?origin=BBL"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Nextory",
+      "discount_percentage": 5,
+      "description": "Medlemsdager: 10 uker gratis abonnement – 5 % bonus – 5 % bonus hver måned Velg mellom fem ulike abonnement: Mini 6 uker gratis. (10 uker gratis 1. juni til 31. august). Deretter kr 89 per måned ( 10 timer per månad, 1 profil) Standard: 6 uker gratis. (10 uker gratis 1. juni til 31. august). Deretter kr 139 per måned (en profil - 30 timer/mnd) Pluss: 6 u ker gratis. (10 uker gratis 1. juni til 31. august).Deretter kr 179 per måned (en profil 100 timer/mnd) Unlimited 1: 6 uker gratis. (10 uker gratis 1. juni til 31. august). Deretter kr 219 per måned (en profil ubegrenset) Unlimited 2: 6 uker gratis. (10 uker gratis 1. juni til 31. august). Deretter kr 279 per måned (to profiler ubegrenset) Unlimited 4: 6 uker gratis. (10 uker gratis 1. juni til 31. august). Deretter kr 349 per måned (fire profiler ubegrenset) Appen finnes til både iOS og Android. Ingen bindingstid eller oppsigelsestid. Du kan avslutte abonnementet når som helst.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://nextory.com/no/register/partner/BBL"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Modena",
+      "discount_percentage": 5,
+      "description": "Fliser, peis, baderomsmøbler og mur- og byggevarer – 5 % bonus – 5 % bonus NB! Gjelder ved kjøp i de fleste butikker*. Betal med registrert betalingskort for å få bonus. Kan ikke kombineres med andre kundeprogrammer. Bonus registreres dessverre ikke ved betaling med Apple Pay eller Google Pay. * Tilbudet gjelder ikke følgende butikker: Alfa Varme, Mo Varme, Byggtorget Narvik, Vinstra Flis & Naturstein, XL-Bygg Tverberg eller kjøp på nett.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://modena.no"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Emmto",
+      "discount_percentage": 5,
+      "description": "5% Bonus og 10-20% rabatt på Gjøco maling – 5 % bonus – 5 % bonus og 20% på alle varer i butikken og 10% på alle ovner i butikken. Gjelder hele kjøpet i utvalgte butikker, også tilbudsvarer. Betal med registrert betalingskort for å få bonus. Bonus blir registrert påfølgende virkedag i oversikten på Min side. Gjelder ikke kjøp på nett.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://emmto.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "KOBBL Eiendom",
+      "discount_percentage": null,
+      "description": "3.000,- kr i rabatt – Din lokale eiendomsmegler! – Kr 3000 i medlemsrabatt på full meglerpakke hos KOBBL Eiendom!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.kobbl.no/privat/eiendom/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Kjells Markiser",
+      "discount_percentage": 45,
+      "description": "40 - 45% rabatt* – ● 40 % til 45 % rabatt* Medlemsrabatt HELE året på ALLE produkter*: • 45 % rabatt på alt av inn- og utvendig solskjerming (markiser, screen, dukskift, plisségardiner, rullegardiner m.m.) • 45 % rabatt på garasjeporter • 30 % rabatt på gardiner • 40 % rabatt på tilbehør +5 % EKSTRA Best-pris-rabatt -Hvis produktet er på kampanje ved bestilling med samme eller høyere rabatt enn medlemsfordelen. *Gjelder ikke spesialprodukter eller montasje. Medlemsbevis må vises før bestilling.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.kjellsmarkiser.no/kobbl-medlem/?utm_source=kobbl&utm_medium=medlemsside&utm_campaign=kobbl_medlem&utm_id=kobbl_medlem"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Wright Trafikkskole",
+      "discount_percentage": 5,
+      "description": "5 % bonus – 5 % bonus Bonus gjelder: Trafikalt grunnkurs Personbil Henger Moped og MC Wright Oslo, Sjøskole - Båtskole Gjelder også hos Heimdal Trafikkskole og Gerds Trafikkskole Slik går du frem: Betalingsalternativer hos din lokale Wright Trafikkskole: Betal i betalingsterminal: Bruk samme betalingskort som du har registrert på ‘’Min side’’ hos boligbyggelaget, slik at bonus blir registrert påfølgende virkedag. Betaling på nettsiden, i appen eller i nettbanken: Ta kontakt med din lokale Wright Trafikkskole for manuell registrering av bonus. Husk å oppgi medlemskortnummer. Ny løsning for bonusoverføring er under utvikling. Les mer - bestill allerede i dag",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://wright.no"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Hedmark Service AS",
+      "discount_percentage": 30,
+      "description": "10-30% rabatt – Brannutstyr 20 % rabatt Porter 30 % rabatt Deler til porter 20 % rabatt Førstehjelp 20 % rabatt Hjertestarter 10 % rabatt Kompressor 10 % rabatt på kampanjepriser Deler+luftutstyr til kompressor 20 % rabatt",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.hedmark-service.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Hadeland Glassverk",
+      "discount_percentage": 10,
+      "description": "10 % rabatt – 5 % bonus – 5 % bonus 10 % rabatt Husk å betale med registrert betalingskort for å få bonus. Greit å vite før du handler: Rabatt gjelder kun på ordinære priser i butikk (ikke i nettbutikk og spisesteder) Gjelder ikke belysning, Icon Medlemsfordelene gjelder ikke Lys & Tinnstøperiet, eller i belysningsbutikken Vis gyldig medlemsbevis i kassen ved betaling",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.hadeland.com/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Vianor avd. Kongsvinger",
+      "discount_percentage": 5,
+      "description": "5% rabatt – 5 % bonus – Medlemsrabatter 5% Bonus 5% Rabatt på dekk * Rabatten kan ikke kombineres med andre avtaler. * Ekslusiv rabattkode i perioden 8 juni til 30 juni 2026: Ferieklar-26. Koden gir følgende priser/rabatter: • -20% på alle sommerdekk fra Nokian Tyres, Nordman, GT Radial, Radar & RoadX • Hjulstillingskontroll kun kr 1395,- (veil.pris 1990,-) • Minisjekken Ferieklar Bil kun kr 495,- (veil.pris 660,-) • Oljeskift Pluss kun kr 2395,- (veil.pris 2990,-) • OBD feilkodeavlesning kun kr 795,- (veil.pris 1120,-) • Vindusviskere inkl. montering kun kr 695,-",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://vianor.no/servicer/vianor-kongsvinger/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Odal Bil Kongsvinger",
+      "discount_percentage": 5,
+      "description": "5 % bonus – 5 % bonus på alle tjenester. Ettersom vi følger bilprodusentens serviceanbefalinger så gjelder alltid din nybilgaranti. Du får også selvsagt stempel i serviceheftet etter utført arbeid og 1 års mobilitetsgaranti inngår etter visse kriterier.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.mekonomen.no/butikk-bilverksted/kongsvinger/industrivegen-57-at6053-000/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "If - forsikring for medlemmer",
+      "discount_percentage": 20,
+      "description": "Opptil 20 % – ✔ 15 % rabatt fra første skadeforsikringsprodukt – og du går rett inn til nivå 2 i Ifs fordelsprogram ✔ 70 % startbonus på bil – 10 % mer enn standard! ✔ If Start – gratis første år (også for barna dine!)",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.if.no/privat/partner/boligbyggelag"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "KEO",
+      "discount_percentage": 30,
+      "description": "Opptil 30 % rabatt – 10 - 30 % rabatt Vis frem medlemskortet for å få rabatt",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.kobbl.no/privat/medlemskap/rabatter-og-bonuser/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Kongsvinger Optiske",
+      "discount_percentage": 15,
+      "description": "Opptil 15 % rabatt – 15 % rabatt Gjelder solbriller og komplette briller 10 % rabatt på andre varer Det gis ikke rabatt på synsundersøkelse, tilbudsvarer eller pakketilbud",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.coptikk.no/Vaare-Butikker/Innlandet/Kongsvinger-Optiske"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Puls",
+      "discount_percentage": 10,
+      "description": "10% Rabatt – Nytegning: 12 mnd binding 499,- (Ordinær pris 549,-) 3 gratis tanita tester (verdi 1035,-) må benyttes i løpet av de første 12 månedene Ved prisendringer vil medlemmene få 10% rabatt på den til enhver tid gjeldende veiledende pris. Ikke tilbud som går i perioder.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "http://pulstrening.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Rådhus-teatret",
+      "discount_percentage": null,
+      "description": "20 kr rabatt – Tilbud til Kobbl‑medlemmer på mandager og søndager: Ungdom/voksne (15+): 130 kr (20 kr rabatt) Barn: 100 kr (15 kr rabatt) Popcorn + mineralvann: 79 kr (20 kr rabatt) Billettene kan kjøpes på nett og i kassa. Ved kjøp på nett benytter du koden \"Kobbl\". Man kan da kjøpe maks 4 billetter hver. Husk medlemskort i app som viser at du er KOBBL-medlem. Vi har DOKU‑mandag på Rådhus‑Teatret, hvor vi viser to dokumentarfilmer hver mandag – hver film kun én gang.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://radhusteatret.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Fjordkraft",
+      "discount_percentage": null,
+      "description": "2500,- kr i rabatt – Kr 2500,- i prisreduksjon KOBBLs medlemmer tilbys en prisreduksjon på 2500 kroner i tillegg til Enova-støtte. Fjordkraft har i tillegg prismatch på anlegg som sikrer at leveransen er konkurransedyktig. Husk å gi beskjed om at du er KOBBL medlem ved bestilling!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.fjordkraft.no/solcellepanel"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Ibas",
+      "discount_percentage": null,
+      "description": "Medlemspris – Medlemspris på dataredning. Avtalen gjelder for inntil 4 enheter, og varer i tre år, og prisen er kun kr 399,- inkl. mva for hele avtaleperioden. Avtalen gir deg kostnadsfri rekonstruksjon en gang i avtaleperioden.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.ibas.com/no/bestill-kobbl"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Jens Dahl AS",
+      "discount_percentage": 10,
+      "description": "10 % rabatt – 10 % rabatt på elektriske installasjoner",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.jensdahl.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Kongsvingers Golfklubb",
+      "discount_percentage": 10,
+      "description": "10 % rabatt – 10 % rabatt i pro-shopen ved fremvisning av medlemsbevis i KOBBL.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.kongsvingergolf.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "MagnorVinduet",
+      "discount_percentage": 42,
+      "description": "42 % rabatt – 42 % rabatt Gjelder KOBBL-medlemmer som handler til privat bruk, eksempelvis fritdisbolig etc. Forespørsel fra medlemmet skjer direkte til Magnor. Medlemsnummer må oppgis, og Magnor må ha mulighet til å sjekke dette opp mot KOBBL sitt register.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://magnorvinduet.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Rørkjøp - Vinger flis og bad",
+      "discount_percentage": 10,
+      "description": "10 % rabatt – 10 % rabatt Rabatt* gjelder kun ved kjøp i butikk. Kraner, toalettseter, dusjhoder og dusjslanger *gjelder ikke Quooker kraner og tilbudsvarer",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.rorkjop.no/finn-rorlegger/innlandet/kongsvinger/vinger-flis-og-bad-as/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Teateret Innlandet",
+      "discount_percentage": 20,
+      "description": "20 % rabatt – 20 % rabatt Gjelder alle forestillinger i regi av Teater Innlandet i Kongsvinger og omegn. Spesialrabatter på utvalgte forestillinger. Rabatten gis ved forevisning av gyldig medlemskort.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.teaterinnlandet.no/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Apotekhjem.no",
+      "discount_percentage": 7,
+      "description": "Nettbutikk – 7 % bonus – 7% bonus Bonusen vises på din bonuskonto mellom 30 - 90 dager etter at vi har mottatt transaksjonen fra butikken grunnet returordningen.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://track.adtraction.com/t/t?a=1476697392&as=1517666905&t=2&tk=1"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Bubbleroom.no",
+      "discount_percentage": 4,
+      "description": "Nettbutikk – 4 % bonus – 4 % bonus Bonusen vises på din bonuskonto mellom 30 - 90 dager etter at vi har mottatt transaksjonen fra butikken grunnet returordningen. OBS: Bonus gjelder kun ved kjøp på Bubbleroom.no",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://pin.bubbleroom.no/t/t?a=1118337868&as=1517666905&t=2&tk=1"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "HelloFresh",
+      "discount_percentage": null,
+      "description": "Spar opptil 1299,- på de første 5 matkassene! – SPAR OPPTIL 1309,- PÅ DINE 5 FØRSTE MATKASSER",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://go.adt242.com/t/t?a=1618121356&as=1517666905&t=2&tk=1"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Jaktogfriluft.no",
+      "discount_percentage": 5,
+      "description": "Nettbutikk – 5 % bonus – 5 % bonus Bonusen vises på din bonuskonto mellom 30 - 90 dager etter at vi har mottatt transaksjonen fra butikken grunnet returordningen.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://in.jaktogfriluft.no/t/t?a=1593870376&as=1517666905&t=2&tk=1"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Skogstad Sport",
+      "discount_percentage": 5,
+      "description": "Nettbutikk – 5 % bonus – 5% bonus Bonusen vises på din bonuskonto mellom 30 - 90 dager etter at vi har mottatt transaksjonen fra butikken grunnet returordningen.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://in.skogstadsport.no/t/t?a=1841954226&as=1517666905&t=2&tk=1"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Skruvat.no",
+      "discount_percentage": 5,
+      "description": "Nettbutikk – 5 % bonus – 5 % bonus Fordelen gjelder ikke på dekk og felg! Bonusen vises på din bonuskonto mellom 30 - 90 dager etter at vi har mottatt transaksjonen fra butikken grunnet returordningen.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://go.skruvat.no/t/t?a=846999738&as=1517666905&t=2&tk=1"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "5. etage",
+      "discount_percentage": 10,
+      "description": "10% rabatt på leie av lokaler – 10% Rabatt til KOBBL-medlemmer på leie av loaklet, og billetter til arrangementer ved å benytte rabattkode \"KOBBL\" Mer informasjon finner du på: www.5etage.no Kontaktinformasjon: 400 20 638",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://5etage.no/#hjem"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Fordeler for boligselskap- leverandører & håndverkere",
+      "discount_percentage": null,
+      "description": "Medlemspriser",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.kobbl.no/styret/fordeler-for-boligselskap/"
+    },
+    {
+      "provider": "Kobbl",
+      "retailer": "Odal Rock Club",
+      "discount_percentage": 30,
+      "description": "konserter, stand-up show og live podcaster – 10-30% rabatt på arrangementer",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.odalrockclub.no/"
+    }
+  ]
+}
