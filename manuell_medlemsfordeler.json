@@ -1,0 +1,240 @@
+{
+  "provider": "Norsk Manuellterapeutforening",
+  "source_page": "https://manuell.no/rabattavtaler",
+  "discounts": [
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Fysiopartner",
+      "discount_percentage": 15,
+      "description": "Samarbeidsavtalen gir 15 % rabatt på alle varer i Fysiopartners faste sortiment.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=480"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Norsk Elektronisk Legehåndbok",
+      "discount_percentage": 25,
+      "description": "25 % rabatt for alle medlemmer!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=212"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Skrift.md",
+      "discount_percentage": null,
+      "description": "Skrift er et KI-drevet verktøy for norsk helsepersonell som automatisk transformerer pasientsamtaler til presise og strukturerte journalnotater.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=13585"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Xpeng",
+      "discount_percentage": null,
+      "description": "Rabatt ved kjøp av ny Xpeng",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=13568"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "LO Selvstendig regnskap",
+      "discount_percentage": null,
+      "description": "LO Selvstendig gir selvstendig næringsdrivende økt trygghet gjennom gode medlemsfordeler. Som medlem får du den hjelpen du trenger til å komme i gang med en enklere regnskapshverdag.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.sparebank1.no/nb/smn/bedrift/regnskap/lo-selvstendig.html?cid=partner;;lofavor;;lo-selvstendig;;nettside;;lenke"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Skrift.md – KI-journalføring for manuellterapeuter",
+      "discount_percentage": null,
+      "description": "Skrift.md er CE-merket medisinsk programvare som automatisk transkriberer og oppsummerer pasientsamtaler til presise, strukturerte journalnotater. Spar tid på dokumentasjon og fokuser på det som betyr mest: pasienten.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=14237"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Eksklusiv medlemspris på Journalia Fysikalske",
+      "discount_percentage": null,
+      "description": "Journalia er et moderne, brukervennlig og effektiv tale-til-tekst KI-journalføringsverktøy som hjelper deg å spare tid, få bedre oversikt og redusere mengden administrasjon i hverdagen.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=13909"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Rabattert tilgang til KI-plattformen Helseassistent",
+      "discount_percentage": null,
+      "description": "Norsk Manuellterapeutforening (NMF) og Midlaier Health AS har inngått en fordelsavtale som gir alle foreningens medlemmer rimeligere tilgang til den kunstig-intelligente verktøykassen Helseassistent.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=1904"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Hjertestarter fra Røde Kors Førstehjelp",
+      "discount_percentage": null,
+      "description": "Få opptil 2500 kr i avslag på hjertestarter",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=397"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Flügger",
+      "discount_percentage": 20,
+      "description": "20 % rabatt på alt av maling og verktøy i alle Flüggers butikker.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=511"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Gymo",
+      "discount_percentage": 15,
+      "description": "15 % rabatt på alle varer!",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=648"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Strawberry (tidl. Nordic Choice Hotels)",
+      "discount_percentage": 20,
+      "description": "Som medlem av NMF får du 20% rabatt på alle kjedens hoteller i Norden gjennom LO favør",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nordicchoicehotels.no/lofavor/?utm_medium=partnerships&utm_source=partnerships&utm_campa"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "HELP Advokatforsikring",
+      "discount_percentage": null,
+      "description": "Kollektivavtale med HELP Advokatforsikring. Inkludert i medlemskapet for 71 kr/mnd.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.help.no/LO-medlemmer/forbund/norsk-manuellterapeutforening"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "LO favør",
+      "discount_percentage": null,
+      "description": "Medlemmer i NMF er automatisk tilknyttet fordelsprogrammet LO favør.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.lofavor.no/"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Trinnvis",
+      "discount_percentage": 30,
+      "description": "Gratis etablering og 30% rabatt på abonnement som NMF medlem.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=248"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "AI-assistent fra Aspit",
+      "discount_percentage": null,
+      "description": "Rabatt på AI Assistent fra Aspit-Physica",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=13656"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Norsk pasientskadeerstatning",
+      "discount_percentage": null,
+      "description": "NMF har kollektivavtale med NPE. Ordinære medlemmer blir dekket automatisk til en rabattert pris. Studentmedlemmer dekkes av NMF.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.npe.no/no/tilskuddsplikten/kollektivavtaler/"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Cutters",
+      "discount_percentage": null,
+      "description": "Rabatt på hårklipp.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=13424"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "SpareBank 1 boliglån",
+      "discount_percentage": null,
+      "description": "Gode tilbud på boliglån fra SpareBank 1 gjennom LO favør",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.lofavor.no/bank/boliglan"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Fiken",
+      "discount_percentage": 15,
+      "description": "15% rabatt på regnskapsløsning",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=195"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "BMW - Mini",
+      "discount_percentage": null,
+      "description": "Rabatt ved kjøp av ny BMW og MINI",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=188"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Bull Ski & Kajakk",
+      "discount_percentage": 20,
+      "description": "20% rabatt på alle produkter",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=186"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Vertical Playground",
+      "discount_percentage": null,
+      "description": "Gode rabatter på ordinære varer fra friluftslivbutikken Vertical Playground",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=185"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Dagens Medisin",
+      "discount_percentage": null,
+      "description": "Tilbud på helårsabonnement på papirutgaven av Dagens Medisin",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=184"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Akupunkturutstyr AS",
+      "discount_percentage": 20,
+      "description": "20% avslag for medlemmer av NMF, ta kontakt med kontor@manuell.no for rabattkode.",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://www.akupunkturutstyr.no/"
+    },
+    {
+      "provider": "Norsk Manuellterapeutforening",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": null,
+      "description": "Medlemmer av Norsk Manuellterapeutforening får nå gode rabatter ved kjøp av bil hos Bertel O. Steen. Avtalen omfatter et bredt spekter av bilmerker: Mercedes-Benz, smart, Kia, Peugeot, Citroën, Opel, Fiat, Jeep og Alfa Romeo. Rabattene beregnes ut fra gjeldende veiledende listepris inkludert fabrikkmontert utstyr, eksklusive avgifter.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://manuell.no/rabattavtaler/?Article=14241"
+    }
+  ]
+}

@@ -2,7 +2,8 @@
 
 En app for å søke opp faste medlemsrabatter fra DNB, OBOS, Elbilforeningen,
 USBL, LOfavør, Akademikerforbundet, Kobbl, Norsk Fysioterapeutforbund,
-Unio, YS, NITO og Pensjonistforbundet på ett sted. Kjører som en PWA
+Unio, YS, NITO, Pensjonistforbundet og Norsk Manuellterapeutforening på ett
+sted. Kjører som en PWA
 (nettapp) du legger til på hjemskjermen på iPhone – ingen App Store, ingen
 Xcode.
 
@@ -27,6 +28,7 @@ unio_medlemsprodukter.py         → unio_medlemsprodukter.json
 ys_medlemsfordeler.py            → ys_medlemsfordeler.json
 nito_medlemsfordeler.py          → nito_medlemsfordeler.json
 pensjonistforbundet_medlemsfordeler.py → pensjonistforbundet_medlemsfordeler.json
+manuell_medlemsfordeler.py       → manuell_medlemsfordeler.json
 elbilforeningen_medlemsfordeler.json   (manuelt vedlikeholdt, se under)
                 ↓
             combine.py
@@ -52,6 +54,7 @@ python3 unio_medlemsprodukter.py
 python3 ys_medlemsfordeler.py
 python3 nito_medlemsfordeler.py
 python3 pensjonistforbundet_medlemsfordeler.py
+python3 manuell_medlemsfordeler.py
 python3 combine.py
 ```
 
@@ -120,6 +123,15 @@ Next.js/Contentful-datastrøm (`__NEXT_DATA__`). Ekstern partnerlenke
 finnes ikke i et fast felt, så skraperen søker gjennom hele fordelens
 JSON-data etter URL-er og filtrerer bort kjente ikke-partner-domener
 (bilder, video, egne sider).
+
+### Norsk Manuellterapeutforening henter fra sidens eget artikkel-API
+
+`manuell.no/rabattavtaler` er en WIPS CMS-side som ikke rendrer
+artikkellisten i den statiske HTML-en - den hentes klientside fra
+`Api/v2/template/rendered-articles?pageId=827723440`. Skraperen gjør
+samme kall. 26 avtaler, hvorav én ("Ny rabattavtale" for bilrabatter hos
+Bertel O. Steen) har fått partnernavnet satt manuelt siden NMF selv bruker
+en generisk tittel for den.
 
 ### Elbilforeningen er et unntak
 
@@ -196,6 +208,8 @@ Hvert rabatt-objekt i `discounts.json` ser slik ut:
 - **NITO**: 30 rabatter (kun "Rabatter"-kategorien, se over).
 - **Pensjonistforbundet**: 33 rabatter, hentet fra Next.js/Contentful-data
   (se over).
+- **Norsk Manuellterapeutforening**: 26 rabatter, hentet fra sidens eget
+  artikkel-API (se over).
 - Prosentsatser er hentet med regex fra beskrivelsesteksten og kan mangle
   for tilbud som ikke er rene prosent-rabatter (f.eks. faste kronebeløp,
   "2 for 1", rentefordeler).

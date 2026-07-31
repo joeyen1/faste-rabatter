@@ -22,6 +22,7 @@
   --ys: #006e26;
   --nito: #003b00;
   --pensjonist: #b8860b;
+  --manuell: #e64980;
 }
 
 @media (prefers-color-scheme: light) {
@@ -230,6 +231,7 @@ main {
 .badge.provider-YS { background: color-mix(in srgb, var(--ys) 20%, transparent); color: var(--ys); }
 .badge.provider-NITO { background: color-mix(in srgb, var(--nito) 20%, transparent); color: var(--nito); }
 .badge.provider-Pensjonistforbundet { background: color-mix(in srgb, var(--pensjonist) 20%, transparent); color: var(--pensjonist); }
+.badge.provider-Norsk-Manuellterapeutforening { background: color-mix(in srgb, var(--manuell) 20%, transparent); color: var(--manuell); }
 
 .empty-state {
   text-align: center;
