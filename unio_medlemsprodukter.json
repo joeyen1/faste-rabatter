@@ -101,5 +101,7 @@
       "requires_code": false,
       "source_url": "https://www.stormberg.com/no/kampanje/unio"
     }
-  ]
+  ],
+  "fetched_at": "2026-10-15",
+  "note": "Manuelt øyeblikksbilde: unio.no blokkerer skript med Cloudflare (403) siden høsten 2026. Listen (11 produkter) er verifisert i nettleser 2026-10-15."
 }

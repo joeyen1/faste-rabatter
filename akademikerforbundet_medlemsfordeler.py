@@ -84,37 +84,85 @@ def find_source_link(content_div, category_url: str) -> str:
     return category_url
 
 
+BRAND_KEYWORDS = [
+    ("bmw", "BMW"),
+    ("bertel", "Bertel O. Steen"),
+    ("esso", "Esso"),
+    ("avis", "Avis"),
+    ("norgesbooking", "Norgesbooking"),
+    ("thon", "Thon Hotels"),
+    ("historiske", "De Historiske"),
+    ("stormberg", "Stormberg"),
+    ("akademika", "Akademika"),
+    ("cutters", "Cutters"),
+    ("extra optical", "Extra Optical"),
+]
+
+
+def brand_for(title: str, description: str) -> str | None:
+    """Overskriftene er ofte markedsføringstekst ("Rabatt på BMW", "Bestill
+    fagbøkene dine i dag") - finn butikknavnet via nøkkelord i tittel,
+    ellers i beskrivelsen. Fyllinnhold uten butikk ("Flere fordeler
+    venter") gir None og hoppes over."""
+    for text in (title.lower(), description.lower()):
+        for keyword, name in BRAND_KEYWORDS:
+            if keyword in text:
+                return name
+    return None
+
+
 def parse_category(category_slug: str) -> list[dict]:
     category_url = f"{BASE_URL}{CATEGORY_PATH}/{category_slug}/"
-    html = fetch_html(category_url)
-    soup = BeautifulSoup(html, "html.parser")
+    soup = BeautifulSoup(fetch_html(category_url), "html.parser")
 
     discounts = []
-    for block in soup.select('div.paragraph.clearfix[id^="par-"]'):
-        h2 = block.find("h2")
-        content = block.select_one("div.content")
-        if not h2 or not content:
-            continue
+    seen_brands: set[str] = set()
 
-        title = clean_text(h2.get_text())
-        description = clean_text(content.get_text(" "))
+    def add(title: str, description: str, link_scope):
+        title = clean_text(title)
+        description = clean_text(description)
         if not title or not description:
-            continue
-
+            return
+        brand = brand_for(title, description)
+        if not brand or brand in seen_brands:
+            return
+        seen_brands.add(brand)
         pct_match = re.search(r"(?<![\d,])(\d{1,3})\s?(?:%|prosent)", description, re.I)
-        percentage = int(pct_match.group(1)) if pct_match else None
-
         discounts.append(
             {
                 "provider": "Akademikerforbundet",
-                "retailer": clean_retailer_name(title),
-                "discount_percentage": percentage,
+                "retailer": brand,
+                "discount_percentage": int(pct_match.group(1)) if pct_match else None,
                 "description": description,
                 "online_only": bool(re.search(r"(?i)på nett|nettbutikk|netthandel", description)),
                 "requires_code": bool(re.search(r"(?i)rabattkode|kampanjekode", description)),
-                "source_url": find_source_link(content, category_url),
+                "source_url": find_source_link(link_scope, category_url),
             }
         )
+
+    # Nåværende oppsett (2026-10): flat struktur der hver avtale er en <h2>
+    # etterfulgt av søsken-elementer (<p>/<ul>) frem til neste <h2>.
+    main = soup.select_one("div.main") or soup
+    for h2 in main.find_all("h2"):
+        parts = []
+        for sib in h2.find_next_siblings():
+            if sib.name in ("h1", "h2"):
+                break
+            parts.append(sib)
+        if not parts:
+            continue
+        scope = BeautifulSoup("".join(str(x) for x in parts), "html.parser")
+        add(h2.get_text(), scope.get_text(" "), scope)
+
+    if discounts:
+        return discounts
+
+    # Gammelt oppsett (<div class="paragraph clearfix"> med <h2> + .content).
+    for block in soup.select('div.paragraph.clearfix[id^="par-"]'):
+        h2 = block.find("h2")
+        content = block.select_one("div.content")
+        if h2 and content:
+            add(h2.get_text(), content.get_text(" "), content)
     return discounts
 
 

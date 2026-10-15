@@ -14,7 +14,7 @@ Krever: pip install requests beautifulsoup4
 
 import json
 import re
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -53,47 +53,57 @@ def first_link(article) -> str | None:
     return None
 
 
+def make_card(retailer: str, description: str, href: str) -> dict:
+    pct_match = re.search(r"(?<![\d,])(\d{1,3})\s?(?:%|prosent)", description, re.I)
+    return {
+        "provider": "YS",
+        "retailer": retailer,
+        "discount_percentage": int(pct_match.group(1)) if pct_match else None,
+        "description": description,
+        "online_only": bool(re.search(r"(?i)på nett|nettbutikk|netthandel", description)),
+        "requires_code": bool(re.search(r"(?i)rabattkode|kampanjekode|kode ", description)),
+        "source_url": href,
+    }
+
+
 def parse_discounts(html: str) -> list[dict]:
     soup = BeautifulSoup(html, "html.parser")
     discounts = []
+    seen = set()
 
+    # Nåværende oppsett (2026-10): <div class="fordeler-card"> med
+    # <h3 class="fordeler-card-title"> (butikknavn) og <p> (beskrivelse).
+    for card in soup.select(".fordeler-card"):
+        title = card.select_one(".fordeler-card-title")
+        text = card.select_one("p")
+        link = card.select_one("a[href]")
+        retailer = clean_text(title.get_text()) if title else ""
+        description = clean_text(text.get_text(" ")) if text else ""
+        if not retailer or not description or not link:
+            continue
+        href = urljoin(URL, link["href"].strip())
+        if retailer in seen:
+            continue
+        seen.add(retailer)
+        discounts.append(make_card(retailer, description, href))
+
+    if discounts:
+        return discounts
+
+    # Gammelt oppsett (<article class="post-article">) som reserve.
     for article in soup.select("article.post-article"):
         h2 = article.select_one("h2, H2")
         cat = article.select_one(".boldtext")
         short = article.select_one(".post-shorttext")
-
         h2_text = clean_text(h2.get_text()) if h2 else ""
         cat_text = clean_text(cat.get_text()) if cat else ""
         description = clean_text(short.get_text(" ")) if short else ""
-
         href = first_link(article)
-
-        # Hopp over interne ys.no-tjenester uten ekstern butikk/partner
-        # (f.eks. generiske forbundssider, karriereveiviser, "YS Selvstendig").
         if not href or "ys.no" in urlparse(href).netloc:
             continue
-
-        # Kategori-labelen er som regel selve butikknavnet når den er satt
-        # (unntatt den generiske "YS Fordel"-labelen) - mer pålitelig enn
-        # H2, som ofte er en markedsføringsoverskrift i stedet for et navn.
         retailer = (cat_text if cat_text and cat_text != "YS Fordel" else "") or h2_text or domain_name(href)
-        if not retailer or not description:
-            continue
-
-        pct_match = re.search(r"(?<![\d,])(\d{1,3})\s?(?:%|prosent)", description, re.I)
-
-        discounts.append(
-            {
-                "provider": "YS",
-                "retailer": retailer,
-                "discount_percentage": int(pct_match.group(1)) if pct_match else None,
-                "description": description,
-                "online_only": bool(re.search(r"(?i)på nett|nettbutikk|netthandel", description)),
-                "requires_code": bool(re.search(r"(?i)rabattkode|kampanjekode|kode ", description)),
-                "source_url": href,
-            }
-        )
-
+        if retailer and description:
+            discounts.append(make_card(retailer, description, href))
     return discounts
 
 

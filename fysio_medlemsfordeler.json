@@ -1,48 +1,156 @@
 {
   "provider": "Norsk Fysioterapeutforbund",
-  "source_page": "https://fysio.no/medlemsfordeler",
+  "source_page": "https://fysio.no/medlemskap/medlemsfordeler-og-rabatter",
   "discounts": [
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Trinnvis",
+      "discount_percentage": 30,
+      "description": "Trinnvis er utviklet i samarbeid med Norsk Fysioterapeutforbund, og du får 30 prosent rabatt på ditt abonnement. Trinnvis er et webbasert system for drift, HMS og kvalitet som hjelper deg å organisere praksisen din. Systemet er utviklet for både enkeltpersonforetak og gruppepraksiser. Les mer om rabatten hos Trinnvis .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://trinnvis.no/effektiv-og-trygg-fysioterapidrift/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Noteless",
+      "discount_percentage": 10,
+      "description": "10 prosent rabatt på abonnement for Noteless. For å benytte deg av rabatten må du velge bankkort som betalingsmetode ved kjøp av abonnement, og aktivere rabattkoden \"NFF10\". Les mer om rabattfordelen hos Noteless .",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://fysioprod.blob.core.windows.net/craft-assets/dokumenter/Om-Noteless-medlemsavtalen.pdf?v=1789553956"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Crowe",
+      "discount_percentage": 20,
+      "description": "20 prosent rabatt på bistand fra regnskapsfirmaet Crowe. Ta kontakt med Joachim Amundsen Trana på / tlf. 976 09 096.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://fysio.no/medlemskap/medlemsfordeler-og-rabatter"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Thon Hotels",
+      "discount_percentage": null,
+      "description": "Rabatt på overnatting Thon Hotels. Du får rabatt ved opphold som er knyttet til forbundets kurs og andre arrangementer, men også privat. Kontakt oss på for nærmere informasjon.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://fysio.no/medlemskap/medlemsfordeler-og-rabatter"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Norgesbooking",
+      "discount_percentage": null,
+      "description": "1000 kroner i rabatt ved leie av feriebolig 1 uke eller lenger. Rabatten er 500 kroner ved leie 6 døgn eller kortere. Les mer om rabattfordelen hos Norgesbooking på Unio.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/norgesbooking/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "De Historiske",
+      "discount_percentage": 10,
+      "description": "10 % rabatt på utvalgte hotell. De Historiske består av 66 hoteller, 23 spisesteder og 2 skip. Les mer om rabattfordelen på De Historiske på Unio.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/de-historiske/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Avis",
+      "discount_percentage": 30,
+      "description": "30 prosent på leiebil i Norge. Les mer og bestill via Unio.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/avis/"
+    },
     {
       "provider": "Norsk Fysioterapeutforbund",
       "retailer": "Garmin",
       "discount_percentage": null,
-      "description": "GPS-navigasjonsprodukter og smartteknologi for trening og fritid. Medlemmer får god rabatt på et utvalg produkter når de kjøper fra Garmins nettbutikk . Tilgjengelige produkter i utvalget spesifiseres ved hver forespørsel om rabatt. Spesielle rabattkoder kreves, og hver rabattkode som utleveres er begrenset til kjøp av ett hovedprodukt og ett tilbehør til produktet. Nærmere informasjon om produkter, rabattsatser og særlige vilkår i avtalen: se denne artikkelen . Ta kontakt med forbundets kontaktperson på e-post for å få tilsendt rabattkode: vr@fysio.no .",
+      "description": "Rabatt på et utvalg produkter i Garmins nettbutikk. Se vilkår og hvordan kjøpe . Ta kontakt på for rabattkode og oversikt over Garmin-produkter med rabatt.",
       "online_only": true,
       "requires_code": true,
-      "source_url": "https://www.garmin.com/nb-NO/"
+      "source_url": "https://fysioprod.blob.core.windows.net/craft-assets/dokumenter/Garmin-rabatt-%E2%80%93-vilk%C3%A5r-og-framgangsm%C3%A5te-m.m.pdf?v=1789983321"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Torshov Sport",
+      "discount_percentage": 20,
+      "description": "10–20 prosent rabatt i Torshov Sport både på nett og i butikk. Opptil 25 prosent på samlebestillinger. Ta kontakt på for kode og mer info.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://fysio.no/medlemskap/medlemsfordeler-og-rabatter"
     },
     {
       "provider": "Norsk Fysioterapeutforbund",
       "retailer": "Stormberg",
       "discount_percentage": 30,
-      "description": "30 % rabatt på et bredt utvalg av Stormbergs produkter. Merk at rabatten gis på ordinære varer på Stormbergs rabattside for Unio-medlemmer, ikke varer som allerede er nedsatt i pris (salgs-, lavpris- og outletvarer). Les omtale på Unios sider . Ta kontakt med NFF på vr@fysio.no for å få tilgang til Stormbergs rabattside.",
+      "description": "30 prosent rabatt på et bredt utvalg produkter gjennom Unio. Les mer om Stomberg-rabatten på Unio.no , eller ta kontakt på for tilgang til Stormbergs rabattside.",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.unio.no/medlemsprodukter/stormberg/"
     },
     {
       "provider": "Norsk Fysioterapeutforbund",
-      "retailer": "Torshov Sport",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": null,
+      "description": "Medlemmer i Unio-forbund får rabatt ved kjøp av elbil fra Bertel O. Steen AS. Rabatten gjelder elbiler fra Mercedes-Benz, Smart, KIA og Peugeot, Citröen, DS og Opel, hos forhandlere over hele landet. Se gjeldende rabattsatser (per 4. mai 2026). For å oppnå rabatten må du vise til Bertel O. Steens elbil-avtale med Unio og dokumentere Fysioterapeutene-medlemskapet ditt. Les mer om elbilfordelen fra Bertel O. Steen AS .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://fysioprod.blob.core.windows.net/craft-assets/dokumenter/2026-05-04_Rabattskjema.pdf?v=1789554757"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "BMW",
+      "discount_percentage": 8,
+      "description": "Unio har inngått en rammeavtale med BMW Norge AS som gir medlemmer hos Fysioterapeutene og andre Unio-forbund gunstige vilkår ved kjøp/leasing: 8 % rabatt på fossile/hybride BMW-modeller, 4 % rabatt på elektriske BMW-modeller. For å oppnå rabatten må medlemskap i Norsk Fysioterapeutforbund dokumenteres. Les mer om medlemsfordelen .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/bmw/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Esso",
       "discount_percentage": 20,
-      "description": "10–20 prosent rabatt på sportsutstyr i alle Torshov Sport-butikker og i nettbutikken. 25 prosent rabatt på visse samlebestillinger. Ta kontakt med NFF på vr@fysio.no for å motta Torshov Sports rabattkode og øvrige vilkår.",
-      "online_only": true,
-      "requires_code": true,
-      "source_url": "https://fysio.no/medlemsfordeler"
+      "description": "Esso drivstoffkort (Esso Mastercard) gir 52 øre i rabatt per liter bensin og diesel. I tillegg får du 20 prosent rabatt på bilvask. Se fordeler hos Esso (per oktober 2024). Les mer om Esso-fordelen på Unio.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://fysioprod.blob.core.windows.net/craft-assets/dokumenter/Esso-Mastercard-oppdatering-Unio-avtale-oktober-2024.pdf?v=1789562406"
     },
     {
       "provider": "Norsk Fysioterapeutforbund",
       "retailer": "Fjordkraft",
       "discount_percentage": null,
-      "description": "Strømavtale og mobilabonnement Norsk Fysioterapeutforbund har en medlemsfordelsavtale med Fjordkraft for strøm. Velger du strøm og mobilabonnement fra Fjordkraft sammen, kan du spare enda mer. Fjordkraft selger strøm til kunder over hele Norge. Les mer om medlemsfordelen",
+      "description": "Rabatt på strøm hos Fjordkraft, både for privatkunder og bedrifter. Velger du strøm og mobilabonnement fra Fjordkraft sammen, kan du spare enda mer. Fjordkraft selger strøm til kunder over hele Norge. Les mer om medlemsfordelen hos Fjordkraft .",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.fjordkraft.no/nff"
     },
     {
       "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Extra Optical",
+      "discount_percentage": 20,
+      "description": "20 prosent rabatt på briller og solbriller med styrke. Les mer og bestill hos Extra Opticals .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/extra-optical/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Cutters",
+      "discount_percentage": 20,
+      "description": "20 prosent rabatt på hårklipp. Les mer om Cutters-rabattfordelen på Unio.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/cutters/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
       "retailer": "Kunstverket Galleri",
       "discount_percentage": 25,
-      "description": "Kunstverket Galleri AS NFF-medlemmer får 25 % rabatt på innramming ved kjøp av kunst fra Kunstverkets nettgalleri eller galleriet deres i Kirkegata 5 i Oslo. Ved handel fra nettgalleriet må følgende tekst skrives i notatfeltet: \"Er medlem av Norsk Fysioterapeutforbund og får derfor 25 % rabatt på innramming\".",
+      "description": "25 prosent rabatt på innramming ved kjøp av kunst fra Kunstverkets nettgalleri eller galleriet deres i Kirkegata 5 i Oslo. Ved handel fra nettgalleriet må følgende tekst skrives i notatfeltet: \"Er medlem av Norsk Fysioterapeutforbund og får derfor 25 % rabatt på innramming\".",
       "online_only": false,
       "requires_code": false,
       "source_url": "http://kunstverket.no"

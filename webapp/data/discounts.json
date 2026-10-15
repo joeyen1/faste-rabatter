@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:53:26.305967+00:00",
+  "generated_at": "2026-10-15T12:56:33.864685+00:00",
   "sources": [
     {
       "provider": "DNB",
@@ -52,9 +52,9 @@
     },
     {
       "provider": "Norsk Fysioterapeutforbund",
-      "source_page": "https://fysio.no/medlemsfordeler",
+      "source_page": "https://fysio.no/medlemskap/medlemsfordeler-og-rabatter",
       "shared_discount_code": null,
-      "count": 5,
+      "count": 17,
       "fetched_at": null
     },
     {
@@ -62,13 +62,13 @@
       "source_page": "https://www.unio.no/medlemsprodukter/",
       "shared_discount_code": null,
       "count": 11,
-      "fetched_at": null
+      "fetched_at": "2026-10-15"
     },
     {
       "provider": "YS",
       "source_page": "https://ys.no/medlemsfordeler/",
       "shared_discount_code": null,
-      "count": 24,
+      "count": 26,
       "fetched_at": null
     },
     {
@@ -2895,18 +2895,18 @@
     },
     {
       "provider": "Akademikerforbundet",
-      "retailer": "Opplev kjøreglede med modeller fra BMW Norge AS",
+      "retailer": "BMW",
       "discount_percentage": 8,
-      "description": "Avtalen gir deg som medlem av et Unio-forbund gunstige vilkår ved kjøp/leasing av BMW-modeller. Medlemsrabatt fossile/hybride BMW-modeller: 8 prosent Medlemsrabatt elektriske BMW-modeller: 4 prosent Medlemsrabatten kan kombineres med nasjonale salgskampanjer fra BMW Norge AS og beregnes av veiledende bilpris, fabrikkmontert utstyr og eksklusive avgifter til staten. Merk at avtalen har en uttaksbegrensning på maksimalt to biler per kalenderår per medlem. Medlemskap i et Unio-forbund må verifiseres, for eksempel gjennom medlemsbevis, trekk gjennom lønnsslipp eller lignende. Les mer her",
+      "description": "Gjennom Unios avtale med BMW Norge AS får du som medlem gunstige vilkår ved kjøp eller leasing av BMW-modeller: Fossile og hybride modeller: 8 prosent rabatt Elektriske modeller: 4 prosent rabatt Rabatten beregnes av veiledende bilpris og kan kombineres med nasjonale salgskampanjer. Merk at avtalen gjelder inntil to biler per medlem per kalenderår. Medlemskap må verifiseres ved kjøp.",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.unio.no/medlemsprodukter/bmw/"
     },
     {
       "provider": "Akademikerforbundet",
-      "retailer": "Rabattavtale på elbil",
+      "retailer": "Bertel O. Steen",
       "discount_percentage": null,
-      "description": "Hovedorganisasjonen Unio vil være en pådriver for det grønne skiftet. Unio har fremforhandlet en gunstig rabattavtale med Bertel O. Steen AS, for sine medlemmer. Avtalen innebærer rabatt på elektriske personbiler fra Mercedes-Benz, Smart, KIA, Peugeot, Citroën, DS og Opel. Bertel O. Steen AS er en av Nordens største aktører innen salg og servicetjenester for personbiler, varebiler, lastebiler og busser. Bertel O. Steen forhandler og tilbyr autoriserte verksteder for merkene Mercedes-Benz, Smart®, Kia, Opel, Peugeot, Citroën og DS. Du finner hel- og deleide forhandlere i hele Norge, fra Kristiansand i sør til Alta i nord. Rabatten gjelder hos alle disse forhandlerne. Ønsker du å kjøpe bil på disse gunstige betingelsene, oppsøker du nærmeste forhandler av bilmerket og medbringende bekreftelse på ditt medlemskap i ditt forbund. Se videre informasjon HER",
+      "description": "Unio vil være en pådriver for det grønne skiftet, og har fremforhandlet rabatt på elektriske personbiler fra Mercedes-Benz, Smart, KIA, Peugeot, Citroën, DS og Opel gjennom Bertel O. Steen AS. Rabatten gjelder hos alle forhandlere i Norge. Ta med bekreftelse på medlemskap når du oppsøker forhandler. Les mer informasjon her .",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.unio.no/medlemsprodukter/bertel-o-steen/"
@@ -2915,61 +2915,61 @@
       "provider": "Akademikerforbundet",
       "retailer": "Esso",
       "discount_percentage": 20,
-      "description": "Akademikerforbundet har avtale med Esso Mastercard Om Esso Mastercard: 1. januar 2019 øker drivstoffrabatten din hos Esso til 52 øre* per liter. Så nå kan du kjøre til jobben, eller dra på tur, og vite at du har en av markedets beste drivstoffrabatter! Glem heller ikke at du også har 20 % rabatt på bilvask og hver 6. vask gratis** i tillegg til mange andre gode fordeler i ditt Esso Mastercard. Har du ikke allerede et Esso Mastercard? Søk om kortet her: https://www.unio.no/medlemsprodukter/esso-mastercard/ Effektiv rente ved kreditt på kr 15 000 o/12 mnd. er 31,13 %. Total kredittkostnad kr 1 947. * Drivstoffrabatten forutsetter bruk av et Esso Mastercard på Esso-stasjoner i Norge. **Når du bruker rabatthefte på stasjoner som tilbyr dette. Full utnyttelse av den økonomiske gevinsten med rabatt, forutsetter at utestående kreditt betales ved forfall, slik at det ikke påløper renter.",
+      "description": "Med Esso Mastercard får du 52 øre i drivstoffrabatt per liter på Esso-stasjoner i Norge, 20 prosent rabatt på bilvask og hver sjette vask gratis. Har du ikke allerede et Esso Mastercard? Søk her!",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.akademikerforbundet.no/medlemskap/medlemsfordeler/bil/"
+      "source_url": "https://www.unio.no/medlemsprodukter/esso-mastercard/"
     },
     {
       "provider": "Akademikerforbundet",
-      "retailer": "Avis Bilutleie",
+      "retailer": "Avis",
       "discount_percentage": 30,
-      "description": "Inntil 30 % rabatt på leie av personbiler og varebiler i Norge. Rabatten gjelder ikke på forsikring, servicegebyrer, mva., Prestige biler, weekend- eller månedsleie. Slik får du Unio-rabatten: Oppgi rabattnummer W330405 ved bestilling Ved bestilling på avis.no, oppgi rabattkode (AWD-nummer) eller bestill via url nedenfor Du kan også bestille på telefon 66 77 10 10 Gyldig bevis for medlemskap i ditt forbund, samt førerkort fremvises ved henting av leiebilen Se detaljer her.",
+      "description": "Få inntil 30 prosent rabatt på leie av personbiler og varebiler i Norge gjennom Avis. Oppgi rabattnummer W330405 ved bestilling, eller benytt rabattkoden ved bestilling på avis.no. Gyldig medlemsbevis og førerkort må fremvises ved henting. Les mer informasjon her .",
       "online_only": false,
       "requires_code": true,
-      "source_url": "https://www.avis.no/leiebil-tilbud/partnere/andre-partnere/unio"
+      "source_url": "https://www.avis.no/leiebil-tilbud/partnere/andre-partnere/unio#"
     },
     {
       "provider": "Akademikerforbundet",
-      "retailer": "Hytteleie hos Norgesbooking",
+      "retailer": "Norgesbooking",
       "discount_percentage": null,
-      "description": "Lei en hytte via Norgesbooking fra kun 299,- per natt Eksklusivt tilbud til UNIO medlemmer. Få kr 1 000,- i rabatt ved leie av hytte for opphold på 1 uke eller lenger, eller kr 500,- for opphold fra 2 til 6 netter. Her kan du finne din perfekte hytte , og ved å legge inn rabattkode «UNIO1000» eller «UNIO500» får du rabatten fratrukket i bestillingen. Vi har mange filter som hjelper deg å finne riktig hytte, som f. eks WiFi, fjellhytter, peis, båt inkludert, antall personer, husdyr tillatt og mer. Velg mellom hundrevis av hytter over hele landet under menypunkt «Se alle hytter» hvor du kan velge ønsket destinasjon. Medlemmer i UNIO-tilsluttede forbund som ønsker å leie ut sin private hytte betaler ikke årlig oppførings- og vedlikeholdsavgift, som ordinært er på kroner 950 (+ mva.) per år. Booking av feriebolig Bookinger hos Norgesbooking kan gjøres via online booking, per telefon eller per e-post. På våre nettsider kan du søke på ønsket dato, eller om du vet eksakt hvilket sted du ønsker å reise til, kan du se alle hytter på en bestemt destinasjon. For booking på vår nettside oppgir du koden UNIO500 eller UNIO1000 i kampanjekodefeltet, og du vil få innvilget rabatt med en gang. Samme kode oppgis per telefon eller mail. Vi på servicekontoret er tilgjengelig for hjelp og råd for å finne riktig hytte eller svare på andre spørsmål. Hytter med * bak, kan vi kun innvilge rabatt på forespørsel. Vi har generelt en aldersgrense på 23 år ved leie av hytter, men det er unntak på hytter hvor det noen steder er lavere aldersgrense og noen få steder høyere. Om Norgesbooking Norgesbooking AS ble etablert høsten 2001, og var den gangen blant de aller første utleieformidlere som startet en forretningsplattform utelukkende basert på Internett. I februar 2002 ble våre nettsider lansert med cirka 30 utleiehytter. I dag tilbyr vi ca. 500 ferieboliger fordelt rundt i hele Norge! Vi tilbyr ferieboliger, ved både kjente og mindre kjente destinasjoner i Norge. Her finner du alt fra enkle, små hytter uten strøm og vann, til store luksushytter med alle tenkelige fasiliteter. E-post : post@norgesbooking.no Telefon : +47 32 08 57 10",
-      "online_only": false,
-      "requires_code": true,
-      "source_url": "https://www.norgesbooking.no/"
-    },
-    {
-      "provider": "Akademikerforbundet",
-      "retailer": "Thon Hotel",
-      "discount_percentage": 14,
-      "description": "Avtalen er en rom/frokostavtale som gir 14% rabatt på alle Thon Hotel i Norge bortsett fra TH Cecil hvor det er 16 %. Rabattkode: THC2556",
+      "description": "Lei hytte fra kun 299 kroner per natt gjennom Norgesbooking. Som Unio-medlem får du: 1 000 kroner i rabatt ved leie av én uke eller lenger (kode: UNIO1000) 500 kroner i rabatt ved leie fra 2 til 6 netter (kode: UNIO500) Velg blant hundrevis av hytter over hele Norge, fra enkle fjellhytter til luksushytter med alle fasiliteter. Vi har mange filter som hjelper deg å finne riktig hytte, som for eksempel WiFi, fjellhytter, peis, båt inkludert, antall personer, husdyr tillatt og mer. Legg inn rabattkoden i kampanjekodefeltet ved bestilling på norgesbooking.no.",
       "online_only": false,
       "requires_code": true,
       "source_url": "https://www.akademikerforbundet.no/medlemskap/medlemsfordeler/ferie/"
     },
     {
       "provider": "Akademikerforbundet",
-      "retailer": "De Historiske Hotel & Spisestede",
-      "discount_percentage": 10,
-      "description": "Medlemmer av Unios forbund gis 10 prosent rabatt på utvalgte historiske hotell . Via denne avtalen er det også rabatt på Britannia Hotel.",
+      "retailer": "Thon Hotels",
+      "discount_percentage": 14,
+      "description": "Få 14 prosent rabatt på rom med frokost på alle Thon Hotels i Norge (16 prosent på Thon Hotel Cecil). Oppgi rabattkode THC2556 ved bestilling.",
       "online_only": false,
-      "requires_code": false,
+      "requires_code": true,
+      "source_url": "https://www.akademikerforbundet.no/medlemskap/medlemsfordeler/ferie/"
+    },
+    {
+      "provider": "Akademikerforbundet",
+      "retailer": "De Historiske",
+      "discount_percentage": 10,
+      "description": "Som Unio-medlem får du 10 prosent rabatt på utvalgte historiske hotell og spisestedene, inkludert Britannia Hotel. Se hele oversikten på Unios nettsider . Hytteleie hos Norgesbooking Lei en hytte via Norgesbooking fra kun 299,- per natt Eksklusivt tilbud til UNIO medlemmer. Få kr 1 000,- i rabatt ved leie av hytte for opphold på 1 uke eller lenger, eller kr 500,- for opphold fra 2 til 6 netter. Her kan du finne din perfekte hytte , og ved å legge inn rabattkode «UNIO1000» eller «UNIO500» får du rabatten fratrukket i bestillingen. Vi har mange filter som hjelper deg å finne riktig hytte, som f. eks WiFi, fjellhytter, peis, båt inkludert, antall personer, husdyr tillatt og mer. Velg mellom hundrevis av hytter over hele landet under menypunkt «Se alle hytter» hvor du kan velge ønsket destinasjon. Medlemmer i UNIO-tilsluttede forbund som ønsker å leie ut sin private hytte betaler ikke årlig oppførings- og vedlikeholdsavgift, som ordinært er på kroner 950 (+ mva.) per år. Booking av feriebolig Bookinger hos Norgesbooking kan gjøres via online booking, per telefon eller per e-post. På våre nettsider kan du søke på ønsket dato, eller om du vet eksakt hvilket sted du ønsker å reise til, kan du se alle hytter på en bestemt destinasjon. For booking på vår nettside oppgir du koden UNIO500 eller UNIO1000 i kampanjekodefeltet, og du vil få innvilget rabatt med en gang. Samme kode oppgis per telefon eller mail. Vi på servicekontoret er tilgjengelig for hjelp og råd for å finne riktig hytte eller svare på andre spørsmål. Hytter med * bak, kan vi kun innvilge rabatt på forespørsel. Vi har generelt en aldersgrense på 23 år ved leie av hytter, men det er unntak på hytter hvor det noen steder er lavere aldersgrense og noen få steder høyere. Om Norgesbooking Norgesbooking AS ble etablert høsten 2001, og var den gangen blant de aller første utleieformidlere som startet en forretningsplattform utelukkende basert på Internett. I februar 2002 ble våre nettsider lansert med cirka 30 utleiehytter. I dag tilbyr vi ca. 500 ferieboliger fordelt rundt i hele Norge! Vi tilbyr ferieboliger, ved både kjente og mindre kjente destinasjoner i Norge. Her finner du alt fra enkle, små hytter uten strøm og vann, til store luksushytter med alle tenkelige fasiliteter. E-post : post@norgesbooking.no Telefon : +47 32 08 57 10 Thon Hotel Avtalen er en rom/frokostavtale som gir 14% rabatt på alle Thon Hotel i Norge bortsett fra TH Cecil hvor det er 16 %. Rabattkode: THC2556",
+      "online_only": false,
+      "requires_code": true,
       "source_url": "https://www.unio.no/medlemsprodukter/de-historiske/"
     },
     {
       "provider": "Akademikerforbundet",
       "retailer": "Stormberg",
       "discount_percentage": 30,
-      "description": "Medlemmer i Unio får 30 % rabatt på utvalgte produkter hos Stormberg. Følg denne lenken for å se utvalget.",
+      "description": "Medlemmer i Unio får 30 prosent rabatt på utvalgte produkter hos Stormberg. Stormberg tilbyr et bredt utvalg av friluftsutstyr og klær for hele familien. Bruk rabattkoden UNIO-xAstb, og se utvalget her .",
       "online_only": false,
-      "requires_code": false,
+      "requires_code": true,
       "source_url": "https://www.stormberg.com/no/kampanje/unio"
     },
     {
       "provider": "Akademikerforbundet",
-      "retailer": "Akademika.no",
+      "retailer": "Akademika",
       "discount_percentage": 10,
-      "description": "Legg inn koden\"HBAKAansa\"på akademika.no. Norske fagbøker som ikke er bundet av fastpris: 10%.* Utenlandske bøker 10% Rekvisita 10% Fri frakt på ordrer fra og med kr 299,- til norske adresser. *Alle Norske Bøker er bundet av fastpris i 12 mnd fra utgivelsesdato, og dermed har ingen bokhandlere lov å gi rabatt på disse. (Ny boklov fra 01.01.2024). Alle rabatter er fra veiledende priser. Altså ikke på toppen av tilbudspriser.",
+      "description": "Legg inn koden HBAKAansa på akademika.no og få følgende rabatter: 10 prosent på norske fagbøker som ikke er underlagt fastpris 10 prosent på utenlandske bøker 10 prosent på rekvisita Fri frakt på ordrer fra 299 kroner til norske adresser Merk at norske bøker er underlagt fastpris i 12 måneder fra utgivelsesdato, og at rabatter ikke kan kombineres med tilbudspriser.",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.akademikerforbundet.no/medlemskap/medlemsfordeler/boker-og-tidsskrifter/"
@@ -2978,19 +2978,19 @@
       "provider": "Akademikerforbundet",
       "retailer": "Cutters",
       "discount_percentage": 20,
-      "description": "Unios medlemsfordeler gir deg hele 20 prosent rabatt på hårklipp hos Cutters. Cutters er en leverandør av frisørtjenester med salonger over hele Norge. Selskapets forretningskonsept er basert på effektivitet, tilgjengelighet og en standardisert pris for hårklipp, uavhengig av kjønn eller type klipp. Bestilling skjer via selskapets applikasjon eller nettside. Anvend koden samhold20 i appen eller på cutters.no. Rabattkoden gjelder alle i din husstand. Du kan lese mer om medlemsfordelen hos Cutters",
+      "description": "Få 20 prosent rabatt på hårklipp hos Cutters med kode samhold20. Rabatten gjelder alle i husstanden din og kan brukes på alle Cutters-salonger i Norge. Bestill time via Cutters-appen eller cutters.no.",
       "online_only": false,
-      "requires_code": true,
-      "source_url": "https://cutters.no/uniorabatt"
+      "requires_code": false,
+      "source_url": "https://www.akademikerforbundet.no/medlemskap/medlemsfordeler/diverse-medlemsfordeler/"
     },
     {
       "provider": "Akademikerforbundet",
-      "retailer": "Extra Opticals",
+      "retailer": "Extra Optical",
       "discount_percentage": 20,
-      "description": "20 prosent rabatt på Extra Opticals allerede rimelige briller og solbriller med styrke. Det er tid for å spare penger der en kan. Er du langsynt, nærsynt eller har skjeve hornhinner ? Medlemsfordelen kan hjelpe deg til en rimeligere pris uansett brillebehov. Bruk rabattkoden du finner på Unios sider om medlemsfordeler i kassen . Da får du 20 prosent rabatt på briller og solbriller merket eo Selection.",
+      "description": "Få 20 prosent rabatt på briller og solbriller med styrke hos Extra Optical. Rabatten gjelder produkter merket eo Selection. Finn rabattkoden på Unios nettsider og legg den inn i kassen ved bestilling.",
       "online_only": false,
       "requires_code": true,
-      "source_url": "https://www.unio.no/medlemsprodukter/extra-optical/"
+      "source_url": "https://www.akademikerforbundet.no/medlemskap/medlemsfordeler/diverse-medlemsfordeler/"
     },
     {
       "provider": "Kobbl",
@@ -3462,45 +3462,153 @@
     },
     {
       "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Trinnvis",
+      "discount_percentage": 30,
+      "description": "Trinnvis er utviklet i samarbeid med Norsk Fysioterapeutforbund, og du får 30 prosent rabatt på ditt abonnement. Trinnvis er et webbasert system for drift, HMS og kvalitet som hjelper deg å organisere praksisen din. Systemet er utviklet for både enkeltpersonforetak og gruppepraksiser. Les mer om rabatten hos Trinnvis .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://trinnvis.no/effektiv-og-trygg-fysioterapidrift/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Noteless",
+      "discount_percentage": 10,
+      "description": "10 prosent rabatt på abonnement for Noteless. For å benytte deg av rabatten må du velge bankkort som betalingsmetode ved kjøp av abonnement, og aktivere rabattkoden \"NFF10\". Les mer om rabattfordelen hos Noteless .",
+      "online_only": false,
+      "requires_code": true,
+      "source_url": "https://fysioprod.blob.core.windows.net/craft-assets/dokumenter/Om-Noteless-medlemsavtalen.pdf?v=1789553956"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Crowe",
+      "discount_percentage": 20,
+      "description": "20 prosent rabatt på bistand fra regnskapsfirmaet Crowe. Ta kontakt med Joachim Amundsen Trana på / tlf. 976 09 096.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://fysio.no/medlemskap/medlemsfordeler-og-rabatter"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Thon Hotels",
+      "discount_percentage": null,
+      "description": "Rabatt på overnatting Thon Hotels. Du får rabatt ved opphold som er knyttet til forbundets kurs og andre arrangementer, men også privat. Kontakt oss på for nærmere informasjon.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://fysio.no/medlemskap/medlemsfordeler-og-rabatter"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Norgesbooking",
+      "discount_percentage": null,
+      "description": "1000 kroner i rabatt ved leie av feriebolig 1 uke eller lenger. Rabatten er 500 kroner ved leie 6 døgn eller kortere. Les mer om rabattfordelen hos Norgesbooking på Unio.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/norgesbooking/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "De Historiske",
+      "discount_percentage": 10,
+      "description": "10 % rabatt på utvalgte hotell. De Historiske består av 66 hoteller, 23 spisesteder og 2 skip. Les mer om rabattfordelen på De Historiske på Unio.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/de-historiske/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Avis",
+      "discount_percentage": 30,
+      "description": "30 prosent på leiebil i Norge. Les mer og bestill via Unio.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/avis/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
       "retailer": "Garmin",
       "discount_percentage": null,
-      "description": "GPS-navigasjonsprodukter og smartteknologi for trening og fritid. Medlemmer får god rabatt på et utvalg produkter når de kjøper fra Garmins nettbutikk . Tilgjengelige produkter i utvalget spesifiseres ved hver forespørsel om rabatt. Spesielle rabattkoder kreves, og hver rabattkode som utleveres er begrenset til kjøp av ett hovedprodukt og ett tilbehør til produktet. Nærmere informasjon om produkter, rabattsatser og særlige vilkår i avtalen: se denne artikkelen . Ta kontakt med forbundets kontaktperson på e-post for å få tilsendt rabattkode: vr@fysio.no .",
+      "description": "Rabatt på et utvalg produkter i Garmins nettbutikk. Se vilkår og hvordan kjøpe . Ta kontakt på for rabattkode og oversikt over Garmin-produkter med rabatt.",
       "online_only": true,
       "requires_code": true,
-      "source_url": "https://www.garmin.com/nb-NO/"
+      "source_url": "https://fysioprod.blob.core.windows.net/craft-assets/dokumenter/Garmin-rabatt-%E2%80%93-vilk%C3%A5r-og-framgangsm%C3%A5te-m.m.pdf?v=1789983321"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Torshov Sport",
+      "discount_percentage": 20,
+      "description": "10–20 prosent rabatt i Torshov Sport både på nett og i butikk. Opptil 25 prosent på samlebestillinger. Ta kontakt på for kode og mer info.",
+      "online_only": true,
+      "requires_code": false,
+      "source_url": "https://fysio.no/medlemskap/medlemsfordeler-og-rabatter"
     },
     {
       "provider": "Norsk Fysioterapeutforbund",
       "retailer": "Stormberg",
       "discount_percentage": 30,
-      "description": "30 % rabatt på et bredt utvalg av Stormbergs produkter. Merk at rabatten gis på ordinære varer på Stormbergs rabattside for Unio-medlemmer, ikke varer som allerede er nedsatt i pris (salgs-, lavpris- og outletvarer). Les omtale på Unios sider . Ta kontakt med NFF på vr@fysio.no for å få tilgang til Stormbergs rabattside.",
+      "description": "30 prosent rabatt på et bredt utvalg produkter gjennom Unio. Les mer om Stomberg-rabatten på Unio.no , eller ta kontakt på for tilgang til Stormbergs rabattside.",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.unio.no/medlemsprodukter/stormberg/"
     },
     {
       "provider": "Norsk Fysioterapeutforbund",
-      "retailer": "Torshov Sport",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": null,
+      "description": "Medlemmer i Unio-forbund får rabatt ved kjøp av elbil fra Bertel O. Steen AS. Rabatten gjelder elbiler fra Mercedes-Benz, Smart, KIA og Peugeot, Citröen, DS og Opel, hos forhandlere over hele landet. Se gjeldende rabattsatser (per 4. mai 2026). For å oppnå rabatten må du vise til Bertel O. Steens elbil-avtale med Unio og dokumentere Fysioterapeutene-medlemskapet ditt. Les mer om elbilfordelen fra Bertel O. Steen AS .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://fysioprod.blob.core.windows.net/craft-assets/dokumenter/2026-05-04_Rabattskjema.pdf?v=1789554757"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "BMW",
+      "discount_percentage": 8,
+      "description": "Unio har inngått en rammeavtale med BMW Norge AS som gir medlemmer hos Fysioterapeutene og andre Unio-forbund gunstige vilkår ved kjøp/leasing: 8 % rabatt på fossile/hybride BMW-modeller, 4 % rabatt på elektriske BMW-modeller. For å oppnå rabatten må medlemskap i Norsk Fysioterapeutforbund dokumenteres. Les mer om medlemsfordelen .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/bmw/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Esso",
       "discount_percentage": 20,
-      "description": "10–20 prosent rabatt på sportsutstyr i alle Torshov Sport-butikker og i nettbutikken. 25 prosent rabatt på visse samlebestillinger. Ta kontakt med NFF på vr@fysio.no for å motta Torshov Sports rabattkode og øvrige vilkår.",
-      "online_only": true,
-      "requires_code": true,
-      "source_url": "https://fysio.no/medlemsfordeler"
+      "description": "Esso drivstoffkort (Esso Mastercard) gir 52 øre i rabatt per liter bensin og diesel. I tillegg får du 20 prosent rabatt på bilvask. Se fordeler hos Esso (per oktober 2024). Les mer om Esso-fordelen på Unio.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://fysioprod.blob.core.windows.net/craft-assets/dokumenter/Esso-Mastercard-oppdatering-Unio-avtale-oktober-2024.pdf?v=1789562406"
     },
     {
       "provider": "Norsk Fysioterapeutforbund",
       "retailer": "Fjordkraft",
       "discount_percentage": null,
-      "description": "Strømavtale og mobilabonnement Norsk Fysioterapeutforbund har en medlemsfordelsavtale med Fjordkraft for strøm. Velger du strøm og mobilabonnement fra Fjordkraft sammen, kan du spare enda mer. Fjordkraft selger strøm til kunder over hele Norge. Les mer om medlemsfordelen",
+      "description": "Rabatt på strøm hos Fjordkraft, både for privatkunder og bedrifter. Velger du strøm og mobilabonnement fra Fjordkraft sammen, kan du spare enda mer. Fjordkraft selger strøm til kunder over hele Norge. Les mer om medlemsfordelen hos Fjordkraft .",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.fjordkraft.no/nff"
     },
     {
       "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Extra Optical",
+      "discount_percentage": 20,
+      "description": "20 prosent rabatt på briller og solbriller med styrke. Les mer og bestill hos Extra Opticals .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/extra-optical/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
+      "retailer": "Cutters",
+      "discount_percentage": 20,
+      "description": "20 prosent rabatt på hårklipp. Les mer om Cutters-rabattfordelen på Unio.no .",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.unio.no/medlemsprodukter/cutters/"
+    },
+    {
+      "provider": "Norsk Fysioterapeutforbund",
       "retailer": "Kunstverket Galleri",
       "discount_percentage": 25,
-      "description": "Kunstverket Galleri AS NFF-medlemmer får 25 % rabatt på innramming ved kjøp av kunst fra Kunstverkets nettgalleri eller galleriet deres i Kirkegata 5 i Oslo. Ved handel fra nettgalleriet må følgende tekst skrives i notatfeltet: \"Er medlem av Norsk Fysioterapeutforbund og får derfor 25 % rabatt på innramming\".",
+      "description": "25 prosent rabatt på innramming ved kjøp av kunst fra Kunstverkets nettgalleri eller galleriet deres i Kirkegata 5 i Oslo. Ved handel fra nettgalleriet må følgende tekst skrives i notatfeltet: \"Er medlem av Norsk Fysioterapeutforbund og får derfor 25 % rabatt på innramming\".",
       "online_only": false,
       "requires_code": false,
       "source_url": "http://kunstverket.no"
@@ -3606,12 +3714,12 @@
     },
     {
       "provider": "YS",
-      "retailer": "Gjensidige",
-      "discount_percentage": null,
-      "description": "Uansett hvor du skal, til varmere strøk eller en biltur i nord, så gjelder reiseforsikringen til Gjensidige fra du drar hjemmefra. Du kan kjøpe helårs reiseforsikring til medlemspris, som gjelder for deg og hele familien. Egne barn, bonus- og fosterbarn er dekket til de er 20 år.",
+      "retailer": "Gjensidige forsikring",
+      "discount_percentage": 60,
+      "description": "Som medlem i et YS-forbund får du svært gode rabatter på forsikring hos Gjensidige, som noe over 60% av medlemmene benytter seg av!",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.gjensidige.no/salg-api/open/dispatcher/ys/bil?x-client-id=ys&utm_id=vpir12&utm_source=ys&utm_medium=affiliate&utm_campaign=sommer-partner_lenke-nettside"
+      "source_url": "https://ys.no/medlemsfordeler/gjensidige/"
     },
     {
       "provider": "YS",
@@ -3624,9 +3732,36 @@
     },
     {
       "provider": "YS",
+      "retailer": "Storytel",
+      "discount_percentage": 20,
+      "description": "Som YS-medlem får du 30 dager gratis Storytel Premium, og deretter 20 % rabatt på abonnementet.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.storytel.com/no/c/no_partnership_ys_prem_30d20p?utm_source=partnership&utm_medium=Partner&utm_campaign=30dfree20%%20"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Stormberg",
+      "discount_percentage": 25,
+      "description": "25% rabatt! Enten du skal ut på tur, trenger noe nytt til høstens aktiviteter eller bare vil være klar for norsk vær – hos Stormberg finner du klær og utstyr for et aktivt friluftsliv",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.stormberg.com/no/kampanje/ys"
+    },
+    {
+      "provider": "YS",
+      "retailer": "SnapDrive",
+      "discount_percentage": 15,
+      "description": "Som YS-medlem får du 15% rabatt på service og lagerførte deler hos Snap Drive",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://ys.no/snap-drive/"
+    },
+    {
+      "provider": "YS",
       "retailer": "Radisson hotels",
       "discount_percentage": 20,
-      "description": "Her får du som YS-medlem rabatt på 10-20 %. NB! For å få rabatten må dere benytte koden 090673. Koden skal skrives inn i feltet «Corporate Account ID/Bedriftskonto-ID»",
+      "description": "Her får du som YS-medlem rabatt på 10-20 %. NB! For å få rabatten må dere benytte koden 090673. Koden skal skrives inn i feltet \"Corporate Account ID/Bedriftskonto-ID\"",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.radissonhotels.com/no-no/"
@@ -3638,7 +3773,7 @@
       "description": "Ny og svært god medlemsfordel på inn- og utvendig solskjerming, gardinlengder og garasjeporter! Medlemsrabatt HELE året på ALLE produkter",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.markisemannen.no/ys-fordel/?utm_source=ys_fordel&utm_medium=partner&utm_campaign=ys_fordel_2026"
+      "source_url": "https://www.markisemannen.no/ys-fordel/?utm_source=ys_fordel&utm_medium=partner&utm_campaign=ys_fordel_2026%20"
     },
     {
       "provider": "YS",
@@ -3651,7 +3786,7 @@
     },
     {
       "provider": "YS",
-      "retailer": "Kinoklubb",
+      "retailer": "Kinoklubben",
       "discount_percentage": 40,
       "description": "Se gode filmer på kino til halv pris! YS-medlemmer får 40 % rabatt og 2 medlemskap til prisen av 1 hos Kinoklubben! Medlemskapet gjelder på over 120 kinoer i hele landet, og gir halv pris på minst 12 kinofilmer hvert år.",
       "online_only": false,
@@ -3669,7 +3804,7 @@
     },
     {
       "provider": "YS",
-      "retailer": "Kinogavekort",
+      "retailer": "Filmweb",
       "discount_percentage": 10,
       "description": "10% rabatt på Filmweb Kinogavekort Alle medlemmer får 10% rabatt på Filmweb Kinogavekort. Gavekortet kan brukes til kjøp av både kinobilletter og kioskvarer i hele landet. Du kan selv velge beløp, antall gavekort og skrive en hyggelig hilsen.",
       "online_only": false,
@@ -3678,7 +3813,7 @@
     },
     {
       "provider": "YS",
-      "retailer": "Konfidens",
+      "retailer": "Nion",
       "discount_percentage": null,
       "description": "Samtaleterapi og psykologisk rådgivning Når hverdagen føles overveldende kan Nion hjelpe deg med samtaleterapi og psykologisk rådgivning til deg som er YS medlem og din nærmeste familie.",
       "online_only": false,
@@ -3701,7 +3836,7 @@
       "description": "25% rabatt på leiebil hos Avis. Benytt kode X199101. Avtalen gjelder ukedager og ikke i helger, og kun i Norge.",
       "online_only": false,
       "requires_code": true,
-      "source_url": "https://www.avis.no/leiebil-tilbud/partnere/andre-partnere/ys"
+      "source_url": "https://www.avis.no/leiebil-tilbud/partnere/andre-partnere/ys%20"
     },
     {
       "provider": "YS",
@@ -3719,7 +3854,7 @@
       "description": "Som medlem av YS får du 20% på første års medlemskap i Redningsselskapet på assistansemedlemskap og RS-medlem",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://rs.no/ys-medlemsfordel/"
+      "source_url": "https://ys.no/medlemsfordeler/"
     },
     {
       "provider": "YS",
@@ -3743,7 +3878,7 @@
       "provider": "YS",
       "retailer": "Strawberry",
       "discount_percentage": 18,
-      "description": "18% rabatt på hotell i Norge, Norden og Baltikum i weekend og skoleferie.",
+      "description": "15-18% rabatt på hotell i Norge, Norden og Baltikum i weekend og skoleferie.",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.strawberry.no/ys/?utm_medium=partnerships&utm_source=partnerships&utm_campaign=LPA&utm_content=YS%20Medlemsf%C3%B8rdeler"
@@ -3810,15 +3945,6 @@
       "online_only": false,
       "requires_code": false,
       "source_url": "https://ultify.io/profile/mitt-lederunivers"
-    },
-    {
-      "provider": "YS",
-      "retailer": "Yskarriereveiviser",
-      "discount_percentage": null,
-      "description": "Er du på jakt etter ny jobb, eller ønsker du å styrke dine muligheter i den jobben du har nå?",
-      "online_only": false,
-      "requires_code": false,
-      "source_url": "https://yskarriereveiviser.inflow24.com/landing-page"
     },
     {
       "provider": "NITO",

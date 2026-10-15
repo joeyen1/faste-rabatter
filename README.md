@@ -92,22 +92,22 @@ kaller så samme API. Ingen hemmeligheter er hardkodet - subscription-keyen
 er offentlig i sidens egen JS-bunt, og tokenet fornyes automatisk hver gang
 siden lastes.
 
-### Norsk Fysioterapeutforbund henter kun det som er unikt
+### Norsk Fysioterapeutforbund
 
-`fysio.no/medlemsfordeler` er en HubSpot-side med en accordion der de
-fleste fanene er generiske forbundstjenester eller en gjenfortelling av
-Unios sentrale avtaler (dekket av `unio_medlemsprodukter.py`). Skraperen
-plukker derfor bare ut de reelt NFF-unike butikkrabattene (Garmin,
-Stormberg, Torshov Sport, Fjordkraft, Kunstverket Galleri) - 5 tilbud.
+`fysio_medlemsfordeler.py` leser accordion-listen (`fy-accordion`) på
+`fysio.no/medlemskap/medlemsfordeler-og-rabatter` (gamle `/medlemsfordeler`
+redirecter dit). 17 butikkrabatter; generiske finans-/bankavtaler (Nordea,
+pensjon, billån, inkasso) er hoppet over. Avtaler som også finnes hos Unio
+beholdes bevisst - samme rabatt gjelder for flere forbund.
 
-### Unio er hovedorganisasjonen bak flere av forbundene
+### Unio er et manuelt øyeblikksbilde
 
-`unio_medlemsprodukter.py` henter Unios 11 sentrale medlemsprodukter
-(Avis, BMW, Cutters, Extra Optical, Stormberg, Nordea, m.fl.). Disse er
-samme avtaler som ofte dukker opp igjen hos tilsluttede forbund som
-Akademikerforbundet og Norsk Fysioterapeutforbund - det er forventet og
-gir et poeng: samme rabatt kan gjelde uansett hvilket Unio-forbund du er
-medlem av.
+`unio.no` ligger bak Cloudflare som blokkerer skript (403) siden høsten
+2026, og det omgår vi ikke. `unio_medlemsprodukter.json` (11 produkter) er
+derfor et øyeblikksbilde, sist verifisert i nettleser 2026-10-15.
+`unio_medlemsprodukter.py` beholder filen uendret når den møter 403. For å
+oppdatere: åpne https://www.unio.no/medlemsprodukter/ i en vanlig nettleser,
+og rediger JSON-filen for hånd.
 
 ### YS og NITO er egne hovedorganisasjoner/forbund
 
@@ -202,9 +202,9 @@ Hvert rabatt-objekt i `discounts.json` ser slik ut:
 - **Kobbl**: 42 rabatter, hentet fra et skjult API (se over). Både bonus-
   og rabattprosent finnes i dataene; `discount_percentage` prioriterer
   selve rabatten fremfor bonus (cashback).
-- **Norsk Fysioterapeutforbund**: 5 rabatter (kun NFF-unike, se over).
-- **Unio**: 11 rabatter (sentrale medlemsprodukter, se over).
-- **YS**: 24 rabatter.
+- **Norsk Fysioterapeutforbund**: 17 rabatter (se over).
+- **Unio**: 11 rabatter, manuelt øyeblikksbilde (se over).
+- **YS**: 26 rabatter (siden bruker nå `.fordeler-card`; gammelt oppsett er beholdt som reserve).
 - **NITO**: 30 rabatter (kun "Rabatter"-kategorien, se over).
 - **Pensjonistforbundet**: 33 rabatter, hentet fra Next.js/Contentful-data
   (se over).

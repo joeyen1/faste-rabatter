@@ -4,12 +4,12 @@
   "discounts": [
     {
       "provider": "YS",
-      "retailer": "Gjensidige",
-      "discount_percentage": null,
-      "description": "Uansett hvor du skal, til varmere strøk eller en biltur i nord, så gjelder reiseforsikringen til Gjensidige fra du drar hjemmefra. Du kan kjøpe helårs reiseforsikring til medlemspris, som gjelder for deg og hele familien. Egne barn, bonus- og fosterbarn er dekket til de er 20 år.",
+      "retailer": "Gjensidige forsikring",
+      "discount_percentage": 60,
+      "description": "Som medlem i et YS-forbund får du svært gode rabatter på forsikring hos Gjensidige, som noe over 60% av medlemmene benytter seg av!",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.gjensidige.no/salg-api/open/dispatcher/ys/bil?x-client-id=ys&utm_id=vpir12&utm_source=ys&utm_medium=affiliate&utm_campaign=sommer-partner_lenke-nettside"
+      "source_url": "https://ys.no/medlemsfordeler/gjensidige/"
     },
     {
       "provider": "YS",
@@ -22,9 +22,36 @@
     },
     {
       "provider": "YS",
+      "retailer": "Storytel",
+      "discount_percentage": 20,
+      "description": "Som YS-medlem får du 30 dager gratis Storytel Premium, og deretter 20 % rabatt på abonnementet.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.storytel.com/no/c/no_partnership_ys_prem_30d20p?utm_source=partnership&utm_medium=Partner&utm_campaign=30dfree20%%20"
+    },
+    {
+      "provider": "YS",
+      "retailer": "Stormberg",
+      "discount_percentage": 25,
+      "description": "25% rabatt! Enten du skal ut på tur, trenger noe nytt til høstens aktiviteter eller bare vil være klar for norsk vær – hos Stormberg finner du klær og utstyr for et aktivt friluftsliv",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.stormberg.com/no/kampanje/ys"
+    },
+    {
+      "provider": "YS",
+      "retailer": "SnapDrive",
+      "discount_percentage": 15,
+      "description": "Som YS-medlem får du 15% rabatt på service og lagerførte deler hos Snap Drive",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://ys.no/snap-drive/"
+    },
+    {
+      "provider": "YS",
       "retailer": "Radisson hotels",
       "discount_percentage": 20,
-      "description": "Her får du som YS-medlem rabatt på 10-20 %. NB! For å få rabatten må dere benytte koden 090673. Koden skal skrives inn i feltet «Corporate Account ID/Bedriftskonto-ID»",
+      "description": "Her får du som YS-medlem rabatt på 10-20 %. NB! For å få rabatten må dere benytte koden 090673. Koden skal skrives inn i feltet \"Corporate Account ID/Bedriftskonto-ID\"",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.radissonhotels.com/no-no/"
@@ -36,7 +63,7 @@
       "description": "Ny og svært god medlemsfordel på inn- og utvendig solskjerming, gardinlengder og garasjeporter! Medlemsrabatt HELE året på ALLE produkter",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.markisemannen.no/ys-fordel/?utm_source=ys_fordel&utm_medium=partner&utm_campaign=ys_fordel_2026"
+      "source_url": "https://www.markisemannen.no/ys-fordel/?utm_source=ys_fordel&utm_medium=partner&utm_campaign=ys_fordel_2026%20"
     },
     {
       "provider": "YS",
@@ -49,7 +76,7 @@
     },
     {
       "provider": "YS",
-      "retailer": "Kinoklubb",
+      "retailer": "Kinoklubben",
       "discount_percentage": 40,
       "description": "Se gode filmer på kino til halv pris! YS-medlemmer får 40 % rabatt og 2 medlemskap til prisen av 1 hos Kinoklubben! Medlemskapet gjelder på over 120 kinoer i hele landet, og gir halv pris på minst 12 kinofilmer hvert år.",
       "online_only": false,
@@ -67,7 +94,7 @@
     },
     {
       "provider": "YS",
-      "retailer": "Kinogavekort",
+      "retailer": "Filmweb",
       "discount_percentage": 10,
       "description": "10% rabatt på Filmweb Kinogavekort Alle medlemmer får 10% rabatt på Filmweb Kinogavekort. Gavekortet kan brukes til kjøp av både kinobilletter og kioskvarer i hele landet. Du kan selv velge beløp, antall gavekort og skrive en hyggelig hilsen.",
       "online_only": false,
@@ -76,7 +103,7 @@
     },
     {
       "provider": "YS",
-      "retailer": "Konfidens",
+      "retailer": "Nion",
       "discount_percentage": null,
       "description": "Samtaleterapi og psykologisk rådgivning Når hverdagen føles overveldende kan Nion hjelpe deg med samtaleterapi og psykologisk rådgivning til deg som er YS medlem og din nærmeste familie.",
       "online_only": false,
@@ -99,7 +126,7 @@
       "description": "25% rabatt på leiebil hos Avis. Benytt kode X199101. Avtalen gjelder ukedager og ikke i helger, og kun i Norge.",
       "online_only": false,
       "requires_code": true,
-      "source_url": "https://www.avis.no/leiebil-tilbud/partnere/andre-partnere/ys"
+      "source_url": "https://www.avis.no/leiebil-tilbud/partnere/andre-partnere/ys%20"
     },
     {
       "provider": "YS",
@@ -117,7 +144,7 @@
       "description": "Som medlem av YS får du 20% på første års medlemskap i Redningsselskapet på assistansemedlemskap og RS-medlem",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://rs.no/ys-medlemsfordel/"
+      "source_url": "https://ys.no/medlemsfordeler/"
     },
     {
       "provider": "YS",
@@ -141,7 +168,7 @@
       "provider": "YS",
       "retailer": "Strawberry",
       "discount_percentage": 18,
-      "description": "18% rabatt på hotell i Norge, Norden og Baltikum i weekend og skoleferie.",
+      "description": "15-18% rabatt på hotell i Norge, Norden og Baltikum i weekend og skoleferie.",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.strawberry.no/ys/?utm_medium=partnerships&utm_source=partnerships&utm_campaign=LPA&utm_content=YS%20Medlemsf%C3%B8rdeler"
@@ -208,15 +235,6 @@
       "online_only": false,
       "requires_code": false,
       "source_url": "https://ultify.io/profile/mitt-lederunivers"
-    },
-    {
-      "provider": "YS",
-      "retailer": "Yskarriereveiviser",
-      "discount_percentage": null,
-      "description": "Er du på jakt etter ny jobb, eller ønsker du å styrke dine muligheter i den jobben du har nå?",
-      "online_only": false,
-      "requires_code": false,
-      "source_url": "https://yskarriereveiviser.inflow24.com/landing-page"
     }
   ]
 }

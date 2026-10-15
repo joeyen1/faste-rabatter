@@ -118,7 +118,17 @@ def parse_product_page(slug: str) -> dict | None:
 
 
 def main():
-    slugs = list_product_slugs()
+    try:
+        slugs = list_product_slugs()
+    except requests.HTTPError as e:
+        if e.response is not None and e.response.status_code == 403:
+            # unio.no ligger bak Cloudflare som blokkerer skript (fra høsten
+            # 2026). Vi omgår ikke bot-beskyttelsen - behold forrige datasett
+            # (unio_medlemsprodukter.json) og oppdater det for hånd via en
+            # vanlig nettleser ved behov, se README.
+            print("unio.no blokkerer skript (403) - beholder eksisterende unio_medlemsprodukter.json")
+            return
+        raise
 
     discounts = []
     for slug in slugs:
