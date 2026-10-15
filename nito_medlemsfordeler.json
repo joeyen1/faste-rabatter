@@ -5,26 +5,26 @@
     {
       "provider": "NITO",
       "retailer": "Bertel O. Steen",
-      "discount_percentage": 5,
-      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Mercedes-Benz personbil: MODELL RABATT GLC 5 % OBS! Kampanje gjelder ut august Les mer om kampanjen GLB 1,5 % og i tillegg gratis vinterdekk ELLER 2,99 % rente på billån OBS! Kampanje gjelder ut august Alle modeller (unntatt kampanjemodeller) 3 % Special Editions 1,5 % Rabattoversikt på Mercedes-Benz personbil: MODELL RABATT GLC 5 % OBS! Kampanje gjelder ut august Les mer om kampanjen GLB 1,5 % og i tillegg gratis vinterdekk ELLER 2,99 % rente på billån OBS! Kampanje gjelder ut august Alle modeller (unntatt kampanjemodeller) 3 % Special Editions 1,5 % Rabattoversikt på Mercedes-Benz varebil: MODELL RABATT Citan 14 % Vito 14 % Sprinter 13 % Minibusser 0 %",
+      "discount_percentage": 4,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Kampanje til 31. desember: 4 % rabatt på eksisterende kampanje på C-Klasse og GLC 3 % rabatt på eksisterende kampanje på GLB og CLA Gyldig ved bestilling av bil innen 31. desember d.å. Se kampanjene her Rabattoversikt på Mercedes-Benz personbil: MODELL RABATT Alle modeller (unntatt kampanjemodeller) 3 % Special Editions 1,5 % Rabattoversikt på Mercedes-Benz personbil: MODELL RABATT Alle modeller (unntatt kampanjemodeller) 3 % Special Editions 1,5 % Rabattoversikt på Mercedes-Benz varebil: MODELL RABATT Citan 14 % Vito 14 % Sprinter 13 % Minibusser 0 %",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.mercedes-benz.no/offers/nye-glc/"
+      "source_url": "https://www.mercedes-benz.no/offers/"
     },
     {
       "provider": "NITO",
       "retailer": "Bertel O. Steen",
-      "discount_percentage": 6,
-      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Opel personbil: MODELL RABATT Helelektrisk 6 % Kampanje til 30. juni på elbil 2 % på gjeldende kampanje, les mer Rabattoversikt på Opel personbil: MODELL RABATT Helelektrisk 6 % Kampanje til 30. juni på elbil 2 % på gjeldende kampanje, les mer Rabattoversikt på Opel varebil: MODELL RABATT Helelektrisk 14 % 4x2: Opel Elite 19 % 4x4: Opel Elite 14 %",
+      "discount_percentage": 10,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Opel personbil: MODELL RABATT Helelektrisk, unntatt Edition 10 % Rabattoversikt på Opel personbil: MODELL RABATT Helelektrisk, unntatt Edition 10 % Rabattoversikt på Opel varebil: MODELL RABATT Combo 4x2 Elektrisk Elite 25 % Vivaro Elektrisk Elite 22 % 4x4 Elektrisk Elite 18 % 4x2 Fossil Elite 19 % 4x4 Fossil Elite 14 %",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.opel.no/tilbud/aktuelle-tilbud.html"
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-opel/"
     },
     {
       "provider": "NITO",
       "retailer": "Bertel O. Steen",
-      "discount_percentage": 8,
-      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Peugeot personbil: MODELL RABATT Helelektrisk 8 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Peugeot personbil: MODELL RABATT Helelektrisk 8 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Peugeot varebil: MODELL RABATT Helelektrisk 4x2 21 % Helelektrisk 4x4 19 % Diesel 4x2 23 % Diesel 4x4 19 %",
+      "discount_percentage": 2,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Akkurat nå får du 2 % rabatt på eksisterende kampanje Rabattoversikt på Peugeot personbil: MODELL RABATT Helelektrisk 8 % Rabattoversikt på Peugeot personbil: MODELL RABATT Helelektrisk 8 % Rabattoversikt på Peugeot varebil: MODELL RABATT Helelektrisk 4x2 21 % Helelektrisk 4x4 19 % Diesel 4x2 23 % Diesel 4x4 19 %",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.peugeot.no/kjop/aktuelle-kampanjer/kampanjer.html"
@@ -32,20 +32,29 @@
     {
       "provider": "NITO",
       "retailer": "Bertel O. Steen",
-      "discount_percentage": 10,
-      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Kia hos Bertel O. Steen. Rabatten gjelder for både personbil og varebil. MODELL RABATT Kia personbil EV3 +EV4 + EV5 + EV6 7,5 % EV2 3,8 % EV9 Air og Exclusive 7,5 % EV9 GT Line og GT 8,8 % PV5 Personbil 10 % Kia varebil EV9 Air og Exclusive varebil 6 % EV9 GT Line og GT varebil 7 % PV5 Cargo 12 %",
+      "discount_percentage": 2,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Kia hos Bertel O. Steen. Rabatten gjelder for både personbil og varebil. Akkurat nå får du 2% i tillegg til kampanje – gjelder på alle personbiler. Nå får du også 5% i tillegg til kampanje på varebil Kampanjene er gyldig ved bestilling av bil før 31.12.26. MODELL RABATT Kia personbil EV3 +EV4 + EV5 + EV6 7,5 % EV2 3,8 % EV9 Air og Exclusive 7,5 % EV9 GT Line og GT 8,8 % PV5 Personbil 10 % Kia varebil EV9 Air og Exclusive varebil 6 % EV9 GT Line og GT varebil 7 % PV5 Cargo 12 %",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-kia/"
+      "source_url": "https://www.kia.no/kampanjer"
     },
     {
       "provider": "NITO",
       "retailer": "Bertel O. Steen",
-      "discount_percentage": 6,
-      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Citroën personbil: MODELL RABATT Helelektrisk, unntatt Citroën ë-C4 Plus og YOU 6 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Citroën personbil: MODELL RABATT Helelektrisk, unntatt Citroën ë-C4 Plus og YOU 6 % Kampanje til 30. juni på utvalgte modeller el- og varebil 2 % på gjeldende kampanje, les mer Rabattoversikt på Citroën varebil: MODELL RABATT Citroën Varebiler 4x4 Elite 14 % 4x2 Elite 19 % Citroën varebil - Work 4x2 Work fossil 15 % 4x2 Work elektrisk 14 %",
+      "discount_percentage": 10,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Citroën personbil: MODELL RABATT Helelektrisk, unntatt YOU/Plus 10 % Rabattoversikt på Citroën personbil: MODELL RABATT Helelektrisk, unntatt YOU/Plus 10 % Rabattoversikt på Citroën varebil: MODELL RABATT Citroën Varebiler Berlingo 4x2 Elektrisk proff 25 % Jumpy Elektrisk Proff 22 % 4x4 Elektrisk Proff 18 % 4x2 Fossil Proff 19 & 4x4 Fossil Proff 14 % 4x2 Work fossil 15 %",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.citroen.no/kjop/kampanjer.html"
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-citroen/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Bertel O. Steen",
+      "discount_percentage": 10,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Fiat personbil: MODELL RABATT Helelektrisk 10 % MODELL RABATT Helelektrisk 10 % Rabattoversikt på Fiat varebil: MODELL RABATT Helelektrisk 14 % 4x2 Pro 19 % 4x4 Pro 14 %",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-fiat/"
     },
     {
       "provider": "NITO",
@@ -149,24 +158,6 @@
     {
       "provider": "NITO",
       "retailer": "Bertel O. Steen",
-      "discount_percentage": 6,
-      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Smart personbil: MODELL RABATT Helelektrisk 6 %",
-      "online_only": false,
-      "requires_code": false,
-      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-ds/"
-    },
-    {
-      "provider": "NITO",
-      "retailer": "Bertel O. Steen",
-      "discount_percentage": 10,
-      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Fiat personbil: MODELL RABATT Helelektrisk 10 % MODELL RABATT Helelektrisk 10 % Rabattoversikt på Fiat varebil: MODELL RABATT Helelektrisk 14 % 4x2 Pro 19 % 4x4 Pro 14 %",
-      "online_only": false,
-      "requires_code": false,
-      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-fiat/"
-    },
-    {
-      "provider": "NITO",
-      "retailer": "Bertel O. Steen",
       "discount_percentage": 10,
       "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Jeep hos Bertel O. Steen. Rabatten gjelder for både helelektriske , plug -in og fossilbiler. NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny Jeep hos Bertel O. Steen. Rabatten gjelder for både helelektriske , plug -in og fossilbiler. Rabattoversikt på Jeep personbil: MODELL RABATT Helelektrisk 10 % Rabatt gjelder ikke for Fiat Grande Panda ICON 0 %",
       "online_only": false,
@@ -176,11 +167,11 @@
     {
       "provider": "NITO",
       "retailer": "Bertel O. Steen",
-      "discount_percentage": 2,
-      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Smart personbil: MODELL RABATT Alle modeller 2 %",
+      "discount_percentage": 5,
+      "description": "NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. NITO har inngått en avtale som gir deg gunstige vilkår ved kjøp av ny bil hos Bertel O. Steen. Rabattoversikt på Smart personbil: MODELL RABATT Kampanje på #5 (2,99% rente eller prisavslag) 5 % Alle modeller 2 %",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-kjop-av-ny-smart/"
+      "source_url": "https://www.smart.no/kampanje"
     },
     {
       "provider": "NITO",
@@ -271,6 +262,24 @@
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-pa-vitensenteret-sorlandet/"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "Tromsøbadet",
+      "discount_percentage": null,
+      "description": "Tromsøbadet er et moderne bade- og velværesenter med tilbud for alle – fra trening i 50-metersbasseng til avslapning i velværeavdeling. Klippekort gir en fleksibel løsning der du kan besøke badet når det passer deg. [ tromsobadet.no ]",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.tromsobadet.no/kjop/klippekort"
+    },
+    {
+      "provider": "NITO",
+      "retailer": "NextGenTel",
+      "discount_percentage": null,
+      "description": "Nå har du muligheten til å spare opptil 4920 kroner i året på bredbånd og opptil 2256 kroner på TV-pakker. Velg blant hastigheter opptil 1000 Mbit/s, populære TV-pakker fra RiksTV, og få tilgang til underholdning, sport og serier til en lavere pris. Tilbudet er tilgjengelig over hele landet gjennom fiber, 5G og 4G.",
+      "online_only": false,
+      "requires_code": false,
+      "source_url": "https://www.nito.no/medlemskap-og-fordeler/medlemsfordeler/rabatt-hos-nextgentel/"
     }
   ]
 }

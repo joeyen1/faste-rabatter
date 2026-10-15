@@ -22,15 +22,6 @@
     },
     {
       "provider": "Norsk Manuellterapeutforening",
-      "retailer": "Skrift.md",
-      "discount_percentage": null,
-      "description": "Skrift er et KI-drevet verktøy for norsk helsepersonell som automatisk transformerer pasientsamtaler til presise og strukturerte journalnotater.",
-      "online_only": false,
-      "requires_code": false,
-      "source_url": "https://manuell.no/rabattavtaler/?Article=13585"
-    },
-    {
-      "provider": "Norsk Manuellterapeutforening",
       "retailer": "Xpeng",
       "discount_percentage": null,
       "description": "Rabatt ved kjøp av ny Xpeng",

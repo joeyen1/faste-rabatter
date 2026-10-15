@@ -274,7 +274,7 @@
       "provider": "LOfavør",
       "retailer": "Feriereiser",
       "discount_percentage": null,
-      "description": "Du har medlemsfordeler på feriereiser! Som medlem får du alltid 350 kroner i rabatt per person på alle charterreiser med fly og hotell fra Apollo. I tillegg har du en gratis ombooking og kan endre navn på billetten uten kostnad. Bruk rabattkode LOF275 ved ordinær bestilling. OBS! Ved kampanjer er det andre rabattkoder som gjelder, se etter kode i kampanjeboks.",
+      "description": "Du har medlemsfordeler på feriereiser! Som medlem får du alltid 350 kroner i rabatt per person på alle charterreiser med fly og hotell fra Apollo. I tillegg har du en gratis ombooking og kan endre navn på billetten uten kostnad. Bruk rabattkode LOF6652 ved ordinær bestilling. OBS! Ved kampanjer er det andre rabattkoder som gjelder, se etter kode i kampanjeboks.",
       "online_only": false,
       "requires_code": true,
       "source_url": "https://www.apollo.no/billige-reiser/lofavor",
@@ -357,7 +357,7 @@
       "description": "Som medlem får du rabatt på inntil 4 billettar per framsyning* på Det Norske Teatret. Teatret byr på klassiske og moderne stykker, musikalar, komedier og drama – for deg og heile familien",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.detnorsketeatret.no/framsyningar/pippi-pa-sirkus",
+      "source_url": "https://www.detnorsketeatret.no/framsyningar/juleroser",
       "lofavor_page": "https://www.lofavor.no/ferie-og-opplevelser/det-norske-teateret"
     },
     {
@@ -374,7 +374,7 @@
       "provider": "LOfavør",
       "retailer": "Notodden Blues Festival",
       "discount_percentage": null,
-      "description": "Europas beste bluesopplevelse! Arrangeres nå for 38. gang fra 30. juli til 2. august 2026. Gjennom årene har festivalen tiltrukket både etablerte legender og nye talenter fra hele verden, og den har spilt en viktig rolle i å bevare bluesens tradisjoner samtidig som den har vært en arena for nytolkning og eksperimentering. Med sin unike beliggenhet i Notoddens historiske industrimiljø har festivalen skapt en autentisk og uforglemmelig opplevelse som forener mennesker på tvers av generasjoner og kulturer. Opplev artister som: Kenny Wayne Shephard band, The Darkness, Vanessa Collier, DumDum Boys. Blood Brothers, Raga Rockers, Good Time Charlie, Adama Janlo og mange fler.",
+      "description": "Europas beste bluesopplevelse! Arrangeres nå for 38. gang fra 30. juli til 2. august 2026. Gjennom årene har festivalen tiltrukket både etablerte legender og nye talenter fra hele verden, og den har spilt en viktig rolle i å bevare bluesens tradisjoner samtidig som den har vært en arena for nytolkning og eksperimentering. Med sin unike beliggenhet i Notoddens historiske industrimiljø har festivalen skapt en autentisk og uforglemmelig opplevelse som forener mennesker på tvers av generasjoner og kulturer. Opplev artister som: Kenny Wayne Shephard band, The Darkness, Vanessa Collier, DumDum Boys. Blood Brothers, Raga Rockers, Good Time Charlie, Adama Janlo og mange fler. Billettene med rabatt er nå utsolgt. Sjekk festivalens egen nettside for billetter.",
       "online_only": false,
       "requires_code": false,
       "source_url": "https://www.ticketmaster.no/event/263824721?CL_ORIGIN=ORIGIN4",
@@ -462,7 +462,7 @@
     },
     {
       "provider": "LOfavør",
-      "retailer": "Ny medlemsfordel - begravelsesbyrå gjennom LOfavør",
+      "retailer": "Begravelsesbyrå gjennom LOfavør",
       "discount_percentage": null,
       "description": "Når et dødsfall inntreffer, ønsker de fleste å snakke med et begravelsesbyrå raskt. Spørsmålene er mange og mye skal avklares på kort tid. Som medlem får du fordeler hos Fonus begravelsesbyrå. Deres telefon er betjent hele døgnet, også i helger.",
       "online_only": false,
@@ -527,7 +527,7 @@
       "description": "Skal du leie leilighet, men mangler penger til depositumet? Med LOfavør Depositumlån kan du låne pengene du mangler i SpareBank 1.",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.sparebank1.no/nb/bank/privat/lofavor/lofavor-depositumslan.html",
+      "source_url": "https://kreditt.sparebank1.no/adgang/sparebank1/soknad/lofavor-forbrukslan?salgsdistributor=LOFAVOR",
       "lofavor_page": "https://www.lofavor.no/bank/depositumslan"
     },
     {
@@ -582,23 +582,23 @@
     },
     {
       "provider": "LOfavør",
-      "retailer": "LOfavør Mastercard",
+      "retailer": "LOfavør Kredittkort",
       "discount_percentage": null,
-      "description": "Som medlem får du gode medlemsfordeler på LOfavør Mastercard, levert av SpareBank 1. Betaler du med LOfavør Mastercard kan du få dekket egenandel ved skade på leiebil med inntil 12 000 kroner og hvis du blir forhindret fra å dra på en konsert, kultur- eller sportsarrangement, kan du få dekket prisen for opptil 5 underholdningsbilletter.",
+      "description": "Som medlem får du gode medlemsfordeler på LOfavør Kredittkort, levert av SpareBank 1. Betaler du med LOfavør Kredittkort kan du få dekket egenandel ved skade på leiebil med inntil 12 000 kroner og hvis du blir forhindret fra å dra på en konsert, kultur- eller sportsarrangement, kan du få dekket prisen for opptil 5 underholdningsbilletter.",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.lo.no/bli-medlem/",
-      "lofavor_page": "https://www.lofavor.no/bank/lofavor-mastercard"
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/innlogging/logg-inn.html",
+      "lofavor_page": "https://www.lofavor.no/bank/kredittkort"
     },
     {
       "provider": "LOfavør",
-      "retailer": "LOfavør Mastercard Ung",
+      "retailer": "LOfavør Kredittkort Ung",
       "discount_percentage": 20,
-      "description": "Du som er mellom 18-34 år får ekstra gode medlemsfordeler på LOfavør Mastercard Ung, levert av SpareBank 1. Betaler du med LOfavør Mastercard Ung får du 20 % rabatt på strømmetjenester og du kan få dekket prisen for opptil 5 underholdningsbilletter hvis du blir forhindret fra å dra på en konsert, kultur- eller sportsarrangement.",
+      "description": "Du som er mellom 18-34 år får ekstra gode medlemsfordeler på LOfavør Kredittkort Ung, levert av SpareBank 1. Betaler du med LOfavør Kredittkort Ung får du 20 % rabatt på strømmetjenester og du kan få dekket prisen for opptil 5 underholdningsbilletter hvis du blir forhindret fra å dra på en konsert, kultur- eller sportsarrangement.",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.lo.no/bli-medlem/",
-      "lofavor_page": "https://www.lofavor.no/bank/lofavor-mastercard-ung"
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/innlogging/logg-inn.html",
+      "lofavor_page": "https://www.lofavor.no/bank/kredittkort-ung"
     },
     {
       "provider": "LOfavør",
@@ -617,7 +617,7 @@
       "description": "Du har medlemsfordel på LOfavør Refinansiering, levert av SpareBank 1.",
       "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.lo.no/bli-medlem/",
+      "source_url": "https://www.sparebank1.no/nb/bank/privat/innlogging/logg-inn.html",
       "lofavor_page": "https://www.lofavor.no/bank/refinansiering"
     },
     {
