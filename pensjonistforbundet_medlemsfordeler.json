@@ -240,10 +240,10 @@
       "provider": "Pensjonistforbundet",
       "retailer": "Hadeland Glassverk",
       "discount_percentage": 15,
-      "description": "15 % rabatt - 15 % rabatt på varer og egne opplevelsespakker på glassverket - På Hadeland Glassverk kan du oppleve glassblåsning på nært hold. Det finnes flere spennende opplevelsesprodukter, som blant annet historisk vandring. Det er også mulig å blåse sitt eget glass. Et godt utvalg butikker og spisesteder legger til rette for en hyggelig dag i naturskjønne omgivelser. #### Ordinær medlemsfordel - 15% på ordinære varer på Hadeland Glassverk - 15% på ordinære varer i [nettbutikken](https://www.cg.no/collections/merker-hadeland-glassverk?gad_source=1&gad_campaignid=22780846047&gclid=Cj0KCQjwt9jVBhDXARIsAFSP-6ctmtxf84c9-l1O56ywlwz8AOu_jcXeLXn3kdQKd_pIVxGLuIlHqZ4aAsYvEALw_wcB) - Gode priser på ulike [opplevelser på glassverket](https://www.hadeland.com/pages/medlemsfordeler-pensjonistforbundet-pa-hadeland-glassverk) - 15 % rabatt på overnatting hos [Thorbjørnrud hotell](https://www.pensjonistforbundet.no/medlemsfordeler/thorbjornrud-hotell) (Rabatten gjelder ikke belysning, Icon glass, eller mat og drikke) Les mer om tilbudet [her](https://www.hadeland.com/pages/medlemsfordeler-pensjonistforbundet-pa-hadeland-glassverk)",
-      "online_only": true,
+      "description": "15 % rabatt - 15 % rabatt på varer og egne opplevelsespakker på glassverket - På Hadeland Glassverk kan du oppleve glassblåsning på nært hold. Det finnes flere spennende opplevelsesprodukter, som blant annet historisk vandring. Det er også mulig å blåse sitt eget glass. Et godt utvalg butikker og spisesteder legger til rette for en hyggelig dag i naturskjønne omgivelser.",
+      "online_only": false,
       "requires_code": false,
-      "source_url": "https://www.cg.no/collections/merker-hadeland-glassverk?gad_source=1&gad_campaignid=22780846047&gclid=Cj0KCQjwt9jVBhDXARIsAFSP-6ctmtxf84c9-l1O56ywlwz8AOu_jcXeLXn3kdQKd_pIVxGLuIlHqZ4aAsYvEALw_wcB"
+      "source_url": "https://www.hadeland.com/pages/host-pa-hadeland-glassverk"
     },
     {
       "provider": "Pensjonistforbundet",
